@@ -61,7 +61,7 @@ like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%
 | GData | https://www.gdatasoftware.com/faq/consumer/submit-a-suspicious-file-app-or-url | |
 | Hacksoft | virus@hacksoft.com.pe | |
 | Hauri | viruslab@hauri.co.kr | |
-| Ikarus | fp@ikarus.at, samples@ikarus.at | |
+| Ikarus | fp@ikarus.at, samples@ikarus.at | [Send Report](vendors/Ikarus.md) |
 | Invincea | info@invincea.com | |
 | Jiangmin | support@jiangmin.com, shaojia@jiangmin.com | |
 | K7 | reportfp@labs.k7computing.com, k7viruslab@labs.k7computing.com | |
