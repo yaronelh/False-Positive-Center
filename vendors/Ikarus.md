@@ -2,7 +2,7 @@
 
 Email template below is based on the recommended process by McAfee slightly adjusted for Virus Total detections
 
-[Send Email](mailto:fp@ikarus.at?cc=samples@ikarus.at&subject=False%20Positive%20Detection%20Report%20-%20Virus%20Total&body=Hi%20ikarus%2C%0A%0AMy%20Program%20Is%20Falsely%20Detected%20With%20XXXXXXXXX%20in%20VirusTotal%2C%20Please%20double%20check.%0A%0AVirus%20totaled%20link%3A%0AXXXXXXXXXX%0A%0ABest%20Regards%0A%0A%5Bfalse-positive%20center%20github%5D)
+[Send Email](mailto:fp@ikarus.at?cc=samples@ikarus.at&subject=False%20Positive%20Detection%20Report%20-%20Virus%20Total&body=Hi%20ikarus%2C%0A%0AMy%20Program%20Is%20Falsely%20Detected%20With%20XXXXXXXXX%20in%20Virus%20Total%2C%20can%20you%20please%20double%20check.%0A%0AVirus%20totaled%20link%3A%0AXXXXXXXXXX%0A%0ABest%20Regards%0AXXXXXXXXXX%0A%0A%5Bfalse-positive%20center%20github%5D)
 
 #### Email Format
 ```
@@ -11,12 +11,13 @@ False Positive Detection Report - Virus Total
 ```
 Hi ikarus,
 
-My Program Is Falsely Detected With XXXXXXXXX in Virus Total, Please double check.
+My Program Is Falsely Detected With XXXXXXXXX in Virus Total, can you please double check.
 
 Virus totaled link:
 XXXXXXXXXX
 
 Best Regards
+XXXXXXXXXX
 
 [false-positive center github]
 ```
