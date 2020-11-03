@@ -13,7 +13,7 @@ Please use Pull requests to:
 - Change out-of-date information
 
 When contributing an email template to the repository you can use [https://mailtolink.me/](https://mailtolink.me/) to create a formatted mailto template
-like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%20detected%20by%20McAfee.&?body=Hi%2C%0D%0A%0D%0AMy%20Program%20Is%20Falsely%20Detected%20With%20XXXXXXXXX%20in%20Virus%20Total%2C%20Please%20double%20check.%0D%0AProduct%3A%20McAfee%20At%20Virus%20Total%0D%0AEngine%3A%20unknown%0D%0A%0D%0AVirus%20totaled%20linked%3A%0D%0AXXXXXXXXXX%0D%0A%0D%0ABest%20Regards%0D%0A%0D%0A%5Bfalse-positive%20center%20github%5D)
+like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%20detected%20by%20McAfee.&body=Hi%2C%0D%0A%0D%0AMy%20Program%20Is%20Falsely%20Detected%20With%20XXXXXXXXX%20in%20Virus%20Total%2C%20Please%20double%20check.%0D%0AProduct%3A%20McAfee%20At%20Virus%20Total%0D%0AEngine%3A%20unknown%0D%0A%0D%0AVirus%20totaled%20linked%3A%0D%0AXXXXXXXXXX%0D%0A%0D%0ABest%20Regards%0D%0A%0D%0A%5Bfalse-positive%20center%20github%5D)
 
 
 
