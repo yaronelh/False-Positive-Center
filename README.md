@@ -107,7 +107,7 @@ like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%
 
 
 ### Contributors
-Yaron Elharar, You??
+Yaron Elharar, You??...
 
 #### Special Thanks
 Ana Tinoco from VirusTotal support, and the VirusTotal support team for making the initial contact information list. 
