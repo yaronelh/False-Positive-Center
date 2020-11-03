@@ -70,8 +70,8 @@ like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%
 | Malwares.com (Saint Security) | kog@stsc.com | |
 | MAX (SaintSecurity) | root@malwares.com | |
 | MaxSecure | tech@maxpcsecure.com | |
-| McAfee | virus_research@mcafee.com | [View/Send](vendors/McAfee.md) |
-| McAfee-GW | virus_research_gateway@avertlabs.com | [View/Send](vendors/McAfee.md) |
+| McAfee | virus_research@mcafee.com | [Send Report](vendors/McAfee.md) |
+| McAfee-GW | virus_research_gateway@avertlabs.com | [Send Report](vendors/McAfee.md) |
 | Microsoft | mmpc@submit.microsoft.com | |
 | Microworld | samples@escanav.com | |
 | NANO | http://www.nanoav.ru/index.php?option=com_content&view=article&id=15&Itemid=83&lang=en, false@nanoav.ru |  |
