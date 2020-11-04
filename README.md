@@ -46,7 +46,7 @@ like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%
 | Cybereason | vt-feedback@cybereason.com | |
 | Cylance | cylancefilesubmit@cylance.com | |
 | CyRadar | virustotal@cyradar.com | |
-| Cynet |	soc@cynet.com | |
+| Cynet |	soc@cynet.com |  [Send Report](vendors/Cynet.md) |
 | DNS8 | dns8@layer8.pt | |
 | DrWeb: | vms@drweb.com | |
 | eGambit (Tehtris) | https://tehtris.com/egambit_fp.php, virus@tehtri-security.com  |
