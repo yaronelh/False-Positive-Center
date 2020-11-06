@@ -70,7 +70,7 @@ like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%
 | MaxSecure | tech@maxpcsecure.com | | |
 | McAfee | virus_research@mcafee.com | [Send Report](vendors/McAfee.md) | No |
 | McAfee-GW | virus_research_gateway@avertlabs.com | [Send Report](vendors/McAfee.md) | No |
-| Microsoft | mmpc@submit.microsoft.com | | |
+| Microsoft | https://www.microsoft.com/en-us/wdsi/filesubmission (Recommended),<br>mmpc@submit.microsoft.com | | Yes |
 | Microworld | samples@escanav.com | | |
 | NANO | http://www.nanoav.ru/index.php?option=com_content&view=article&id=15&Itemid=83&lang=en, false@nanoav.ru |  |  |
 | Netcraft | https://report.netcraft.com/report/mistake | | |
