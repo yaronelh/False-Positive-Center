@@ -22,7 +22,7 @@ like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%
 | AegisLab | support@aegislab.com | | |
 | Agnitum | trojans@agnitum.com | | |
 | Ahnlab | e-support@ahnlab.com, samples@ahnlab.com | | |
-| Alibaba | virustotal@list.alibaba-inc.com | | |
+| Alibaba | virustotal@list.alibaba-inc.com | [Send Report](vendors/Alibaba.md) | | 
 | Alyac (Estsoft) | esrc@estsecurity.com | | |
 | Antivir | cleanset@avira.com, virus_malware@avira.com, virus@avira.com | | |
 | Antiy | avlsdk_support_vt@antiy.cn | | |
