@@ -17,91 +17,93 @@ like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%
 
 | ENGINE | Contact | Email Template | Issues A Case Number |
 |:--- | :--- | :---: | :---: |
-| 360 | kefu@360.cn | | |
-| Acronis | virustotal-falsepositive@acronis.com | | |
-| AegisLab | support@aegislab.com | | |
-| Agnitum | trojans@agnitum.com | | |
-| Ahnlab | e-support@ahnlab.com, samples@ahnlab.com | | |
-| Alibaba | virustotal@list.alibaba-inc.com | [Send Report](vendors/Alibaba.md) | | 
-| Alyac (Estsoft) | esrc@estsecurity.com | | |
-| Antivir | cleanset@avira.com, virus_malware@avira.com, virus@avira.com | | |
-| Antiy | avlsdk_support_vt@antiy.cn | | |
-| Avast | virus@avast.com | | |
+| 360 | kefu<span><span>@</span></span>360.cn | | |
+| Acronis | virustotal-falsepositive<span>@</span>acronis.com | | |
+| AegisLab | support<span>@</span>aegislab.com | | |
+| Agnitum | trojans<span>@</span>agnitum.com | | |
+| Ahnlab | e-support<span>@</span>ahnlab.com, samples<span>@</span>ahnlab.com | | |
+| Alibaba | virustotal<span>@</span>list.alibaba-inc.com | [Send Report](vendors/Alibaba.md) | | 
+| Alyac (Estsoft) | esrc<span>@</span>estsecurity.com | | |
+| Antivir | cleanset<span>@</span>avira.com, virus_malware<span>@</span>avira.com, virus<span>@</span>avira.com | | |
+| Antiy | avlsdk_support_vt<span>@</span>antiy.cn | | |
+| Avast | virus<span>@</span>avast.com | | |
 | AVG | http://www.avg.com/submit-sample, http://www.avg.com/us-en/whitelist | | |
-| Babable | obu@babable.com | | |
-| Baidu | bav@baidu.com, gaoyingchun@baidu.com | | |
-| BitDefender | virus_submission@bitdefender.com | | |
-| Bkav | fpreport@bkav.com, bkav@bkav.com | | |
-| ByteHero | bytehero@163.com | | |
+| Babable | obu<span>@</span>babable.com | | |
+| Baidu | bav<span>@</span>baidu.com, gaoyingchun<span>@</span>baidu.com | | |
+| BitDefender | virus_submission<span>@</span>bitdefender.com | | |
+| Bkav | fpreport<span>@</span>bkav.com, bkav<span>@</span>bkav.com | | |
+| ByteHero | bytehero<span>@</span>163.com | | |
 | Certego | https://www.certego.net/en/contatti/ | | |
 | ClamAV | http://www.clamav.net/reports/fp | | |
-| Clean-MX | abuse@clean-mx.de | | |
-| CMC | vulambang@cmcinfosec.com, support.is@cmclab.net | | |
-| Comodo | malwaresubmit@avlab.comodo.com | | |
-| CRDF | labs@crdf.fr | | |
-| CrowdStrike | VTscanner@crowdstrike.com | | |
-| CyanSecurity | virustotal@cyansecurity.com | | |
-| Cybereason | vt-feedback@cybereason.com | | |
-| Cylance | cylancefilesubmit@cylance.com | | |
-| CyRadar | virustotal@cyradar.com | | |
-| Cynet |	soc@cynet.com |  [Send Report](vendors/Cynet.md) | Yes |
-| DNS8 | dns8@layer8.pt | | |
-| DrWeb: | vms@drweb.com | | |
-| eGambit (Tehtris) | https://tehtris.com/egambit_fp.php, virus@tehtri-security.com  |  |  |
-| Emsisoft | submit@emsisoft.com or fp@emsisoft.com (false positives), https://www.emsisoft.com/en/support/contact/ | | |
-| Endgame | info@endgame.com | | |
+| Clean-MX | abuse<span>@</span>clean-mx.de | | |
+| CMC | vulambang<span>@</span>cmcinfosec.com, support.is<span>@</span>cmclab.net | | |
+| Comodo | malwaresubmit<span>@</span>avlab.comodo.com | | |
+| CRDF | labs<span>@</span>crdf.fr | | |
+| CrowdStrike | VTscanner<span>@</span>crowdstrike.com | | |
+| CyanSecurity | virustotal<span>@</span>cyansecurity.com | | |
+| Cybereason | vt-feedback<span>@</span>cybereason.com | | |
+| Cylance | cylancefilesubmit<span>@</span>cylance.com | | |
+| CyRadar | virustotal<span>@</span>cyradar.com | | |
+| Cynet |	soc<span>@</span>cynet.com |  [Send Report](vendors/Cynet.md) | Yes |
+| DNS8 | dns8<span>@</span>layer8.pt | | |
+| DrWeb: | vms<span>@</span>drweb.com | | |
+| eGambit (Tehtris) | https://tehtris.com/egambit_fp.php, virus<span>@</span>tehtri-security.com  |  |  |
+| Emsisoft | submit<span>@</span>emsisoft.com or fp<span>@</span>emsisoft.com (false positives), https://www.emsisoft.com/en/support/contact/ | | |
+| Endgame | info<span>@</span>endgame.com | | |
 | ESET | https://support.eset.com/kb141/?page=content&id=SOLN141 | | |
-| FireEye | virustotal@fireeye.com | | |
-| F-Prot | viruslab@f-prot.com | | |
-| F-Secure | spyware-samples@f-secure.com, vsamples@f-secure.com | | |
-| Forcepoint (websense) | suggest@forcepoint.com | | |
-| Fortinet | submitvirus@fortinet.com | | |
+| FireEye | virustotal<span>@</span>fireeye.com | | |
+| F-Prot | viruslab<span>@</span>f-prot.com | | |
+| F-Secure | spyware-samples<span>@</span>f-secure.com, vsamples<span>@</span>f-secure.com | | |
+| Forcepoint (websense) | suggest<span>@</span>forcepoint.com | | |
+| Fortinet | submitvirus<span>@</span>fortinet.com | | |
 | GData | https://www.gdatasoftware.com/faq/consumer/submit-a-suspicious-file-app-or-url | | |
-| Hacksoft | virus@hacksoft.com.pe | | |
-| Hauri | viruslab@hauri.co.kr | | |
-| Ikarus | fp@ikarus.at, samples@ikarus.at | [Send Report](vendors/Ikarus.md) | No |
-| Invincea | info@invincea.com | | |
-| Jiangmin | support@jiangmin.com, shaojia@jiangmin.com | | |
-| K7 | reportfp@labs.k7computing.com, k7viruslab@labs.k7computing.com | | |
-| Kaspersky: | newvirus@kaspersky.com | | |
-| Kingsoft (Cheetah) | operation@cmcm.com | | |
-| Malwares.com (Saint Security) | kog@stsc.com | | |
-| MAX (SaintSecurity) | root@malwares.com | | |
-| MaxSecure | tech@maxpcsecure.com | | |
-| McAfee | virus_research@mcafee.com | [Send Report](vendors/McAfee.md) | No |
-| McAfee-GW | virus_research_gateway@avertlabs.com | [Send Report](vendors/McAfee.md) | No |
-| Microsoft | https://www.microsoft.com/en-us/wdsi/filesubmission (Recommended),<br>mmpc@submit.microsoft.com | | Yes |
-| Microworld | samples@escanav.com | | |
-| NANO | http://www.nanoav.ru/index.php?option=com_content&view=article&id=15&Itemid=83&lang=en, false@nanoav.ru |  |  |
+| Hacksoft | virus<span>@</span>hacksoft.com.pe | | |
+| Hauri | viruslab<span>@</span>hauri.co.kr | | |
+| Ikarus | fp<span>@</span>ikarus.at, samples<span>@</span>ikarus.at | [Send Report](vendors/Ikarus.md) | No |
+| Invincea | info<span>@</span>invincea.com | | |
+| Jiangmin | support<span>@</span>jiangmin.com, shaojia<span>@</span>jiangmin.com | | |
+| K7 | reportfp<span>@</span>labs.k7computing.com, k7viruslab<span>@</span>labs.k7computing.com | | |
+| Kaspersky: | newvirus<span>@</span>kaspersky.com | | |
+| Kingsoft (Cheetah) | operation<span>@</span>cmcm.com | | |
+| Malwares.com (Saint Security) | kog<span>@</span>stsc.com | | |
+| MAX (SaintSecurity) | root<span>@</span>malwares.com | | |
+| MaxSecure | tech<span>@</span>maxpcsecure.com | | |
+| McAfee | virus_research<span>@</span>mcafee.com | [Send Report](vendors/McAfee.md) | No |
+| McAfee-GW | virus_research_gateway<span>@</span>avertlabs.com | [Send Report](vendors/McAfee.md) | No |
+| Microsoft | https://www.microsoft.com/en-us/wdsi/filesubmission (Recommended),<br>mmpc<span>@</span>submit.microsoft.com | | Yes |
+| Microworld | samples<span>@</span>escanav.com | | |
+| NANO | http://www.nanoav.ru/index.php?option=com_content&view=article&id=15&Itemid=83&lang=en, false<span>@</span>nanoav.ru |  |  |
 | Netcraft | https://report.netcraft.com/report/mistake | | |
-| Norman: | analysis@norman.no, support@norman.com | | |
-| nProtect (Inca) | virus_info@inca.co.kr | | |
-| Palo Alto | vt-pan-false-positive@paloaltonetworks.com | | |
-| Panda | falsepositives@pandasecurity.com, virussamples@pandasecurity.com | | |
+| Norman: | analysis<span>@</span>norman.no, support<span>@</span>norman.com | | |
+| nProtect (Inca) | virus_info<span>@</span>inca.co.kr | | |
+| Palo Alto | vt-pan-false-positive<span>@</span>paloaltonetworks.com | | |
+| Panda | falsepositives<span>@</span>pandasecurity.com, virussamples<span>@</span>pandasecurity.com | | |
 | Phising Database | https://github.com/mitchellkrogza/Phishing.Database#please-remove-my-domain-from-this-list- | | |
-| Qihoo360 | support@360safe.com | | |
-| QuickHeal | viruslab@quickheal.com | | |
+| Qihoo360 | support<span>@</span>360safe.com | | |
+| QuickHeal | viruslab<span>@</span>quickheal.com | | |
 | Rising | http://mailcenter.rising.com.cn/filecheck_en/ | | |
-| Sangfor | save@sangfor.com.cn | | |
+| Sangfor | save<span>@</span>sangfor.com.cn | | |
 | SecureAge | https://www.secureaplus.com/features/antivirus/report-false-positive/ | - | Yes |
-| Sentinel One | report@sentinelone.com | | |
-| Sophos | samples@sophos.com | | |
+| Sentinel One | report<span>@</span>sentinelone.com | | |
+| Sophos | samples<span>@</span>sophos.com | | |
 | Spamhaus | https://www.spamhaus.org/dbl/removal/form/ | | |
-| Symantec | https://submit.symantec.com/false_positive/, avsubmit@symantec.com | | |
-| Tencent | TAVfp@tencent.com | | |
-| TheHacker | virus@hacksoft.com.pe , falsopositivo@hacksoft.com.pe | | |
-| Trapmine | fp@trapmine.com | | |
-| TrendMicro | https://www.trendmicro.com/en_us/about/legal/detection-reevaluation.html, virus@trendmicro.com, virus_doctor@trendmicro.com,  http://esupport.trendmicro.com/solution/en-us/1037634.aspx | | |
-| Trustwave | ADavidi@trustwave.com | | |
-| Trustlook | bd@trustlook.com | | |
-| VBA32: | feedback@anti-virus.by | | |
-| VirusDie | partners@virusdie.com | | |
+| Symantec | https://submit.symantec.com/false_positive/, avsubmit<span>@</span>symantec.com | | |
+| Tencent | TAVfp<span>@</span>tencent.com | | |
+| TheHacker | virus<span>@</span>hacksoft.com.pe , falsopositivo<span>@</span>hacksoft.com.pe | | |
+| Trapmine | fp<span>@</span>trapmine.com | | |
+| TrendMicro | https://www.trendmicro.com/en_us/about/legal/detection-reevaluation.html, virus<span>@</span>trendmicro.com, virus_doctor<span>@</span>trendmicro.com,  http://esupport.trendmicro.com/solution/en-us/1037634.aspx | | |
+| Trustwave | ADavidi<span>@</span>trustwave.com | | |
+| Trustlook | bd<span>@</span>trustlook.com | | |
+| VBA32: | feedback<span>@</span>anti-virus.by | | |
+| VirusDie | partners<span>@</span>virusdie.com | | |
 | Webroot | https://www.webroot.com/us/en/business/support/vendor-dispute-contact-us | | |
-| Yomi | yomi-false-positives@yoroi.company | | |
-| Yandex | yandex-antivir@support.yandex.ru | | |
-| Zillya | virus@zillya.com | | |
-| ZoneAlarm | zonealarm_VT_reports@checkpoint.com | | |
-| Zoner | false@zonerantivirus.com | | |
+| Yomi | yomi-false-positives<span>@</span>yoroi.company | | |
+| Yandex | yandex-antivir<span>@</span>support.yandex.ru | | |
+| Zillya | virus<span>@</span>zillya.com | | |
+| ZoneAlarm | zonealarm_VT_reports<span>@</span>checkpoint.com | | |
+| Zoner | false<span>@</span>zonerantivirus.com | | |
+
+
 
 
 ### Contributors
