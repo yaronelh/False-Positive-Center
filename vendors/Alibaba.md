@@ -13,7 +13,7 @@ Hi Alibaba,
 
 My Program Is Falsely Detected With "XXXXXXXXX" in Virus Total, can you please double check.
 
-Virus totaled link:
+VirusTotal link:
 XXXXXXXXXX
 
 Best Regards
