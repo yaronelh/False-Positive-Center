@@ -82,7 +82,7 @@ like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%
 | Qihoo360 | support<span>@</span>360safe.com | | |
 | QuickHeal | viruslab<span>@</span>quickheal.com | | |
 | Rising | http://mailcenter.rising.com.cn/filecheck_en/ | | |
-| Sangfor Engine Zero | save<span>@</span>sangfor.com.cn | [Send Report](vendors/Sangfor.md) | |
+| Sangfor Engine Zero | save<span>@</span>sangfor.com.cn | [Send Report](vendors/Sangfor.md) | No |
 | SecureAge | https://www.secureaplus.com/features/antivirus/report-false-positive/ | - | Yes |
 | Sentinel One | report<span>@</span>sentinelone.com | | |
 | Sophos | samples<span>@</span>sophos.com | | |
