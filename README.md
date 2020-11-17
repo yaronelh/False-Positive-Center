@@ -21,7 +21,7 @@ like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%
 | Acronis | virustotal-falsepositive<span>@</span>acronis.com | | |
 | AegisLab | support<span>@</span>aegislab.com | | |
 | Agnitum | trojans<span>@</span>agnitum.com | | |
-| Ahnlab | e-support<span>@</span>ahnlab.com, samples<span>@</span>ahnlab.com | | |
+| AhnLab-V3 | e-support<span>@</span>ahnlab.com, samples<span>@</span>ahnlab.com | [Send Report](vendors/AhnLab-V3.md) | |
 | Alibaba | virustotal<span>@</span>list.alibaba-inc.com | [Send Report](vendors/Alibaba.md) | | 
 | Alyac (Estsoft) | esrc<span>@</span>estsecurity.com | | |
 | Antivir | cleanset<span>@</span>avira.com, virus_malware<span>@</span>avira.com, virus<span>@</span>avira.com | | |
