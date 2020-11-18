@@ -21,8 +21,8 @@ like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%
 | Acronis | virustotal-falsepositive<span>@</span>acronis.com | | |
 | AegisLab | support<span>@</span>aegislab.com | | |
 | Agnitum | trojans<span>@</span>agnitum.com | | |
-| AhnLab-V3 | e-support<span>@</span>ahnlab.com, samples<span>@</span>ahnlab.com | [Send Report](vendors/AhnLab-V3.md) | |
-| Alibaba | virustotal<span>@</span>list.alibaba-inc.com | [Send Report](vendors/Alibaba.md) | | 
+| AhnLab-V3 | e-support<span>@</span>ahnlab.com, samples<span>@</span>ahnlab.com | [Send Report](vendors/AhnLab-V3.md) | No |
+| Alibaba | virustotal<span>@</span>list.alibaba-inc.com | [Send Report](vendors/Alibaba.md) | No | 
 | Alyac (Estsoft) | esrc<span>@</span>estsecurity.com | | |
 | Antivir | cleanset<span>@</span>avira.com, virus_malware<span>@</span>avira.com, virus<span>@</span>avira.com | | |
 | Antiy | avlsdk_support_vt<span>@</span>antiy.cn | | |
@@ -79,7 +79,7 @@ like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%
 | Palo Alto | vt-pan-false-positive<span>@</span>paloaltonetworks.com | | |
 | Panda | falsepositives<span>@</span>pandasecurity.com, virussamples<span>@</span>pandasecurity.com | | |
 | Phising Database | https://github.com/mitchellkrogza/Phishing.Database#please-remove-my-domain-from-this-list- | | |
-| Qihoo360 | support<span>@</span>360safe.com | | |
+| Qihoo360 | support<span>@</span>360safe.com | [Send Report](vendors/Qihoo-360.md) | |
 | QuickHeal | viruslab<span>@</span>quickheal.com | | |
 | Rising | http://mailcenter.rising.com.cn/filecheck_en/ | | |
 | Sangfor Engine Zero | save<span>@</span>sangfor.com.cn | [Send Report](vendors/Sangfor.md) | No |
