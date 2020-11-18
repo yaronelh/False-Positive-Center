@@ -69,7 +69,7 @@ like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%
 | MAX (SaintSecurity) | root<span>@</span>malwares.com | | |
 | MaxSecure | tech<span>@</span>maxpcsecure.com | | |
 | McAfee | virus_research<span>@</span>mcafee.com | [Send Report](vendors/McAfee.md) | No |
-| McAfee-GW | virus_research_gateway<span>@</span>avertlabs.com | [Send Report](vendors/McAfee.md) | No |
+| McAfee-GW | virus_research_gateway<span>@</span>avertlabs.com | [Send Report](vendors/McAfee-GW.md) | No |
 | Microsoft | https://www.microsoft.com/en-us/wdsi/filesubmission (Recommended),<br>mmpc<span>@</span>submit.microsoft.com | | Yes |
 | Microworld | samples<span>@</span>escanav.com | | |
 | NANO | http://www.nanoav.ru/index.php?option=com_content&view=article&id=15&Itemid=83&lang=en, false<span>@</span>nanoav.ru |  |  |
