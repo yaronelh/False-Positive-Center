@@ -85,7 +85,7 @@ like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%
 | Sangfor Engine Zero | save<span>@</span>sangfor.com.cn | [Send Report](vendors/Sangfor.md) | No |
 | SecureAge APEX | https://www.secureaplus.com/features/antivirus/report-false-positive/ | - | Yes |
 | Sentinel One | report<span>@</span>sentinelone.com | | |
-| Sophos ML | samples<span>@</span>sophos.com | | |
+| Sophos ML | samples<span>@</span>sophos.com | [Send Report](vendors/Sophos-ML.md) | |
 | Spamhaus | https://www.spamhaus.org/dbl/removal/form/ | | |
 | Symantec | https://submit.symantec.com/false_positive/, avsubmit<span>@</span>symantec.com | | |
 | Tencent | TAVfp<span>@</span>tencent.com | | |
