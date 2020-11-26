@@ -110,18 +110,19 @@ like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%
 
 ### AV Companies are not responsive?
 
-There could be a scenario where an AV company is not responsive, but to be sure that the issue is not on your end Especially if you're sending emails from your own domain, that your records are set up correctly for maximum deliverability. Add an SPF,DKIM, and DMARC To your DNS records
+There could be a scenario where an Antivirus/security company is not responsive, but to be sure that the issue is not on your end (especially if you're sending emails from your own domain), Check that your DNS records are set up correctly for good deliverability. Add an SPF, DKIM, and DMARC to your DNS records, some AV companies may ignore emails that are not set up correctly, And some will send a response email with an error, depending on how the individual company as setup.
 
 To check if your DNS is configured correctly plus the SPF,DKIM, and DMARC Use this Google tool
 
 [https://toolbox.googleapps.com/apps/checkmx/](https://toolbox.googleapps.com/apps/checkmx/)
 
-To do a final verification if the email was verified correctly in SPF, DKIM send an email to a secondary email account and take a look at the full record to see if it passed
+To do a final verification if the email was verified correctly in  SPF, DKIM, and DMARC send an email to a secondary email account and take a look at the full record to see if it passed
 You're looking for this
 ![Alt text](https://github.com/yaronelh/False-Positive-Center/blob/main/EmailPass.png?raw=true)
 
 If you did find an error in your configuration, consider resending the emails you already sent before the fix.
 
+TIP: while SPF, and DKIM are relatively simple to setup, you can speed up the DMARC setup by searching for DMARC generator with your favorite search engine, to use a wizard to generate it instead of doing it  manually.
 
 ### Contributors
 Yaron Elharar, You??...
