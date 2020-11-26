@@ -110,6 +110,14 @@ like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%
 
 ### AV Companies are not responsive?
 
+There could be a scenario where an AV company is not responsive, but to be sure that the issue is not on your end Especially if you're sending emails from your own domain, that your records are set up correctly for maximum deliverability. Add an SPF,DKIM, and DMARC To your DNS records
+
+To check if your DNS is configured correctly plus the SPF,DKIM, and DMARC Use this Google tool
+
+[https://toolbox.googleapps.com/apps/checkmx/](https://toolbox.googleapps.com/apps/checkmx/)
+
+To do a final verification if the email was verified correctly in SPF, DKIM send an email to a secondary email account and take a look at the full record to see if it passed
+You're looking for this
 
 
 
