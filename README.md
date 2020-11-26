@@ -118,9 +118,9 @@ To check if your DNS is configured correctly plus the SPF,DKIM, and DMARC Use th
 
 To do a final verification if the email was verified correctly in SPF, DKIM send an email to a secondary email account and take a look at the full record to see if it passed
 You're looking for this
+![Alt text](https://github.com/yaronelh/False-Positive-Center/blob/main/EmailPass.png?raw=true)
 
-
-
+If you did find an error in your configuration, consider resending the emails you already sent before the fix.
 
 
 ### Contributors
