@@ -112,7 +112,7 @@ like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%
 
 There could be a scenario where an Antivirus/security company is not responsive, but to be sure that the issue is not on your end (especially if you're sending emails from your own domain), Check that your DNS records are set up correctly for good deliverability. Add an SPF, DKIM, and DMARC to your DNS records, some AV companies may ignore emails that are not set up correctly, And some will send a response email with an error, depending on how the individual company as setup.
 
-To check if your DNS is configured correctly plus the SPF,DKIM, and DMARC Use this Google tool
+To check if your DNS is configured correctly plus the SPF, DKIM, and DMARC use this google tool
 
 [https://toolbox.googleapps.com/apps/checkmx/](https://toolbox.googleapps.com/apps/checkmx/)
 
