@@ -4,7 +4,7 @@ Repository to help Security vendors deal with false positives, improving their d
 The repository lists the emails,and websites security vendors (Antivirus Companies) used to receive false positive reports
 it's an effort to facilitate communication between software developers and security vendors. 
 
-[AV Companies are not responsive? Look at the bottom for additional details](###AV-Companies-are-not-responsive)
+[AV Companies are not responsive? Look at the bottom for additional details](#av-companies-are-not-responsive)
 
 
 ### Please use Pull requests to: 
