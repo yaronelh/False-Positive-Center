@@ -48,7 +48,7 @@ like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%
 | Cylance | cylancefilesubmit<span>@</span>cylance.com | | |
 | CyRadar | virustotal<span>@</span>cyradar.com | | |
 | Cynet |	soc<span>@</span>cynet.com |  [Send Report](vendors/Cynet.md) | Yes |
-| Cyren |	support<span>@</span>cyren.com |  [Send Report](vendors/cyren.md) | Yes |
+| Cyren |	support<span>@</span>cyren.com |  [Send Report](vendors/Cyren.md) | |
 | DNS8 | dns8<span>@</span>layer8.pt | | |
 | DrWeb: | vms<span>@</span>drweb.com | | |
 | eGambit (Tehtris) | https://tehtris.com/egambit_fp.php, virus<span>@</span>tehtri-security.com  |  |  |
