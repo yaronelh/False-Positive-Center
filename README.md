@@ -83,7 +83,7 @@ like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%
 | Palo Alto | vt-pan-false-positive<span>@</span>paloaltonetworks.com | | |
 | Panda | falsepositives<span>@</span>pandasecurity.com, virussamples<span>@</span>pandasecurity.com | | |
 | Phising Database | https://github.com/mitchellkrogza/Phishing.Database#please-remove-my-domain-from-this-list- | | |
-| Qihoo360 | support<span>@</span>360safe.com | [Send Report](vendors/Qihoo-360.md) | |
+| Qihoo-360 | support<span>@</span>360safe.com | [Send Report](vendors/Qihoo-360.md) | |
 | QuickHeal | viruslab<span>@</span>quickheal.com | | |
 | Rising | http://mailcenter.rising.com.cn/filecheck_en/ | | |
 | Sangfor Engine Zero | save<span>@</span>sangfor.com.cn | [Send Report](vendors/Sangfor.md) | No |
