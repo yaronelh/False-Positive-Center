@@ -34,7 +34,7 @@ like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%
 | Babable | obu<span>@</span>babable.com | | |
 | Baidu | bav<span>@</span>baidu.com, gaoyingchun<span>@</span>baidu.com | | |
 | BitDefender | virus_submission<span>@</span>bitdefender.com | | |
-| Bkav | fpreport<span>@</span>bkav.com, bkav<span>@</span>bkav.com | | |
+| Bkav | fpreport<span>@</span>bkav.com, bkav<span>@</span>bkav.com | [Send Report](vendors/Bkav.md) | |
 | ByteHero | bytehero<span>@</span>163.com | | |
 | Certego | https://www.certego.net/en/contatti/ | | |
 | ClamAV | http://www.clamav.net/reports/fp | | |
