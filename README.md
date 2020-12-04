@@ -52,7 +52,7 @@ like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%
 | DNS8 | dns8<span>@</span>layer8.pt | | |
 | DrWeb: | vms<span>@</span>drweb.com | | |
 | eGambit (Tehtris) | https://tehtris.com/egambit_fp.php, virus<span>@</span>tehtri-security.com  |  |  |
-| Emsisoft | submit<span>@</span>emsisoft.com or fp<span>@</span>emsisoft.com (false positives), https://www.emsisoft.com/en/support/contact/ | | |
+| Emsisoft | submit<span>@</span>emsisoft.com or fp<span>@</span>emsisoft.com (false positives), https://www.emsisoft.com/en/support/contact/ |  [Send Report](vendors/Emsisoft.md)  | |
 | Endgame | info<span>@</span>endgame.com | | |
 | ESET | https://support.eset.com/kb141/?page=content&id=SOLN141 | | |
 | FireEye | virustotal<span>@</span>fireeye.com | | |
