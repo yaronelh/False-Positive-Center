@@ -75,7 +75,7 @@ like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%
 | McAfee | virus_research<span>@</span>mcafee.com | [Send Report](vendors/McAfee.md) | No |
 | McAfee-GW | virus_research_gateway<span>@</span>avertlabs.com | [Send Report](vendors/McAfee-GW.md) | No |
 | Microsoft | https://www.microsoft.com/en-us/wdsi/filesubmission (Recommended),<br>mmpc<span>@</span>submit.microsoft.com | | Yes |
-| Microworld eScan | samples<span>@</span>escanav.com | [Send Report](vendors/eScan.md) | |
+| Microworld eScan | samples<span>@</span>escanav.com | [Send Report](vendors/eScan.md) | Yes |
 | NANO | http://www.nanoav.ru/index.php?option=com_content&view=article&id=15&Itemid=83&lang=en, false<span>@</span>nanoav.ru |  |  |
 | Netcraft | https://report.netcraft.com/report/mistake | | |
 | Norman: | analysis<span>@</span>norman.no, support<span>@</span>norman.com | | |
