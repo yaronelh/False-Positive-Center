@@ -48,7 +48,7 @@ like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%
 | Cylance | cylancefilesubmit<span>@</span>cylance.com | | |
 | CyRadar | virustotal<span>@</span>cyradar.com | | |
 | Cynet |	soc<span>@</span>cynet.com |  [Send Report](vendors/Cynet.md) | Yes |
-| Cyren |	support<span>@</span>cyren.com |  [Send Report](vendors/Cyren.md) | |
+| Cyren |	support<span>@</span>cyren.com |  [Send Report](vendors/Cyren.md) | Yes |
 | DNS8 | dns8<span>@</span>layer8.pt | | |
 | DrWeb: | vms<span>@</span>drweb.com | | |
 | eGambit (Tehtris) | https://tehtris.com/egambit_fp.php, virus<span>@</span>tehtri-security.com  |  |  |
@@ -133,3 +133,6 @@ Yaron Elharar, You??...
 #### Special Thanks
 Ana Tinoco from VirusTotal support, and the VirusTotal support team for making the initial contact information list. 
 the hope of creating better communication between software developers and security vendors.
+
+#### Final notes
+While I tried to maintain the accuracy of the information here to the best of my ability, it may be that you encounter inaccuracies as things naturally change over time. If you do find any inaccuracies I encourage you to use a pool request, report an issue, or sending me a message.
