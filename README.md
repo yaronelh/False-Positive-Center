@@ -87,7 +87,7 @@ like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%
 | QuickHeal | viruslab<span>@</span>quickheal.com | | |
 | Rising | http://mailcenter.rising.com.cn/filecheck_en/ | | |
 | Sangfor Engine Zero | save<span>@</span>sangfor.com.cn | [Send Report](vendors/Sangfor.md) | No |
-| SecureAge APEX | https://www.secureaplus.com/features/antivirus/report-false-positive/ | - | Yes |
+| SecureAge APEX | https://www.secureage.com/article-report-false-positive | - | Yes |
 | Sentinel One | report<span>@</span>sentinelone.com | | |
 | Sophos ML | samples<span>@</span>sophos.com | [Send Report](vendors/Sophos-ML.md) | |
 | Spamhaus | https://www.spamhaus.org/dbl/removal/form/ | | |
