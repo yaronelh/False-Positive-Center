@@ -92,7 +92,7 @@ like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%
 | Sentinel One | report<span>@</span>sentinelone.com | | |
 | Sophos ML | samples<span>@</span>sophos.com | [Send Report](vendors/Sophos-ML.md) | |
 | Spamhaus | https://www.spamhaus.org/dbl/removal/form/ | | |
-| Symantec | https://symsubmit.symantec.com/, false.positives<span>@</span>broadcom.com, avsubmit<span>@</span>symantec.com | Yes |
+| Symantec | https://symsubmit.symantec.com/, false.positives<span>@</span>broadcom.com, avsubmit<span>@</span>symantec.com | | Yes |
 | Tencent | TAVfp<span>@</span>tencent.com | | |
 | TheHacker | virus<span>@</span>hacksoft.com.pe , falsopositivo<span>@</span>hacksoft.com.pe | | |
 | Trapmine | fp<span>@</span>trapmine.com | | |
