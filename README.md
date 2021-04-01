@@ -118,7 +118,7 @@ To check if your DNS is configured correctly plus the SPF, DKIM, and DMARC use t
 
 [https://toolbox.googleapps.com/apps/checkmx/](https://toolbox.googleapps.com/apps/checkmx/)
 
-To do a final verification if the email was verified correctly in  SPF, DKIM, and DMARC send an email to a secondary email account and take a look at the full record to see if it passed
+To do a final verification if the email was verified correctly in SPF, DKIM, and DMARC send an email to a secondary email account and take a look at the full record to see if it passed
 You're looking for this
 
 
@@ -126,7 +126,7 @@ You're looking for this
 
 If you did find an error in your configuration, consider resending the emails you already sent before the fix.
 
-**TIP:** while SPF, and DKIM are relatively simple to setup, you can speed up the DMARC setup by searching for DMARC generator with your favorite search engine, to use a wizard to generate it instead of doing it  manually.
+**TIP:** while SPF, and DKIM are relatively simple to setup, you can speed up the DMARC setup by searching for DMARC generator with your favorite search engine, to use a wizard to generate it instead of doing it manually.
 
 ### Contributors
 Yaron Elharar, You??...
@@ -136,4 +136,4 @@ Ana Tinoco from VirusTotal support, and the VirusTotal support team for making t
 the hope of creating better communication between software developers and security vendors.
 
 #### Final notes
-While I tried to maintain the accuracy of the information here to the best of my ability, it may be that you encounter inaccuracies as things naturally change over time. If you do find any inaccuracies I encourage you to use a pool request, report an issue, or sending me a message.
+While I tried to maintain the accuracy of the information here to the best of my ability, it may be that you encounter inaccuracies as things naturally change over time. If you do find any inaccuracies I encourage you to use a pull request, report an issue, or sending me a message.
