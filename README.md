@@ -119,7 +119,7 @@ If you did find an error in your configuration, consider resending the emails yo
 
 
 ### Contributors
-Yaron Elharar, you?..
+Yaron Elharar, Pavel Moiseenko, Justine M., you?..
 
 
 #### Special thanks
