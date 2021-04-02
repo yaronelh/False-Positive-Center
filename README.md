@@ -65,6 +65,7 @@ When contributing an email template to the repository you can use [Mailto link g
 | K7 | reportfp<span>@</span>labs.k7computing.com, k7viruslab<span>@</span>labs.k7computing.com | | |
 | Kaspersky: | newvirus<span>@</span>kaspersky.com | | |
 | Kingsoft (Cheetah) | operation<span>@</span>cmcm.com | | |
+| Malwarebytes | https://forums.malwarebytes.com/forum/122-false-positives/ (registration required) | - | |
 | Malwares.com (Saint Security) | kog<span>@</span>stsc.com | | |
 | MAX (SaintSecurity) | root<span>@</span>malwares.com | | |
 | MaxSecure | tech<span>@</span>maxpcsecure.com | | |
@@ -82,7 +83,7 @@ When contributing an email template to the repository you can use [Mailto link g
 | Qihoo-360 | support<span>@</span>360safe.com | [Send Report](vendors/Qihoo-360.md) | |
 | QuickHeal | viruslab<span>@</span>quickheal.com | | |
 | Rising | http://mailcenter.rising.com.cn/filecheck_en/ | | |
-| Sangfor Engine Zero | save<span>@</span>sangfor.com.cn | [Send Report](vendors/Sangfor.md) | No |
+| Sangfor Engine Zero | save<span>@</span>sangfor.com.cn, https://sec.sangfor.com/user_feedback?lang=EN-US (registration required) | [Send Report](vendors/Sangfor.md) | No |
 | SecureAge APEX | https://www.secureage.com/article-report-false-positive | - | Yes |
 | Sentinel One | report<span>@</span>sentinelone.com | | |
 | Sophos ML | samples<span>@</span>sophos.com | [Send Report](vendors/Sophos-ML.md) | |
