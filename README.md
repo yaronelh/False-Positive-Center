@@ -1,25 +1,21 @@
 # False-Positive-Center
-Repository to help Security vendors deal with false positives, improving their detection engine, and to centralize information for software developers making it easier to submit false positives to AV Companies
+Repository to help security vendors deal with false positives, improving their detection engine, and centralize information for software developers making it easier to submit false positives to AV Companies.
 
-The repository lists the emails,and websites security vendors (Antivirus Companies) used to receive false positive reports
-it's an effort to facilitate communication between software developers and security vendors. 
+The repository lists the emails, and websites security vendors (antivirus companies) used to receive false positive reports it's an effort to facilitate communication between software developers and security vendors.
 
-[AV Companies are not responsive? Look at the bottom for additional details](#av-companies-are-not-responsive)
+[AV companies are not responsive? Look at the bottom for additional details.](#av-companies-are-not-responsive)
 
 
-### Please use Pull requests to: 
-
-- Add missing Vendors
+### Please use pull requests to:
+- Add missing vendors
 - Update information
 - Change out-of-date information
 
-When contributing an email template to the repository you can use [mailtolinkgenerator.com](https://mailtolinkgenerator.com/) to create a formatted mailto template
-like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%20detected%20by%20McAfee.&body=Hi%2C%0D%0A%0D%0AMy%20Program%20Is%20Falsely%20Detected%20With%20XXXXXXXXX%20in%20Virus%20Total%2C%20Please%20double%20check.%0D%0AProduct%3A%20McAfee%20At%20Virus%20Total%0D%0AEngine%3A%20unknown%0D%0A%0D%0AVirus%20totaled%20linked%3A%0D%0AXXXXXXXXXX%0D%0A%0D%0ABest%20Regards%0D%0A%0D%0A%5Bfalse-positive%20center%20github%5D)
+When contributing an email template to the repository you can use [Mailto link generator](https://mailtolinkgenerator.com/) to create a formatted `mailto` template like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%20detected%20by%20McAfee.&body=Hi%2C%0D%0A%0D%0AMy%20Program%20Is%20Falsely%20Detected%20With%20XXXXXXXXX%20in%20Virus%20Total%2C%20Please%20double%20check.%0D%0AProduct%3A%20McAfee%20At%20Virus%20Total%0D%0AEngine%3A%20unknown%0D%0A%0D%0AVirus%20totaled%20linked%3A%0D%0AXXXXXXXXXX%0D%0A%0D%0ABest%20Regards%0D%0A%0D%0A%5Bfalse-positive%20center%20github%5D).
 
 
-
-| Engine | Contact | Email Template | Issues A Case Number |
-|:--- | :--- | :---: | :---: |
+| ENGINE | Contact | Email template | Issues a case number |
+| :--- | :--- | :---: | :---: |
 | 360 | kefu<span><span>@</span></span>360.cn | | |
 | Acronis | virustotal-falsepositive<span>@</span>acronis.com | | |
 | AegisLab | support<span>@</span>aegislab.com | | |
@@ -94,7 +90,7 @@ like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%
 | Spamhaus | https://www.spamhaus.org/dbl/removal/form/ | | |
 | Symantec (Broadcom) | https://symsubmit.symantec.com/, false.positives<span>@</span>broadcom.com | | Yes |
 | Tencent | TAVfp<span>@</span>tencent.com | | |
-| TheHacker | virus<span>@</span>hacksoft.com.pe , falsopositivo<span>@</span>hacksoft.com.pe | | |
+| TheHacker | virus<span>@</span>hacksoft.com.pe, falsopositivo<span>@</span>hacksoft.com.pe | | |
 | Trapmine | fp<span>@</span>trapmine.com | | |
 | TrendMicro | https://www.trendmicro.com/en_us/about/legal/detection-reevaluation.html, virus<span>@</span>trendmicro.com, virus_doctor<span>@</span>trendmicro.com,  http://esupport.trendmicro.com/solution/en-us/1037634.aspx | | |
 | Trustlook | bd<span>@</span>trustlook.com | | |
@@ -109,31 +105,27 @@ like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%
 | Zoner | false<span>@</span>zonerantivirus.com | | |
 
 
+### AV companies are not responsive?
+There could be a scenario where an antivirus/security company is not responsive, but to be sure that the issue is not on your end (especially if you're sending emails from your own domain). Check that your DNS records are set up correctly for good deliverability. Add an SPF, DKIM, and DMARC to your DNS records. Some AV companies may ignore emails that are not set up correctly, and some will send a response email with an error, depending on how the individual company is setup.
 
-### AV Companies are not responsive?
+To check if your DNS is configured correctly, as well as SPF, DKIM, and DMARC, use the Google [Check MX](https://toolbox.googleapps.com/apps/checkmx/) tool.
 
-There could be a scenario where an Antivirus/security company is not responsive, but to be sure that the issue is not on your end (especially if you're sending emails from your own domain), Check that your DNS records are set up correctly for good deliverability. Add an SPF, DKIM, and DMARC to your DNS records, some AV companies may ignore emails that are not set up correctly, And some will send a response email with an error, depending on how the individual company as setup.
+To do a final verification if the email was verified correctly in SPF, DKIM, and DMARC, send an email to a secondary email account and take a look at the full record to see if it passed. You're looking for this:
 
-To check if your DNS is configured correctly plus the SPF, DKIM, and DMARC use this google tool
-
-[https://toolbox.googleapps.com/apps/checkmx/](https://toolbox.googleapps.com/apps/checkmx/)
-
-To do a final verification if the email was verified correctly in SPF, DKIM, and DMARC send an email to a secondary email account and take a look at the full record to see if it passed
-You're looking for this
-
-
-![Alt text](https://github.com/yaronelh/False-Positive-Center/blob/main/EmailPass.png?raw=true)
+![EmailPass](https://github.com/yaronelh/False-Positive-Center/blob/main/EmailPass.png?raw=true)
 
 If you did find an error in your configuration, consider resending the emails you already sent before the fix.
 
 **TIP:** while SPF, and DKIM are relatively simple to setup, you can speed up the DMARC setup by searching for DMARC generator with your favorite search engine, to use a wizard to generate it instead of doing it manually.
 
-### Contributors
-Yaron Elharar, You??...
 
-#### Special Thanks
-Ana Tinoco from VirusTotal support, and the VirusTotal support team for making the initial contact information list. 
-the hope of creating better communication between software developers and security vendors.
+### Contributors
+Yaron Elharar, you?..
+
+
+#### Special thanks
+Ana Tinoco from VirusTotal support, and the VirusTotal support team for making the initial contact information list. The hope of creating better communication between software developers and security vendors.
+
 
 #### Final notes
 While I tried to maintain the accuracy of the information here to the best of my ability, it may be that you encounter inaccuracies as things naturally change over time. If you do find any inaccuracies I encourage you to use a pull request, report an issue, or sending me a message.
