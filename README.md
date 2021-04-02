@@ -1,31 +1,26 @@
 # False-Positive-Center
-Repository to help Security vendors deal with false positives, improving their detection engine, and to centralize information for software developers making it easier to submit false positives to AV Companies
+Repository to help security vendors deal with false positives, improving their detection engine, and centralize information for software developers making it easier to submit false positives to AV Companies.
 
-The repository lists the emails,and websites security vendors (Antivirus Companies) used to receive false positive reports
-it's an effort to facilitate communication between software developers and security vendors. 
+The repository lists the emails, and websites security vendors (antivirus companies) used to receive false positive reports it's an effort to facilitate communication between software developers and security vendors.
 
-[AV Companies are not responsive? Look at the bottom for additional details](#av-companies-are-not-responsive)
+[AV companies are not responsive? Look at the bottom for additional details.](#av-companies-are-not-responsive)
 
 
-### Please use Pull requests to: 
-
-- Add missing Vendors
+### Please use pull requests to:
+- Add missing vendors
 - Update information
 - Change out-of-date information
 
-When contributing an email template to the repository you can use [mailtolinkgenerator.com](https://mailtolinkgenerator.com/) to create a formatted mailto template
-like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%20detected%20by%20McAfee.&body=Hi%2C%0D%0A%0D%0AMy%20Program%20Is%20Falsely%20Detected%20With%20XXXXXXXXX%20in%20Virus%20Total%2C%20Please%20double%20check.%0D%0AProduct%3A%20McAfee%20At%20Virus%20Total%0D%0AEngine%3A%20unknown%0D%0A%0D%0AVirus%20totaled%20linked%3A%0D%0AXXXXXXXXXX%0D%0A%0D%0ABest%20Regards%0D%0A%0D%0A%5Bfalse-positive%20center%20github%5D)
+When contributing an email template to the repository you can use [Mailto link generator](https://mailtolinkgenerator.com/) to create a formatted `mailto` template like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%20detected%20by%20McAfee.&body=Hi%2C%0D%0A%0D%0AMy%20Program%20Is%20Falsely%20Detected%20With%20XXXXXXXXX%20in%20Virus%20Total%2C%20Please%20double%20check.%0D%0AProduct%3A%20McAfee%20At%20Virus%20Total%0D%0AEngine%3A%20unknown%0D%0A%0D%0AVirus%20totaled%20linked%3A%0D%0AXXXXXXXXXX%0D%0A%0D%0ABest%20Regards%0D%0A%0D%0A%5Bfalse-positive%20center%20github%5D).
 
-
-
-| ENGINE | Contact | Email Template | Issues A Case Number |
-|:--- | :--- | :---: | :---: |
+| ENGINE | Contact | Email template | Issues a case number |
+| :--- | :--- | :---: | :---: |
 | 360 | kefu<span><span>@</span></span>360.cn | | |
 | Acronis | virustotal-falsepositive<span>@</span>acronis.com | | |
 | AegisLab | support<span>@</span>aegislab.com | | |
 | Agnitum | trojans<span>@</span>agnitum.com | | |
 | AhnLab-V3 | v3sos@ahnlab.com (Recommended)<br>e-support<span>@</span>ahnlab.com, samples<span>@</span>ahnlab.com | [Send Report](vendors/AhnLab-V3.md) | No |
-| Alibaba | virustotal<span>@</span>list.alibaba-inc.com | [Send Report](vendors/Alibaba.md) | No | 
+| Alibaba | virustotal<span>@</span>list.alibaba-inc.com | [Send Report](vendors/Alibaba.md) | No |
 | Alyac (Estsoft) | esrc<span>@</span>estsecurity.com | | |
 | Antivir | cleanset<span>@</span>avira.com, virus_malware<span>@</span>avira.com, virus<span>@</span>avira.com | | |
 | Antiy | avlsdk_support_vt<span>@</span>antiy.cn | | |
@@ -34,7 +29,7 @@ like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%
 | Babable | obu<span>@</span>babable.com | | |
 | Baidu | bav<span>@</span>baidu.com, gaoyingchun<span>@</span>baidu.com | | |
 | BitDefender | virus_submission<span>@</span>bitdefender.com | [Send Report](vendors/BitDefender.md) | |
-| Bkav | fpreport<span>@</span>bkav.com, bkav<span>@</span>bkav.com |  | |
+| Bkav | fpreport<span>@</span>bkav.com, bkav<span>@</span>bkav.com | | |
 | ByteHero | bytehero<span>@</span>163.com | | |
 | Certego | https://www.certego.net/en/contatti/ | | |
 | ClamAV | http://www.clamav.net/reports/fp | | |
@@ -47,12 +42,12 @@ like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%
 | Cybereason | vt-feedback<span>@</span>cybereason.com | | |
 | Cylance | cylancefilesubmit<span>@</span>cylance.com | | |
 | CyRadar | virustotal<span>@</span>cyradar.com | | |
-| Cynet |	soc<span>@</span>cynet.com |  [Send Report](vendors/Cynet.md) | Yes |
-| Cyren |	support<span>@</span>cyren.com |  [Send Report](vendors/Cyren.md) | Yes |
+| Cynet | soc<span>@</span>cynet.com | [Send Report](vendors/Cynet.md) | Yes |
+| Cyren | support<span>@</span>cyren.com | [Send Report](vendors/Cyren.md) | Yes |
 | DNS8 | dns8<span>@</span>layer8.pt | | |
 | DrWeb: | vms<span>@</span>drweb.com | | |
-| eGambit (Tehtris) | https://tehtris.com/egambit_fp.php, virus<span>@</span>tehtri-security.com  |  |  |
-| Emsisoft | submit<span>@</span>emsisoft.com or fp<span>@</span>emsisoft.com (false positives), https://www.emsisoft.com/en/support/contact/ |  [Send Report](vendors/Emsisoft.md)  | |
+| eGambit (Tehtris) | https://tehtris.com/egambit_fp.php, virus<span>@</span>tehtri-security.com | | |
+| Emsisoft | submit<span>@</span>emsisoft.com or fp<span>@</span>emsisoft.com (false positives), https://www.emsisoft.com/en/support/contact/ | [Send Report](vendors/Emsisoft.md) | |
 | Endgame | info<span>@</span>endgame.com | | |
 | ESET | https://support.eset.com/kb141/?page=content&id=SOLN141 | | |
 | FireEye | virustotal<span>@</span>fireeye.com | | |
@@ -77,7 +72,7 @@ like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%
 | McAfee-GW | virus_research_gateway<span>@</span>avertlabs.com | [Send Report](vendors/McAfee-GW.md) | No |
 | Microsoft | https://www.microsoft.com/en-us/wdsi/filesubmission (Recommended),<br>mmpc<span>@</span>submit.microsoft.com | | Yes |
 | Microworld eScan | samples<span>@</span>escanav.com | [Send Report](vendors/eScan.md) | Yes |
-| NANO | http://www.nanoav.ru/index.php?option=com_content&view=article&id=15&Itemid=83&lang=en, false<span>@</span>nanoav.ru |  |  |
+| NANO | http://www.nanoav.ru/index.php?option=com_content&view=article&id=15&Itemid=83&lang=en, false<span>@</span>nanoav.ru | | |
 | Netcraft | https://report.netcraft.com/report/mistake | | |
 | Norman: | analysis<span>@</span>norman.no, support<span>@</span>norman.com | | |
 | nProtect (Inca) | virus_info<span>@</span>inca.co.kr | | |
@@ -94,9 +89,9 @@ like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%
 | Spamhaus | https://www.spamhaus.org/dbl/removal/form/ | | |
 | Symantec | https://symsubmit.symantec.com/, false.positives<span>@</span>broadcom.com | | Yes |
 | Tencent | TAVfp<span>@</span>tencent.com | | |
-| TheHacker | virus<span>@</span>hacksoft.com.pe , falsopositivo<span>@</span>hacksoft.com.pe | | |
+| TheHacker | virus<span>@</span>hacksoft.com.pe, falsopositivo<span>@</span>hacksoft.com.pe | | |
 | Trapmine | fp<span>@</span>trapmine.com | | |
-| TrendMicro | https://www.trendmicro.com/en_us/about/legal/detection-reevaluation.html, virus<span>@</span>trendmicro.com, virus_doctor<span>@</span>trendmicro.com,  http://esupport.trendmicro.com/solution/en-us/1037634.aspx | | |
+| TrendMicro | https://www.trendmicro.com/en_us/about/legal/detection-reevaluation.html, virus<span>@</span>trendmicro.com, virus_doctor<span>@</span>trendmicro.com, http://esupport.trendmicro.com/solution/en-us/1037634.aspx | | |
 | Trustwave | ADavidi<span>@</span>trustwave.com | | |
 | Trustlook | bd<span>@</span>trustlook.com | | |
 | VBA32: | feedback<span>@</span>anti-virus.by | | |
@@ -109,31 +104,27 @@ like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%
 | Zoner | false<span>@</span>zonerantivirus.com | | |
 
 
+### AV companies are not responsive?
+There could be a scenario where an antivirus/security company is not responsive, but to be sure that the issue is not on your end (especially if you're sending emails from your own domain). Check that your DNS records are set up correctly for good deliverability. Add an SPF, DKIM, and DMARC to your DNS records. Some AV companies may ignore emails that are not set up correctly, and some will send a response email with an error, depending on how the individual company is setup.
 
-### AV Companies are not responsive?
+To check if your DNS is configured correctly, as well as SPF, DKIM, and DMARC, use the Google [Check MX](https://toolbox.googleapps.com/apps/checkmx/) tool.
 
-There could be a scenario where an Antivirus/security company is not responsive, but to be sure that the issue is not on your end (especially if you're sending emails from your own domain), Check that your DNS records are set up correctly for good deliverability. Add an SPF, DKIM, and DMARC to your DNS records, some AV companies may ignore emails that are not set up correctly, And some will send a response email with an error, depending on how the individual company as setup.
+To do a final verification if the email was verified correctly in SPF, DKIM, and DMARC, send an email to a secondary email account and take a look at the full record to see if it passed. You're looking for this:
 
-To check if your DNS is configured correctly plus the SPF, DKIM, and DMARC use this google tool
-
-[https://toolbox.googleapps.com/apps/checkmx/](https://toolbox.googleapps.com/apps/checkmx/)
-
-To do a final verification if the email was verified correctly in SPF, DKIM, and DMARC send an email to a secondary email account and take a look at the full record to see if it passed
-You're looking for this
-
-
-![Alt text](https://github.com/yaronelh/False-Positive-Center/blob/main/EmailPass.png?raw=true)
+![EmailPass](https://github.com/yaronelh/False-Positive-Center/blob/main/EmailPass.png?raw=true)
 
 If you did find an error in your configuration, consider resending the emails you already sent before the fix.
 
 **TIP:** while SPF, and DKIM are relatively simple to setup, you can speed up the DMARC setup by searching for DMARC generator with your favorite search engine, to use a wizard to generate it instead of doing it manually.
 
-### Contributors
-Yaron Elharar, You??...
 
-#### Special Thanks
-Ana Tinoco from VirusTotal support, and the VirusTotal support team for making the initial contact information list. 
-the hope of creating better communication between software developers and security vendors.
+### Contributors
+Yaron Elharar, you?..
+
+
+#### Special thanks
+Ana Tinoco from VirusTotal support, and the VirusTotal support team for making the initial contact information list. The hope of creating better communication between software developers and security vendors.
+
 
 #### Final notes
 While I tried to maintain the accuracy of the information here to the best of my ability, it may be that you encounter inaccuracies as things naturally change over time. If you do find any inaccuracies I encourage you to use a pull request, report an issue, or sending me a message.
