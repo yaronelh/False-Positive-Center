@@ -28,8 +28,8 @@ like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%
 | Alibaba | virustotal<span>@</span>list.alibaba-inc.com | [Send Report](vendors/Alibaba.md) | No | 
 | Alyac (Estsoft) | esrc<span>@</span>estsecurity.com | | |
 | Antivir | cleanset<span>@</span>avira.com, virus_malware<span>@</span>avira.com, virus<span>@</span>avira.com | | |
-| Antiy | avlsdk_support_vt<span>@</span>antiy.cn | | |
-| Avast | virus<span>@</span>avast.com | | |
+| Antiy | avlsdk_support_vt<span>@</span>antiy.cn or submit<span>@</span>antiy.com | | No |
+| Avast | https://www.avast.com/false-positive-file-form.php, virus<span>@</span>avast.com | | |
 | AVG | http://www.avg.com/submit-sample, http://www.avg.com/us-en/whitelist | | |
 | Babable | obu<span>@</span>babable.com | | |
 | Baidu | bav<span>@</span>baidu.com, gaoyingchun<span>@</span>baidu.com | | |
