@@ -97,7 +97,7 @@ When contributing an email template to the repository you can use [Mailto link g
 | Trustlook | bd<span>@</span>trustlook.com | | |
 | VBA32: | feedback<span>@</span>anti-virus.by | | |
 | VirusDie | partners<span>@</span>virusdie.com | | |
-| Webroot | https://www.webroot.com/us/en/business/support/vendor-dispute-contact-us | | |
+| Webroot | https://www.webroot.com/us/en/business/support/vendor-dispute-contact-us, https://detail.webrootanywhere.com/servicewelcome.asp (registration required) | | |
 | Yomi | yomi-false-positives<span>@</span>yoroi.company | | |
 | Yandex | yandex-antivir<span>@</span>support.yandex.ru | | |
 | Zillya | virus<span>@</span>zillya.com | | |
