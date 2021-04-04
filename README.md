@@ -13,6 +13,7 @@ The repository lists the emails, and websites security vendors (antivirus compan
 
 When contributing an email template to the repository you can use [Mailto link generator](https://mailtolinkgenerator.com/) to create a formatted `mailto` template like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%20detected%20by%20McAfee.&body=Hi%2C%0D%0A%0D%0AMy%20Program%20Is%20Falsely%20Detected%20With%20XXXXXXXXX%20in%20Virus%20Total%2C%20Please%20double%20check.%0D%0AProduct%3A%20McAfee%20At%20Virus%20Total%0D%0AEngine%3A%20unknown%0D%0A%0D%0AVirus%20totaled%20linked%3A%0D%0AXXXXXXXXXX%0D%0A%0D%0ABest%20Regards%0D%0A%0D%0A%5Bfalse-positive%20center%20github%5D).
 
+
 | ENGINE | Contact | Email template | Issues a case number |
 | :--- | :--- | :---: | :---: |
 | 360 | kefu<span><span>@</span></span>360.cn | | |
@@ -20,39 +21,40 @@ When contributing an email template to the repository you can use [Mailto link g
 | AegisLab | support<span>@</span>aegislab.com | | |
 | Agnitum | trojans<span>@</span>agnitum.com | | |
 | AhnLab-V3 | v3sos@ahnlab.com (Recommended)<br>e-support<span>@</span>ahnlab.com, samples<span>@</span>ahnlab.com | [Send Report](vendors/AhnLab-V3.md) | No |
-| Alibaba | virustotal<span>@</span>list.alibaba-inc.com | [Send Report](vendors/Alibaba.md) | No |
-| Alyac (Estsoft) | esrc<span>@</span>estsecurity.com | | |
-| Antivir | cleanset<span>@</span>avira.com, virus_malware<span>@</span>avira.com, virus<span>@</span>avira.com | | |
-| Antiy | avlsdk_support_vt<span>@</span>antiy.cn or submit<span>@</span>antiy.com | | No |
-| Avast | https://www.avast.com/false-positive-file-form.php, virus<span>@</span>avast.com | | |
+| Alibaba | virustotal<span>@</span>list.alibaba-inc.com | [Send Report](vendors/Alibaba.md) | No | 
+| ALYac (ESTsecurity) | esrc<span>@</span>estsecurity.com | | |
+| Antiy-AVL | avlsdk_support_vt<span>@</span>antiy.cn | | |
+| Avast | virus<span>@</span>avast.com | | |
+| Avira (no cloud) | cleanset<span>@</span>avira.com, virus_malware<span>@</span>avira.com, virus<span>@</span>avira.com | | |
 | AVG | http://www.avg.com/submit-sample, http://www.avg.com/us-en/whitelist | | |
 | Babable | obu<span>@</span>babable.com | | |
 | Baidu | bav<span>@</span>baidu.com, gaoyingchun<span>@</span>baidu.com | | |
 | BitDefender | virus_submission<span>@</span>bitdefender.com | [Send Report](vendors/BitDefender.md) | |
-| Bkav | fpreport<span>@</span>bkav.com, bkav<span>@</span>bkav.com | | |
+| Bkav Pro | fpreport<span>@</span>bkav.com, bkav<span>@</span>bkav.com |  | |
 | ByteHero | bytehero<span>@</span>163.com | | |
+| CAT-QuickHeal | viruslab<span>@</span>quickheal.com | | |
 | Certego | https://www.certego.net/en/contatti/ | | |
 | ClamAV | http://www.clamav.net/reports/fp | | |
 | Clean-MX | abuse<span>@</span>clean-mx.de | | |
 | CMC | vulambang<span>@</span>cmcinfosec.com, support.is<span>@</span>cmclab.net | | |
 | Comodo | malwaresubmit<span>@</span>avlab.comodo.com | | |
 | CRDF | labs<span>@</span>crdf.fr | | |
-| CrowdStrike | VTscanner<span>@</span>crowdstrike.com | | |
+| CrowdStrike Falcon | VTscanner<span>@</span>crowdstrike.com | | |
 | CyanSecurity | virustotal<span>@</span>cyansecurity.com | | |
 | Cybereason | vt-feedback<span>@</span>cybereason.com | | |
 | Cylance | cylancefilesubmit<span>@</span>cylance.com | | |
+| Cynet |	soc<span>@</span>cynet.com |  [Send Report](vendors/Cynet.md) | Yes |
 | CyRadar | virustotal<span>@</span>cyradar.com | | |
-| Cynet | soc<span>@</span>cynet.com | [Send Report](vendors/Cynet.md) | Yes |
-| Cyren | support<span>@</span>cyren.com | [Send Report](vendors/Cyren.md) | Yes |
+| Cyren |	support<span>@</span>cyren.com |  [Send Report](vendors/Cyren.md) | Yes |
 | DNS8 | dns8<span>@</span>layer8.pt | | |
-| DrWeb: | vms<span>@</span>drweb.com | | |
-| eGambit (Tehtris) | https://tehtris.com/egambit_fp.php, virus<span>@</span>tehtri-security.com | | |
-| Emsisoft | submit<span>@</span>emsisoft.com or fp<span>@</span>emsisoft.com (false positives), https://www.emsisoft.com/en/support/contact/ | [Send Report](vendors/Emsisoft.md) | |
+| DrWeb | vms<span>@</span>drweb.com | | |
+| eGambit (TEHTRIS) | https://tehtris.com/egambit_fp.php, virus<span>@</span>tehtri-security.com  |  |  |
+| Emsisoft | submit<span>@</span>emsisoft.com or fp<span>@</span>emsisoft.com (false positives), https://www.emsisoft.com/en/support/contact/ |  [Send Report](vendors/Emsisoft.md)  | |
 | Endgame | info<span>@</span>endgame.com | | |
-| ESET | https://support.eset.com/kb141/?page=content&id=SOLN141 | | |
-| FireEye | virustotal<span>@</span>fireeye.com | | |
+| ESET-NOD32 | https://support.eset.com/kb141/?page=content&id=SOLN141 | | |
 | F-Prot | viruslab<span>@</span>f-prot.com | | |
 | F-Secure | spyware-samples<span>@</span>f-secure.com, vsamples<span>@</span>f-secure.com | | |
+| FireEye | virustotal<span>@</span>fireeye.com | | |
 | Forcepoint (websense) | suggest<span>@</span>forcepoint.com | | |
 | Fortinet | submitvirus<span>@</span>fortinet.com | | |
 | GData | https://www.gdatasoftware.com/faq/consumer/submit-a-suspicious-file-app-or-url | | |
@@ -63,45 +65,45 @@ When contributing an email template to the repository you can use [Mailto link g
 | Invincea | info<span>@</span>invincea.com | | |
 | Jiangmin | support<span>@</span>jiangmin.com, shaojia<span>@</span>jiangmin.com | | |
 | K7 | reportfp<span>@</span>labs.k7computing.com, k7viruslab<span>@</span>labs.k7computing.com | | |
-| Kaspersky: | newvirus<span>@</span>kaspersky.com | | |
+| Kaspersky | newvirus<span>@</span>kaspersky.com | | |
 | Kingsoft (Cheetah) | operation<span>@</span>cmcm.com | | |
 | Malwarebytes | https://forums.malwarebytes.com/forum/122-false-positives/ (registration required) | - | |
 | Malwares.com (Saint Security) | kog<span>@</span>stsc.com | | |
 | MAX (SaintSecurity) | root<span>@</span>malwares.com | | |
 | MaxSecure | tech<span>@</span>maxpcsecure.com | | |
 | McAfee | virus_research<span>@</span>mcafee.com | [Send Report](vendors/McAfee.md) | No |
-| McAfee-GW | virus_research_gateway<span>@</span>avertlabs.com | [Send Report](vendors/McAfee-GW.md) | No |
+| McAfee-GW-Edition | virus_research_gateway<span>@</span>avertlabs.com | [Send Report](vendors/McAfee-GW.md) | No |
 | Microsoft | https://www.microsoft.com/en-us/wdsi/filesubmission (Recommended),<br>mmpc<span>@</span>submit.microsoft.com | | Yes |
 | Microworld eScan | samples<span>@</span>escanav.com | [Send Report](vendors/eScan.md) | Yes |
-| NANO | http://www.nanoav.ru/index.php?option=com_content&view=article&id=15&Itemid=83&lang=en, false<span>@</span>nanoav.ru | | |
+| NANO-Antivirus | http://www.nanoav.ru/index.php?option=com_content&view=article&id=15&Itemid=83&lang=en, false<span>@</span>nanoav.ru |  |  |
 | Netcraft | https://report.netcraft.com/report/mistake | | |
-| Norman: | analysis<span>@</span>norman.no, support<span>@</span>norman.com | | |
+| Norman | analysis<span>@</span>norman.no, support<span>@</span>norman.com | | |
 | nProtect (Inca) | virus_info<span>@</span>inca.co.kr | | |
-| Palo Alto | vt-pan-false-positive<span>@</span>paloaltonetworks.com | | |
+| Palo Alto Networks | vt-pan-false-positive<span>@</span>paloaltonetworks.com | | |
 | Panda | falsepositives<span>@</span>pandasecurity.com, virussamples<span>@</span>pandasecurity.com | | |
 | Phising Database | https://github.com/mitchellkrogza/Phishing.Database#please-remove-my-domain-from-this-list- | | |
 | Qihoo-360 | support<span>@</span>360safe.com | [Send Report](vendors/Qihoo-360.md) | |
-| QuickHeal | viruslab<span>@</span>quickheal.com | | |
 | Rising | http://mailcenter.rising.com.cn/filecheck_en/ | | |
 | Sangfor Engine Zero | save<span>@</span>sangfor.com.cn, https://sec.sangfor.com/user_feedback?lang=EN-US (registration required) | [Send Report](vendors/Sangfor.md) | No |
 | SecureAge APEX | https://www.secureage.com/article-report-false-positive | - | Yes |
-| Sentinel One | report<span>@</span>sentinelone.com | | |
-| Sophos ML | samples<span>@</span>sophos.com | [Send Report](vendors/Sophos-ML.md) | |
+| SentinelOne (Static ML) | report<span>@</span>sentinelone.com | | |
+| Sophos | samples<span>@</span>sophos.com | [Send Report](vendors/Sophos-ML.md) | |
 | Spamhaus | https://www.spamhaus.org/dbl/removal/form/ | | |
-| Symantec | https://symsubmit.symantec.com/, false.positives<span>@</span>broadcom.com | | Yes |
+| Symantec (Broadcom) | https://symsubmit.symantec.com/, false.positives<span>@</span>broadcom.com | | Yes |
 | Tencent | TAVfp<span>@</span>tencent.com | | |
 | TheHacker | virus<span>@</span>hacksoft.com.pe, falsopositivo<span>@</span>hacksoft.com.pe | | |
 | Trapmine | fp<span>@</span>trapmine.com | | |
-| TrendMicro | https://www.trendmicro.com/en_us/about/legal/detection-reevaluation.html, virus<span>@</span>trendmicro.com, virus_doctor<span>@</span>trendmicro.com, http://esupport.trendmicro.com/solution/en-us/1037634.aspx | | |
-| Trustwave | ADavidi<span>@</span>trustwave.com | | |
+| TrendMicro | https://www.trendmicro.com/en_us/about/legal/detection-reevaluation.html, virus<span>@</span>trendmicro.com, virus_doctor<span>@</span>trendmicro.com,  http://esupport.trendmicro.com/solution/en-us/1037634.aspx | | |
 | Trustlook | bd<span>@</span>trustlook.com | | |
-| VBA32: | feedback<span>@</span>anti-virus.by | | |
+| Trustwave | ADavidi<span>@</span>trustwave.com | | |
+| VBA32 | feedback<span>@</span>anti-virus.by | | |
 | VirusDie | partners<span>@</span>virusdie.com | | |
 | Webroot | https://www.webroot.com/us/en/business/support/vendor-dispute-contact-us, https://detail.webrootanywhere.com/servicewelcome.asp (registration required) | | |
 | Yomi | yomi-false-positives<span>@</span>yoroi.company | | |
 | Yandex | yandex-antivir<span>@</span>support.yandex.ru | | |
+| Yomi | yomi-false-positives<span>@</span>yoroi.company | | |
 | Zillya | virus<span>@</span>zillya.com | | |
-| ZoneAlarm | zonealarm_VT_reports<span>@</span>checkpoint.com | | |
+| ZoneAlarm by Check Point | zonealarm_VT_reports<span>@</span>checkpoint.com | | |
 | Zoner | false<span>@</span>zonerantivirus.com | | |
 
 
