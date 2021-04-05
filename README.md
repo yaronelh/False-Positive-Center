@@ -26,7 +26,7 @@ When contributing an email template to the repository you can use [Mailto link g
 | Antiy-AVL | avlsdk_support_vt<span>@</span>antiy.cn | | |
 | Avast | virus<span>@</span>avast.com | | |
 | Avira (no cloud) | cleanset<span>@</span>avira.com, virus_malware<span>@</span>avira.com, virus<span>@</span>avira.com | | |
-| AVG | http://www.avg.com/submit-sample, http://www.avg.com/us-en/whitelist | | |
+| AVG | https://www.avg.com/false-positive-file-form, https://www.avg.com/us-en/whitelist | | |
 | Babable | obu<span>@</span>babable.com | | |
 | Baidu | bav<span>@</span>baidu.com, gaoyingchun<span>@</span>baidu.com | | |
 | BitDefender | virus_submission<span>@</span>bitdefender.com | [Send Report](vendors/BitDefender.md) | |
@@ -43,13 +43,13 @@ When contributing an email template to the repository you can use [Mailto link g
 | CyanSecurity | virustotal<span>@</span>cyansecurity.com | | |
 | Cybereason | vt-feedback<span>@</span>cybereason.com | | |
 | Cylance | cylancefilesubmit<span>@</span>cylance.com | | |
-| Cynet |	soc<span>@</span>cynet.com |  [Send Report](vendors/Cynet.md) | Yes |
+| Cynet |	soc<span>@</span>cynet.com | [Send Report](vendors/Cynet.md) | Yes |
 | CyRadar | virustotal<span>@</span>cyradar.com | | |
-| Cyren |	support<span>@</span>cyren.com |  [Send Report](vendors/Cyren.md) | Yes |
+| Cyren |	support<span>@</span>cyren.com | [Send Report](vendors/Cyren.md) | Yes |
 | DNS8 | dns8<span>@</span>layer8.pt | | |
 | DrWeb | vms<span>@</span>drweb.com | | |
-| eGambit (TEHTRIS) | https://tehtris.com/egambit_fp.php, virus<span>@</span>tehtri-security.com  |  |  |
-| Emsisoft | submit<span>@</span>emsisoft.com or fp<span>@</span>emsisoft.com (false positives), https://www.emsisoft.com/en/support/contact/ |  [Send Report](vendors/Emsisoft.md)  | |
+| eGambit (TEHTRIS) | https://tehtris.com/egambit_fp.php, virus<span>@</span>tehtri-security.com | | |
+| Emsisoft | submit<span>@</span>emsisoft.com or fp<span>@</span>emsisoft.com (false positives), https://www.emsisoft.com/en/support/contact/ | [Send Report](vendors/Emsisoft.md) | |
 | Endgame | info<span>@</span>endgame.com | | |
 | ESET-NOD32 | https://support.eset.com/kb141/?page=content&id=SOLN141 | | |
 | F-Prot | viruslab<span>@</span>f-prot.com | | |
@@ -75,7 +75,7 @@ When contributing an email template to the repository you can use [Mailto link g
 | McAfee-GW-Edition | virus_research_gateway<span>@</span>avertlabs.com | [Send Report](vendors/McAfee-GW.md) | No |
 | Microsoft | https://www.microsoft.com/en-us/wdsi/filesubmission (recommended), mmpc<span>@</span>submit.microsoft.com | | Yes |
 | Microworld eScan | samples<span>@</span>escanav.com | [Send Report](vendors/eScan.md) | Yes |
-| NANO-Antivirus | https://www.nanoav.ru/index.php?option=com_content&view=article&id=15&Itemid=83&lang=en, false<span>@</span>nanoav.ru |  |  |
+| NANO-Antivirus | https://www.nanoav.ru/index.php?option=com_content&view=article&id=15&Itemid=83&lang=en, false<span>@</span>nanoav.ru | | |
 | Netcraft | https://report.netcraft.com/report/mistake | | |
 | Norman | analysis<span>@</span>norman.no, support<span>@</span>norman.com | | |
 | nProtect (Inca) | virus_info<span>@</span>inca.co.kr | | |
@@ -93,7 +93,7 @@ When contributing an email template to the repository you can use [Mailto link g
 | Tencent | TAVfp<span>@</span>tencent.com | | |
 | TheHacker | virus<span>@</span>hacksoft.com.pe, falsopositivo<span>@</span>hacksoft.com.pe | | |
 | Trapmine | fp<span>@</span>trapmine.com | | |
-| TrendMicro | https://www.trendmicro.com/en_us/about/legal/detection-reevaluation.html, virus<span>@</span>trendmicro.com, virus_doctor<span>@</span>trendmicro.com,  http://esupport.trendmicro.com/solution/en-us/1037634.aspx | | |
+| TrendMicro | https://www.trendmicro.com/en_us/about/legal/detection-reevaluation.html, virus<span>@</span>trendmicro.com, virus_doctor<span>@</span>trendmicro.com, http://esupport.trendmicro.com/solution/en-us/1037634.aspx | | |
 | Trustlook | bd<span>@</span>trustlook.com | | |
 | Trustwave | ADavidi<span>@</span>trustwave.com | | |
 | VBA32 | feedback<span>@</span>anti-virus.by | | |
