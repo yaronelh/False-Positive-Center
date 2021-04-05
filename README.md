@@ -1,5 +1,5 @@
 # False-Positive-Center
-Repository to help security vendors deal with false positives, improving their detection engine, and centralize information for software developers making it easier to submit false positives to AV Companies.
+Repository to help security vendors deal with false positives, improving their detection engine, and centralize information for software developers making it easier to submit false positives to AV companies.
 
 The repository lists the emails, and websites security vendors (antivirus companies) used to receive false positive reports it's an effort to facilitate communication between software developers and security vendors.
 
@@ -20,7 +20,7 @@ When contributing an email template to the repository you can use [Mailto link g
 | Acronis | virustotal-falsepositive<span>@</span>acronis.com | | |
 | AegisLab | support<span>@</span>aegislab.com | | |
 | Agnitum | trojans<span>@</span>agnitum.com | | |
-| AhnLab-V3 | v3sos@ahnlab.com (Recommended)<br>e-support<span>@</span>ahnlab.com, samples<span>@</span>ahnlab.com | [Send Report](vendors/AhnLab-V3.md) | No |
+| AhnLab-V3 | v3sos<span>@</span>ahnlab.com (recommended), e-support<span>@</span>ahnlab.com, samples<span>@</span>ahnlab.com | [Send Report](vendors/AhnLab-V3.md) | No |
 | Alibaba | virustotal<span>@</span>list.alibaba-inc.com | [Send Report](vendors/Alibaba.md) | No | 
 | ALYac (ESTsecurity) | esrc<span>@</span>estsecurity.com | | |
 | Antiy-AVL | avlsdk_support_vt<span>@</span>antiy.cn | | |
@@ -30,11 +30,11 @@ When contributing an email template to the repository you can use [Mailto link g
 | Babable | obu<span>@</span>babable.com | | |
 | Baidu | bav<span>@</span>baidu.com, gaoyingchun<span>@</span>baidu.com | | |
 | BitDefender | virus_submission<span>@</span>bitdefender.com | [Send Report](vendors/BitDefender.md) | |
-| Bkav Pro | fpreport<span>@</span>bkav.com, bkav<span>@</span>bkav.com |  | |
+| Bkav Pro | fpreport<span>@</span>bkav.com, bkav<span>@</span>bkav.com | | |
 | ByteHero | bytehero<span>@</span>163.com | | |
 | CAT-QuickHeal | viruslab<span>@</span>quickheal.com | | |
 | Certego | https://www.certego.net/en/contatti/ | | |
-| ClamAV | http://www.clamav.net/reports/fp | | |
+| ClamAV | https://www.clamav.net/reports/fp | | |
 | Clean-MX | abuse<span>@</span>clean-mx.de | | |
 | CMC | vulambang<span>@</span>cmcinfosec.com, support.is<span>@</span>cmclab.net | | |
 | Comodo | malwaresubmit<span>@</span>avlab.comodo.com | | |
@@ -73,9 +73,9 @@ When contributing an email template to the repository you can use [Mailto link g
 | MaxSecure | tech<span>@</span>maxpcsecure.com | | |
 | McAfee | virus_research<span>@</span>mcafee.com | [Send Report](vendors/McAfee.md) | No |
 | McAfee-GW-Edition | virus_research_gateway<span>@</span>avertlabs.com | [Send Report](vendors/McAfee-GW.md) | No |
-| Microsoft | https://www.microsoft.com/en-us/wdsi/filesubmission (Recommended),<br>mmpc<span>@</span>submit.microsoft.com | | Yes |
+| Microsoft | https://www.microsoft.com/en-us/wdsi/filesubmission (recommended), mmpc<span>@</span>submit.microsoft.com | | Yes |
 | Microworld eScan | samples<span>@</span>escanav.com | [Send Report](vendors/eScan.md) | Yes |
-| NANO-Antivirus | http://www.nanoav.ru/index.php?option=com_content&view=article&id=15&Itemid=83&lang=en, false<span>@</span>nanoav.ru |  |  |
+| NANO-Antivirus | https://www.nanoav.ru/index.php?option=com_content&view=article&id=15&Itemid=83&lang=en, false<span>@</span>nanoav.ru |  |  |
 | Netcraft | https://report.netcraft.com/report/mistake | | |
 | Norman | analysis<span>@</span>norman.no, support<span>@</span>norman.com | | |
 | nProtect (Inca) | virus_info<span>@</span>inca.co.kr | | |
