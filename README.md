@@ -43,9 +43,9 @@ When contributing an email template to the repository you can use [Mailto link g
 | CyanSecurity | virustotal<span>@</span>cyansecurity.com | | |
 | Cybereason | vt-feedback<span>@</span>cybereason.com | | |
 | Cylance | cylancefilesubmit<span>@</span>cylance.com | | |
-| Cynet |	soc<span>@</span>cynet.com | [Send Report](vendors/Cynet.md) | Yes |
+| Cynet | soc<span>@</span>cynet.com | [Send Report](vendors/Cynet.md) | Yes |
 | CyRadar | virustotal<span>@</span>cyradar.com | | |
-| Cyren |	support<span>@</span>cyren.com | [Send Report](vendors/Cyren.md) | Yes |
+| Cyren | support<span>@</span>cyren.com | [Send Report](vendors/Cyren.md) | Yes |
 | DNS8 | dns8<span>@</span>layer8.pt | | |
 | DrWeb | vms<span>@</span>drweb.com | | |
 | eGambit (TEHTRIS) | https://tehtris.com/egambit_fp.php, virus<span>@</span>tehtri-security.com | | |
@@ -85,9 +85,9 @@ When contributing an email template to the repository you can use [Mailto link g
 | Qihoo-360 | support<span>@</span>360safe.com | [Send Report](vendors/Qihoo-360.md) | |
 | Rising | http://mailcenter.rising.com.cn/filecheck_en/ | | |
 | Sangfor Engine Zero | save<span>@</span>sangfor.com.cn, https://sec.sangfor.com/user_feedback?lang=EN-US (registration required) | [Send Report](vendors/Sangfor.md) | No |
-| SecureAge APEX | https://www.secureage.com/article-report-false-positive | - | Yes |
+| SecureAge APEX | https://www.secureage.com/article-report-false-positive, secureaplus<span>@</span>secureage.com | | Yes |
 | SentinelOne (Static ML) | report<span>@</span>sentinelone.com | | |
-| Sophos | samples<span>@</span>sophos.com | [Send Report](vendors/Sophos-ML.md) | |
+| Sophos | samples<span>@</span>sophos.com, https://support.sophos.com/support/s/filesubmission | [Send Report](vendors/Sophos-ML.md) | |
 | Spamhaus | https://www.spamhaus.org/dbl/removal/form/ | | |
 | Symantec (Broadcom) | https://symsubmit.symantec.com/, false.positives<span>@</span>broadcom.com | | Yes |
 | Tencent | TAVfp<span>@</span>tencent.com | | |
