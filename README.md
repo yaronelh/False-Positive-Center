@@ -18,6 +18,7 @@ When contributing an email template to the repository you can use [Mailto link g
 | :--- | :--- | :---: | :---: |
 | 360 | kefu<span><span>@</span></span>360.cn | | |
 | Acronis | virustotal-falsepositive<span>@</span>acronis.com | | |
+| Ad-Aware (Lavasoft) | https://www.adaware.com/report-false-positives, malware.labs<span>@</span>adaware.com | | |
 | AegisLab | support<span>@</span>aegislab.com | | |
 | Agnitum | trojans<span>@</span>agnitum.com | | |
 | AhnLab-V3 | v3sos<span>@</span>ahnlab.com (recommended), e-support<span>@</span>ahnlab.com, samples<span>@</span>ahnlab.com | [Send Report](vendors/AhnLab-V3.md) | No |
@@ -51,6 +52,7 @@ When contributing an email template to the repository you can use [Mailto link g
 | eGambit (TEHTRIS) | https://tehtris.com/egambit_fp.php, virus<span>@</span>tehtri-security.com | | |
 | Emsisoft | submit<span>@</span>emsisoft.com or fp<span>@</span>emsisoft.com (false positives), https://www.emsisoft.com/en/support/contact/ | [Send Report](vendors/Emsisoft.md) | |
 | Endgame | info<span>@</span>endgame.com | | |
+| eScan (Microworld) | samples<span>@</span>escanav.com | [Send Report](vendors/eScan.md) | Yes |
 | ESET-NOD32 | https://support.eset.com/kb141/?page=content&id=SOLN141 | | |
 | F-Prot | viruslab<span>@</span>f-prot.com | | |
 | F-Secure | spyware-samples<span>@</span>f-secure.com, vsamples<span>@</span>f-secure.com | | |
@@ -74,7 +76,6 @@ When contributing an email template to the repository you can use [Mailto link g
 | McAfee | virus_research<span>@</span>mcafee.com | [Send Report](vendors/McAfee.md) | No |
 | McAfee-GW-Edition | virus_research_gateway<span>@</span>avertlabs.com | [Send Report](vendors/McAfee-GW.md) | No |
 | Microsoft | https://www.microsoft.com/en-us/wdsi/filesubmission (recommended), mmpc<span>@</span>submit.microsoft.com | | Yes |
-| Microworld eScan | samples<span>@</span>escanav.com | [Send Report](vendors/eScan.md) | Yes |
 | NANO-Antivirus | https://www.nanoav.ru/index.php?option=com_content&view=article&id=15&Itemid=83&lang=en, false<span>@</span>nanoav.ru | | |
 | Netcraft | https://report.netcraft.com/report/mistake | | |
 | Norman | analysis<span>@</span>norman.no, support<span>@</span>norman.com | | |
