@@ -75,7 +75,7 @@ When contributing an email template to the repository you can use [Mailto link g
 | MaxSecure | tech<span>@</span>maxpcsecure.com | | |
 | McAfee | virus_research<span>@</span>mcafee.com | [Send Report](vendors/McAfee.md) | No |
 | McAfee-GW-Edition | virus_research_gateway<span>@</span>avertlabs.com | [Send Report](vendors/McAfee-GW.md) | No |
-| Microsoft | https://www.microsoft.com/en-us/wdsi/filesubmission (recommended), mmpc<span>@</span>submit.microsoft.com | | Yes |
+| Microsoft | https://www.microsoft.com/en-us/wdsi/filesubmission | | Yes |
 | NANO-Antivirus | https://www.nanoav.ru/index.php?option=com_content&view=article&id=15&Itemid=83&lang=en, false<span>@</span>nanoav.ru | | |
 | Netcraft | https://report.netcraft.com/report/mistake | | |
 | Norman | analysis<span>@</span>norman.no, support<span>@</span>norman.com | | |
