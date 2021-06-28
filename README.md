@@ -30,7 +30,7 @@ When contributing an email template to the repository you can use [Mailto link g
 | AVG | https://www.avg.com/false-positive-file-form, https://www.avg.com/us-en/whitelist | | |
 | Babable | obu<span>@</span>babable.com | | |
 | Baidu | bav<span>@</span>baidu.com, gaoyingchun<span>@</span>baidu.com | | |
-| BitDefender | virus_submission<span>@</span>bitdefender.com | [Send Report](vendors/BitDefender.md) | |
+| BitDefender | https://www.bitdefender.com/consumer/support/answer/40673/, virus_submission<span>@</span>bitdefender.com | [Send Report](vendors/BitDefender.md) | Yes |
 | Bkav Pro | fpreport<span>@</span>bkav.com, bkav<span>@</span>bkav.com | | |
 | ByteHero | bytehero<span>@</span>163.com | | |
 | CAT-QuickHeal | viruslab<span>@</span>quickheal.com | | |
