@@ -94,7 +94,7 @@ When contributing an email template to the repository you can use [Mailto link g
 | Tencent | TAVfp<span>@</span>tencent.com | | |
 | TheHacker | virus<span>@</span>hacksoft.com.pe, falsopositivo<span>@</span>hacksoft.com.pe | | |
 | Trapmine | fp<span>@</span>trapmine.com | | |
-| TrendMicro | https://www.trendmicro.com/en_us/about/legal/detection-reevaluation.html, virus<span>@</span>trendmicro.com, virus_doctor<span>@</span>trendmicro.com, http://esupport.trendmicro.com/solution/en-us/1037634.aspx | | |
+| TrendMicro | https://www.trendmicro.com/en_us/about/legal/detection-reevaluation.html, virus_doctor<span>@</span>trendmicro.com, https://helpcenter.trendmicro.com/en-us/srf/ | | |
 | Trustlook | bd<span>@</span>trustlook.com | | |
 | Trustwave | ADavidi<span>@</span>trustwave.com | | |
 | VBA32 | feedback<span>@</span>anti-virus.by | | |
