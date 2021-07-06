@@ -19,7 +19,6 @@ When contributing an email template to the repository you can use [Mailto link g
 | 360 | kefu<span><span>@</span></span>360.cn | | |
 | Acronis | virustotal-falsepositive<span>@</span>acronis.com | | |
 | Ad-Aware (Lavasoft) | https://www.adaware.com/report-false-positives, malware.labs<span>@</span>adaware.com | | |
-| AegisLab | support<span>@</span>aegislab.com | | |
 | Agnitum | trojans<span>@</span>agnitum.com | | |
 | AhnLab-V3 | v3sos<span>@</span>ahnlab.com (recommended), e-support<span>@</span>ahnlab.com, samples<span>@</span>ahnlab.com | [Send Report](vendors/AhnLab-V3.md) | No |
 | Alibaba | virustotal<span>@</span>list.alibaba-inc.com | [Send Report](vendors/Alibaba.md) | No | 
@@ -69,6 +68,7 @@ When contributing an email template to the repository you can use [Mailto link g
 | K7 | reportfp<span>@</span>labs.k7computing.com, k7viruslab<span>@</span>labs.k7computing.com | | |
 | Kaspersky | newvirus<span>@</span>kaspersky.com | | |
 | Kingsoft (Cheetah) | operation<span>@</span>cmcm.com | | |
+| Lionic (AegisLab) | support<span>@</span>aegislab.com | | |
 | Malwarebytes | https://forums.malwarebytes.com/forum/122-false-positives/ (registration required) | - | |
 | Malwares.com (Saint Security) | kog<span>@</span>stsc.com | | |
 | MAX (SaintSecurity) | root<span>@</span>malwares.com | | |
