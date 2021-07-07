@@ -83,7 +83,7 @@ When contributing an email template to the repository you can use [Mailto link g
 | Palo Alto Networks | vt-pan-false-positive<span>@</span>paloaltonetworks.com | | |
 | Panda | falsepositives<span>@</span>pandasecurity.com, virussamples<span>@</span>pandasecurity.com | | |
 | Phising Database | https://github.com/mitchellkrogza/Phishing.Database#please-remove-my-domain-from-this-list- | | |
-| Qihoo-360 | support<span>@</span>360safe.com | [Send Report](vendors/Qihoo-360.md) | |
+| Qihoo-360 | support<span>@</span>360safe.com, https://www.360totalsecurity.com/en/suspicion/false-positive/ | [Send Report](vendors/Qihoo-360.md) | |
 | Rising | http://mailcenter.rising.com.cn/filecheck_en/ | | |
 | Sangfor Engine Zero | save<span>@</span>sangfor.com.cn, https://sec.sangfor.com/user_feedback?lang=EN-US (registration required) | [Send Report](vendors/Sangfor.md) | No |
 | SecureAge APEX | https://www.secureage.com/article-report-false-positive, secureaplus<span>@</span>secureage.com | | Yes |
