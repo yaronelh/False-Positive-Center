@@ -78,7 +78,6 @@ When contributing an email template to the repository you can use [Mailto link g
 | Microsoft | https://www.microsoft.com/en-us/wdsi/filesubmission | | Yes |
 | NANO-Antivirus | https://www.nanoav.ru/index.php?option=com_content&view=article&id=15&Itemid=83&lang=en, false<span>@</span>nanoav.ru | | |
 | Netcraft | https://report.netcraft.com/report/mistake | | |
-| Norman | analysis<span>@</span>norman.no, support<span>@</span>norman.com | | |
 | nProtect (Inca) | virus_info<span>@</span>inca.co.kr | | |
 | Palo Alto Networks | vt-pan-false-positive<span>@</span>paloaltonetworks.com | | |
 | Panda | falsepositives<span>@</span>pandasecurity.com, virussamples<span>@</span>pandasecurity.com | | |
