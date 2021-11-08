@@ -54,7 +54,7 @@ When contributing an email template to the repository you can use [Mailto link g
 | eScan (Microworld) | samples<span>@</span>escanav.com | [Send Report](vendors/eScan.md) | Yes |
 | ESET-NOD32 | https://support.eset.com/kb141/?page=content&id=SOLN141 | | |
 | F-Prot | viruslab<span>@</span>f-prot.com | | |
-| F-Secure | spyware-samples<span>@</span>f-secure.com, vsamples<span>@</span>f-secure.com | | |
+| F-Secure | https://www.f-secure.com/en/business/support-and-downloads/submit-a-sample, spyware-samples<span>@</span>f-secure.com, vsamples<span>@</span>f-secure.com | | |
 | FireEye | virustotal<span>@</span>fireeye.com | | |
 | Forcepoint (websense) | suggest<span>@</span>forcepoint.com | | |
 | Fortinet | submitvirus<span>@</span>fortinet.com | | |
