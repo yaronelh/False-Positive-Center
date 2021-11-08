@@ -51,7 +51,7 @@ When contributing an email template to the repository you can use [Mailto link g
 | eGambit (TEHTRIS) | https://tehtris.com/egambit_fp.php, virus<span>@</span>tehtri-security.com | | |
 | Emsisoft | submit<span>@</span>emsisoft.com or fp<span>@</span>emsisoft.com (false positives), https://www.emsisoft.com/en/support/contact/ | [Send Report](vendors/Emsisoft.md) | |
 | Endgame | info<span>@</span>endgame.com | | |
-| eScan (Microworld) | samples<span>@</span>escanav.com | [Send Report](vendors/eScan.md) | Yes |
+| eScan (Microworld) | samples<span>@</span>escanav.com, http://support.mwti.net/support/index.php?/Tickets/Submit/ | [Send Report](vendors/eScan.md) | Yes |
 | ESET-NOD32 | https://support.eset.com/kb141/?page=content&id=SOLN141 | | |
 | F-Prot | viruslab<span>@</span>f-prot.com | | |
 | F-Secure | spyware-samples<span>@</span>f-secure.com, vsamples<span>@</span>f-secure.com | | |
