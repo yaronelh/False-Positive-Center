@@ -47,7 +47,7 @@ When contributing an email template to the repository you can use [Mailto link g
 | CyRadar | virustotal<span>@</span>cyradar.com | | |
 | Cyren | support<span>@</span>cyren.com | [Send Report](vendors/Cyren.md) | Yes |
 | DNS8 | dns8<span>@</span>layer8.pt | | |
-| DrWeb | vms<span>@</span>drweb.com | | |
+| DrWeb | https://vms.drweb.com/sendvirus/, vms<span>@</span>drweb.com | | |
 | eGambit (TEHTRIS) | https://tehtris.com/egambit_fp.php, virus<span>@</span>tehtri-security.com | | |
 | Emsisoft | submit<span>@</span>emsisoft.com or fp<span>@</span>emsisoft.com (false positives), https://www.emsisoft.com/en/support/contact/ | [Send Report](vendors/Emsisoft.md) | |
 | Endgame | info<span>@</span>endgame.com | | |
