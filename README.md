@@ -98,6 +98,7 @@ When contributing an email template to the repository you can use [Mailto link g
 | Trustlook | bd<span>@</span>trustlook.com | | |
 | Trustwave | ADavidi<span>@</span>trustwave.com | | |
 | VBA32 | feedback<span>@</span>anti-virus.by | | |
+| VIPRE | https://www.vipre.com/support/submit-false-positive/ | | |
 | VirusDie | partners<span>@</span>virusdie.com | | |
 | Webroot | https://www.webroot.com/us/en/business/support/vendor-dispute-contact-us, https://detail.webrootanywhere.com/servicewelcome.asp (registration required) | | |
 | Yandex | yandex-antivir<span>@</span>support.yandex.ru | | |
