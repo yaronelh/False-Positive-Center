@@ -25,7 +25,7 @@ When contributing an email template to the repository you can use [Mailto link g
 | ALYac (ESTsecurity) | esrc<span>@</span>estsecurity.com | | |
 | Antiy-AVL | avlsdk_support_vt<span>@</span>antiy.cn or submit<span>@</span>antiy.com | | |
 | Avast | https://www.avast.com/false-positive-file-form.php, virus<span>@</span>avast.com | | |
-| Avira (no cloud) | cleanset<span>@</span>avira.com, virus_malware<span>@</span>avira.com, virus<span>@</span>avira.com | | |
+| Avira (no cloud) | https://www.avira.com/en/analysis/submit, cleanset<span>@</span>avira.com, virus_malware<span>@</span>avira.com, virus<span>@</span>avira.com | | |
 | AVG | https://www.avg.com/false-positive-file-form, https://www.avg.com/us-en/whitelist | | |
 | Babable | obu<span>@</span>babable.com | | |
 | Baidu | bav<span>@</span>baidu.com, gaoyingchun<span>@</span>baidu.com | | |
