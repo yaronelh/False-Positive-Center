@@ -66,7 +66,7 @@ When contributing an email template to the repository you can use [Mailto link g
 | Invincea | info<span>@</span>invincea.com | | |
 | Jiangmin | support<span>@</span>jiangmin.com, shaojia<span>@</span>jiangmin.com | | |
 | K7 | reportfp<span>@</span>labs.k7computing.com, k7viruslab<span>@</span>labs.k7computing.com | | |
-| Kaspersky | newvirus<span>@</span>kaspersky.com | | |
+| Kaspersky | https://opentip.kaspersky.com/, newvirus<span>@</span>kaspersky.com | | |
 | Kingsoft (Cheetah) | operation<span>@</span>cmcm.com | | |
 | Lionic (AegisLab) | support<span>@</span>aegislab.com | | |
 | Malwarebytes | https://forums.malwarebytes.com/forum/122-false-positives/ (registration required) | - | |
