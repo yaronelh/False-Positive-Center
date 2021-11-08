@@ -37,7 +37,7 @@ When contributing an email template to the repository you can use [Mailto link g
 | ClamAV | https://www.clamav.net/reports/fp | | |
 | Clean-MX | abuse<span>@</span>clean-mx.de | | |
 | CMC | vulambang<span>@</span>cmcinfosec.com, support.is<span>@</span>cmclab.net | | |
-| Comodo | malwaresubmit<span>@</span>avlab.comodo.com | | |
+| Comodo | https://www.comodo.com/home/internet-security/submit.php, malwaresubmit<span>@</span>avlab.comodo.com | | |
 | CRDF | labs<span>@</span>crdf.fr | | |
 | CrowdStrike Falcon | VTscanner<span>@</span>crowdstrike.com | | |
 | CyanSecurity | virustotal<span>@</span>cyansecurity.com | | |
