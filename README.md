@@ -11,8 +11,13 @@ The repository lists the emails, and websites security vendors (antivirus compan
 - Update information
 - Change out-of-date information
 
-When contributing an email template to the repository you can use [Mailto link generator](https://mailtolinkgenerator.com/) to create a formatted `mailto` template like this [example](mailto:virus_research@avertlabs.com?subject=FALSE%3A%20file%20detected%20by%20McAfee.&body=Hi%2C%0D%0A%0D%0AMy%20Program%20Is%20Falsely%20Detected%20With%20XXXXXXXXX%20in%20Virus%20Total%2C%20Please%20double%20check.%0D%0AProduct%3A%20McAfee%20At%20Virus%20Total%0D%0AEngine%3A%20unknown%0D%0A%0D%0AVirus%20totaled%20linked%3A%0D%0AXXXXXXXXXX%0D%0A%0D%0ABest%20Regards%0D%0A%0D%0A%5Bfalse-positive%20center%20github%5D).
+#### What should be included in the email?
+A few things are basically required by all security vendors, and would likely lead to better communication. So make sure your email includes the following when sent.
+- The detection name
+- Product (when applicable, some vendors have multiple different AV product at virus total, list which produced the detection)
+- The virus total link
 
+#### Antivirus Contact Info For False Positives
 
 | ENGINE | Contact | 
 | :--- | :--- | 
