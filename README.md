@@ -37,7 +37,7 @@ A few things are basically required by all security vendors, and would likely le
 | BitDefender | https://www.bitdefender.com/consumer/support/answer/40673/, virus_submission<span>@</span>bitdefender.com | 
 | Bkav Pro | fpreport<span>@</span>bkav.com, bkav<span>@</span>bkav.com |
 | ByteHero | bytehero<span>@</span>163.com |
-| CAT-QuickHeal | viruslab<span>@</span>quickheal.com |
+| CAT-QuickHeal | viruslab<span>@</span>quickheal.com, OEMENGINE<span>@</span>quickheal.com |
 | Certego | https://www.certego.net/en/contatti/ |
 | ClamAV | https://www.clamav.net/reports/fp |
 | Clean-MX | abuse<span>@</span>clean-mx.de |
