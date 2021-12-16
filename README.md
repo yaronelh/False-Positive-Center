@@ -62,7 +62,7 @@ A few things are basically required by all security vendors, and would likely le
 | F-Secure | https://www.f-secure.com/en/business/support-and-downloads/submit-a-sample, spyware-samples<span>@</span>f-secure.com, vsamples<span>@</span>f-secure.com |
 | FireEye | virustotal<span>@</span>fireeye.com |
 | Forcepoint (websense) | suggest<span>@</span>forcepoint.com |
-| Fortinet | submitvirus<span>@</span>fortinet.com |
+| Fortinet | submitvirus<span>@</span>fortinet.com, https://www.fortiguard.com/faq/classificationdispute |
 | GData | https://www.gdatasoftware.com/faq/consumer/submit-a-suspicious-file-app-or-url |
 | Gridinsoft | antimalware<span>@</span>gridinsoft.com, https://anti-malware.gridinsoft.com/false-detect/ | 
 | Hacksoft | virus<span>@</span>hacksoft.com.pe |
