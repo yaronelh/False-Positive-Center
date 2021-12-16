@@ -90,7 +90,7 @@ A few things are basically required by all security vendors, and would likely le
 | Qihoo-360 | support<span>@</span>360safe.com, https://www.360totalsecurity.com/en/suspicion/false-positive/ | 
 | Rising | http://mailcenter.rising.com.cn/filecheck_en/ |
 | Sangfor Engine Zero | save<span>@</span>sangfor.com.cn, https://sec.sangfor.com/user_feedback?lang=EN-US (registration required) |
-| SecureAge APEX | https://www.secureage.com/article-report-false-positive, secureaplus<span>@</span>secureage.com | | Yes |
+| SecureAge APEX | https://www.secureage.com/article-report-false-positive | | Yes |
 | SentinelOne (Static ML) | report<span>@</span>sentinelone.com |
 | Sophos | samples<span>@</span>sophos.com, https://support.sophos.com/support/s/filesubmission | 
 | Spamhaus | https://www.spamhaus.org/dbl/removal/form/ |
