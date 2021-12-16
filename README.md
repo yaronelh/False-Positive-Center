@@ -64,7 +64,7 @@ A few things are basically required by all security vendors, and would likely le
 | Forcepoint (websense) | suggest<span>@</span>forcepoint.com |
 | Fortinet | submitvirus<span>@</span>fortinet.com |
 | GData | https://www.gdatasoftware.com/faq/consumer/submit-a-suspicious-file-app-or-url |
-| Gridinsoft | antimalware<span>@</span>gridinsoft.com | 
+| Gridinsoft | antimalware<span>@</span>gridinsoft.com,https://anti-malware.gridinsoft.com/false-detect/ | 
 | Hacksoft | virus<span>@</span>hacksoft.com.pe |
 | Hauri | viruslab<span>@</span>hauri.co.kr |
 | Ikarus | fp<span>@</span>ikarus.at, samples<span>@</span>ikarus.at | 
