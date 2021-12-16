@@ -21,7 +21,7 @@ A few things are basically required by all security vendors, and would likely le
 
 | ENGINE | Contact | 
 | :--- | :--- | 
-| 360 | kefu<span><span>@</span></span>360.cn |
+| 360 | kefu<span><span>@</span></span>360.cn,https://open.soft.360.cn/report.php |
 | Acronis | virustotal-falsepositive<span>@</span>acronis.com |
 | Ad-Aware (Lavasoft) | https://www.adaware.com/report-false-positives, malware.labs<span>@</span>adaware.com |
 | Agnitum | trojans<span>@</span>agnitum.com |
