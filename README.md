@@ -127,7 +127,7 @@ If you did find an error in your configuration, consider resending the emails yo
 
 
 ### Contributors
-Yaron Elharar, Pavel Moiseenko, Justine M., Kai Kramer, you?..
+Yaron Elharar, Pavel Moiseenko, Justine M.,sln162, Kai Kramer, you?..
 
 
 #### Special thanks
