@@ -53,7 +53,7 @@ A few things are basically required by all security vendors, and would likely le
 | Cyren | support<span>@</span>cyren.com | 
 | DNS8 | dns8<span>@</span>layer8.pt |
 | DrWeb | https://vms.drweb.com/sendvirus/, vms<span>@</span>drweb.com |
-| eGambit (TEHTRIS) | https://tehtris.com/en/false-positives-false-negatives/| | |
+| eGambit (TEHTRIS) | https://tehtris.com/en/false-positives-false-negatives/|
 | Emsisoft | submit<span>@</span>emsisoft.com or fp<span>@</span>emsisoft.com (false positives), https://www.emsisoft.com/en/support/contact/ | 
 | Endgame | info<span>@</span>endgame.com |
 | eScan (Microworld) | samples<span>@</span>escanav.com, http://support.mwti.net/support/index.php?/Tickets/Submit/ |
@@ -74,13 +74,13 @@ A few things are basically required by all security vendors, and would likely le
 | Kaspersky | https://opentip.kaspersky.com/, newvirus<span>@</span>kaspersky.com |
 | Kingsoft (Cheetah) | operation<span>@</span>cmcm.com |
 | Lionic (AegisLab) | support<span>@</span>aegislab.com |
-| Malwarebytes | https://forums.malwarebytes.com/forum/122-false-positives/ (registration required) | - | |
+| Malwarebytes | https://forums.malwarebytes.com/forum/122-false-positives/ (registration required) |
 | Malwares.com (Saint Security) | kog<span>@</span>stsc.com |
 | MAX (SaintSecurity) | root<span>@</span>malwares.com |
 | MaxSecure | tech<span>@</span>maxpcsecure.com |
 | McAfee | virus_research<span>@</span>mcafee.com, datasubmission<span>@</span>mcafee.com | 
 | McAfee-GW-Edition | datasubmission<span>@</span>mcafee.com |
-| Microsoft | https://www.microsoft.com/en-us/wdsi/filesubmission | | Yes |
+| Microsoft | https://www.microsoft.com/en-us/wdsi/filesubmission |
 | NANO-Antivirus | https://www.nanoav.ru/index.php?option=com_content&view=article&id=15&Itemid=83&lang=en, false<span>@</span>nanoav.ru |
 | Netcraft | https://report.netcraft.com/report/mistake |
 | nProtect (Inca) | virus_info<span>@</span>inca.co.kr |
@@ -90,7 +90,7 @@ A few things are basically required by all security vendors, and would likely le
 | Qihoo-360 | support<span>@</span>360safe.com, https://www.360totalsecurity.com/en/suspicion/false-positive/ | 
 | Rising | http://mailcenter.rising.com.cn/filecheck_en/ |
 | Sangfor Engine Zero | save<span>@</span>sangfor.com.cn, https://sec.sangfor.com/user_feedback?lang=EN-US (registration required) |
-| SecureAge APEX | https://www.secureage.com/article-report-false-positive | | Yes |
+| SecureAge APEX | https://www.secureage.com/article-report-false-positive |
 | SentinelOne (Static ML) | report<span>@</span>sentinelone.com |
 | Sophos | samples<span>@</span>sophos.com, https://support.sophos.com/support/s/filesubmission | 
 | Spamhaus | https://www.spamhaus.org/dbl/removal/form/ |
