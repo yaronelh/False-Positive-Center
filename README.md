@@ -37,7 +37,7 @@ A few things are basically required by all security vendors, and would likely le
 | BitDefender | https://www.bitdefender.com/consumer/support/answer/40673/, virus_submission<span>@</span>bitdefender.com | 
 | Bkav Pro | fpreport<span>@</span>bkav.com, bkav<span>@</span>bkav.com |
 | ByteHero | bytehero<span>@</span>163.com |
-| CAT-QuickHeal | viruslab<span>@</span>quickheal.com |
+| CAT-QuickHeal | viruslab<span>@</span>quickheal.com, OEMENGINE<span>@</span>quickheal.com |
 | Certego | https://www.certego.net/en/contatti/ |
 | ClamAV | https://www.clamav.net/reports/fp |
 | Clean-MX | abuse<span>@</span>clean-mx.de |
@@ -62,7 +62,7 @@ A few things are basically required by all security vendors, and would likely le
 | F-Secure | https://www.f-secure.com/en/business/support-and-downloads/submit-a-sample, spyware-samples<span>@</span>f-secure.com, vsamples<span>@</span>f-secure.com |
 | FireEye | virustotal<span>@</span>fireeye.com |
 | Forcepoint (websense) | suggest<span>@</span>forcepoint.com |
-| Fortinet | submitvirus<span>@</span>fortinet.com |
+| Fortinet | submitvirus<span>@</span>fortinet.com, https://www.fortiguard.com/faq/classificationdispute |
 | GData | https://www.gdatasoftware.com/faq/consumer/submit-a-suspicious-file-app-or-url |
 | Gridinsoft | antimalware<span>@</span>gridinsoft.com, https://anti-malware.gridinsoft.com/false-detect/ | 
 | Hacksoft | virus<span>@</span>hacksoft.com.pe |
@@ -90,7 +90,7 @@ A few things are basically required by all security vendors, and would likely le
 | Qihoo-360 | support<span>@</span>360safe.com, https://www.360totalsecurity.com/en/suspicion/false-positive/ | 
 | Rising | http://mailcenter.rising.com.cn/filecheck_en/ |
 | Sangfor Engine Zero | save<span>@</span>sangfor.com.cn, https://sec.sangfor.com/user_feedback?lang=EN-US (registration required) |
-| SecureAge APEX | https://www.secureage.com/article-report-false-positive, secureaplus<span>@</span>secureage.com | | Yes |
+| SecureAge APEX | https://www.secureage.com/article-report-false-positive | | Yes |
 | SentinelOne (Static ML) | report<span>@</span>sentinelone.com |
 | Sophos | samples<span>@</span>sophos.com, https://support.sophos.com/support/s/filesubmission | 
 | Spamhaus | https://www.spamhaus.org/dbl/removal/form/ |
