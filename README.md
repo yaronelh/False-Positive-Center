@@ -92,7 +92,7 @@ A few things are basically required by all security vendors, and would likely le
 | Sangfor Engine Zero | save<span>@</span>sangfor.com.cn, https://sec.sangfor.com/user_feedback?lang=EN-US (registration required) |
 | SecureAge APEX | https://www.secureage.com/article-report-false-positive |
 | SentinelOne (Static ML) | report<span>@</span>sentinelone.com |
-| Sophos | samples<span>@</span>sophos.com, https://support.sophos.com/support/s/filesubmission | 
+| Sophos | https://support.sophos.com/support/s/filesubmission | 
 | Spamhaus | https://www.spamhaus.org/dbl/removal/form/ |
 | Symantec (Broadcom) | https://symsubmit.symantec.com/, false.positives<span>@</span>broadcom.com |
 | Tencent | TAVfp<span>@</span>tencent.com |
