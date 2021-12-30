@@ -83,6 +83,7 @@ A few things are basically required by all security vendors, and would likely le
 | Microsoft | https://www.microsoft.com/en-us/wdsi/filesubmission |
 | NANO-Antivirus | https://www.nanoav.ru/index.php?option=com_content&view=article&id=15&Itemid=83&lang=en, false<span>@</span>nanoav.ru |
 | Netcraft | https://report.netcraft.com/report/mistake |
+| Norton | https://submit.norton.com |
 | nProtect (Inca) | virus_info<span>@</span>inca.co.kr |
 | Palo Alto Networks | vt-pan-false-positive<span>@</span>paloaltonetworks.com |
 | Panda | falsepositives<span>@</span>pandasecurity.com, virussamples<span>@</span>pandasecurity.com |
