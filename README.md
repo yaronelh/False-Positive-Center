@@ -113,6 +113,18 @@ A few things are basically required by all security vendors, and would likely le
 | Zoner | false<span>@</span>zonerantivirus.com |
 
 
+### Antivirus Vendors Whitelisting programs
+To decrease the chance of false positives you can consider submitting your program to a Antivirus companies whitelisting program, In the list below (just started 30th January contributions encouraged), Most programs require registration and a manual approval process.
+
+| ENGINE | Link To Whitelisting Program / Allowlist Program | 
+| :--- | :--- | 
+| Kaspersky | https://www.kaspersky.com/partners/allowlist-program |
+| AVG | https://support.avg.com/SupportArticleView?l=en&urlname=AVG-Threat-Lab-file-whitelist |
+| McAfee | https://service.mcafee.com/?locale=en-US&articleId=TS102751&fromSearch=true&page=shell&shell=article-view |
+
+
+
+
 ### AV companies are not responsive?
 There could be a scenario where an antivirus/security company is not responsive, but to be sure that the issue is not on your end (especially if you're sending emails from your own domain). Check that your DNS records are set up correctly for good deliverability. Add an SPF, DKIM, and DMARC to your DNS records. Some AV companies may ignore emails that are not set up correctly, and some will send a response email with an error, depending on how the individual company is setup.
 
