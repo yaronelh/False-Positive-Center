@@ -105,7 +105,7 @@ A few things are basically required by all security vendors, and would likely le
 | VBA32 | feedback<span>@</span>anti-virus.by |
 | VIPRE | https://www.vipre.com/support/submit-false-positive/ |
 | VirusDie | partners<span>@</span>virusdie.com |
-| Webroot | https://www.webroot.com/us/en/business/support/vendor-dispute-contact-us, https://detail.webrootanywhere.com/servicewelcome.asp (registration required) |
+| Webroot | http://snup.webrootcloudav.com/SkyStoreFileUploader/upload.aspx, https://www.webroot.com/us/en/business/support/vendor-dispute-contact-us |
 | Yandex | yandex-antivir<span>@</span>support.yandex.ru |
 | Yomi | yomi-false-positives<span>@</span>yoroi.company |
 | Zillya | virus<span>@</span>zillya.com |
@@ -118,12 +118,11 @@ To decrease the chance of false positives you can consider submitting your progr
 
 | ENGINE | Link To Whitelisting Program / Allowlist Program | 
 | :--- | :--- | 
-| Kaspersky | https://www.kaspersky.com/partners/allowlist-program |
+| Avast | https://support.avast.com/en-ww/article/229/ |
 | AVG | https://support.avg.com/SupportArticleView?l=en&urlname=AVG-Threat-Lab-file-whitelist |
+| eset | https://support.eset.com/en/kb3345-how-do-i-whitelist-my-software-with-eset |
+| Kaspersky | https://www.kaspersky.com/partners/allowlist-program |
 | McAfee | https://service.mcafee.com/?locale=en-US&articleId=TS102751&fromSearch=true&page=shell&shell=article-view |
-
-
-
 
 ### AV companies are not responsive?
 There could be a scenario where an antivirus/security company is not responsive, but to be sure that the issue is not on your end (especially if you're sending emails from your own domain). Check that your DNS records are set up correctly for good deliverability. Add an SPF, DKIM, and DMARC to your DNS records. Some AV companies may ignore emails that are not set up correctly, and some will send a response email with an error, depending on how the individual company is setup.
