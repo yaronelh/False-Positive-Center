@@ -148,3 +148,8 @@ Ana Tinoco from VirusTotal support, and the VirusTotal support team for making t
 
 #### Final notes
 While I tried to maintain the accuracy of the information here to the best of my ability, it may be that you encounter inaccuracies as things naturally change over time. If you do find any inaccuracies I encourage you to use a pull request, report an issue, or sending me a message.
+
+#### Other important resources
+
+Certification requirements for windows desktop apps - (article by Microsoft to make sure you're covering the basics)
+https://docs.microsoft.com/en-us/windows/win32/win_cert/certification-requirements-for-windows-desktop-apps
