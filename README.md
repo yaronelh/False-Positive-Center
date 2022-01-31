@@ -123,6 +123,10 @@ To decrease the chance of false positives you can consider submitting your progr
 | eset | https://support.eset.com/en/kb3345-how-do-i-whitelist-my-software-with-eset |
 | Kaspersky | https://www.kaspersky.com/partners/allowlist-program |
 | McAfee | https://service.mcafee.com/?locale=en-US&articleId=TS102751&fromSearch=true&page=shell&shell=article-view |
+| Semantic (Norton) | [Whitelisting Program Discontinued](https://knowledge.broadcom.com/external/article/152428/adding-software-to-the-symantec-whitelis.html) |
+
+
+
 
 ### AV companies are not responsive?
 There could be a scenario where an antivirus/security company is not responsive, but to be sure that the issue is not on your end (especially if you're sending emails from your own domain). Check that your DNS records are set up correctly for good deliverability. Add an SPF, DKIM, and DMARC to your DNS records. Some AV companies may ignore emails that are not set up correctly, and some will send a response email with an error, depending on how the individual company is setup.
