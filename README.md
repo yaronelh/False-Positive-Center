@@ -1,7 +1,7 @@
 # False Positive Center
 Repository to help security vendors deal with false positives, improving their detection engine, and centralize information for software developers making it easier to submit false positives to AV companies.
 
-The repository lists the emails, and websites security vendors (antivirus companies) used to receive false positive reports it's an effort to facilitate communication between software developers and security vendors.
+The repository lists the emails, and websites security vendors (antivirus companies) used to receive false positive reports. it's an effort to facilitate communication between software developers and security vendors.
 
 [AV companies are not responsive? Look at the bottom for additional details.](#av-companies-are-not-responsive)
 
