@@ -28,13 +28,13 @@ A few things are basically required by all security vendors, and would likely le
 | AhnLab-V3 | v3sos@ahnlab.com (recommended), e-support@ahnlab.com, samples@ahnlab.com | 
 | Alibaba | virustotal@list.alibaba-inc.com |
 | ALYac (ESTsecurity) | esrc@estsecurity.com |
-| Antiy-AVL | avlsdk_support_vt@antiy.cn or submit@antiy.com |
+| Antiy-AVL | avlsdk_support_vt@antiy.cn or submit@antiy.com, https://www.antiy.net/contacts/ |
 | Avast | https://www.avast.com/false-positive-file-form.php, virus@avast.com |
 | Avira (no cloud) | https://www.avira.com/en/analysis/submit, cleanset@avira.com, virus_malware@avira.com, virus@avira.com |
 | AVG | https://www.avg.com/false-positive-file-form, https://www.avg.com/us-en/whitelist |
 | Babable | obu@babable.com |
 | Baidu | bav@baidu.com, gaoyingchun@baidu.com |
-| BitDefender | https://www.bitdefender.com/consumer/support/answer/40673/, virus_submission@bitdefender.com | 
+| BitDefender | https://www.bitdefender.com/consumer/support/answer/40673/, virus_submission@bitdefender.com, oemsamples@bitdefender.com| 
 | Bkav Pro | fpreport@bkav.com, bkav@bkav.com |
 | ByteHero | bytehero@163.com |
 | CAT-QuickHeal | viruslab@quickheal.com, OEMENGINE@quickheal.com |
@@ -50,7 +50,7 @@ A few things are basically required by all security vendors, and would likely le
 | Cylance | cylancefilesubmit@cylance.com |
 | Cynet | soc@cynet.com |
 | CyRadar | virustotal@cyradar.com |
-| Cyren | support@cyren.com | 
+| Cyren | support@cyren.com, Instructions: https://www.cyren.com/support/reporting-av-misclassifications | 
 | DNS8 | dns8@layer8.pt |
 | DrWeb | https://vms.drweb.com/sendvirus/, vms@drweb.com |
 | eGambit (TEHTRIS) | https://tehtris.com/en/false-positives-false-negatives/|
@@ -61,13 +61,15 @@ A few things are basically required by all security vendors, and would likely le
 | F-Prot | viruslab@f-prot.com |
 | F-Secure | https://www.f-secure.com/en/business/support-and-downloads/submit-a-sample, spyware-samples@f-secure.com, vsamples@f-secure.com |
 | FireEye | virustotal@fireeye.com |
+| Filseclab | fp@filseclab.com |
 | Forcepoint (websense) | suggest@forcepoint.com |
 | Fortinet | submitvirus@fortinet.com, https://www.fortiguard.com/faq/classificationdispute |
 | GData | https://www.gdatasoftware.com/faq/consumer/submit-a-suspicious-file-app-or-url |
 | Gridinsoft | antimalware@gridinsoft.com, https://anti-malware.gridinsoft.com/false-detect/ | 
 | Hacksoft | virus@hacksoft.com.pe |
 | Hauri | viruslab@hauri.co.kr |
-| Ikarus | fp@ikarus.at, samples@ikarus.at | 
+| Huorong | seclab@huorong.cn |
+| Ikarus | fp@ikarus.at, samples@ikarus.at, false-positive@ikarus.at | 
 | Invincea | info@invincea.com |
 | Jiangmin | support@jiangmin.com, shaojia@jiangmin.com |
 | K7 | reportfp@labs.k7computing.com, k7viruslab@labs.k7computing.com, support@k7computing.com, https://support.k7computing.com/index.php?/ticket/submit-ticket |
@@ -78,9 +80,9 @@ A few things are basically required by all security vendors, and would likely le
 | Malwares.com (Saint Security) | kog@stsc.com |
 | MAX (SaintSecurity) | root@malwares.com |
 | MaxSecure | tech@maxpcsecure.com |
-| McAfee | virus_research@mcafee.com, datasubmission@mcafee.com | 
+| McAfee | Instructions: https://kc.mcafee.com/corporate/index?page=content&id=KB85567, virus_research@avertlabs.com | 
 | McAfee-GW-Edition | datasubmission@mcafee.com |
-| Microsoft | https://www.microsoft.com/en-us/wdsi/filesubmission |
+| Microsoft Windows Defender | https://www.microsoft.com/en-us/wdsi/filesubmission |
 | NANO-Antivirus | https://www.nanoav.ru/index.php?option=com_content&view=article&id=15&Itemid=83&lang=en, false@nanoav.ru |
 | Netcraft | https://report.netcraft.com/report/mistake |
 | Norton | https://submit.norton.com |
@@ -90,12 +92,16 @@ A few things are basically required by all security vendors, and would likely le
 | Phising Database | https://github.com/mitchellkrogza/Phishing.Database#please-remove-my-domain-from-this-list- |
 | Qihoo-360 | support@360safe.com, https://www.360totalsecurity.com/en/suspicion/false-positive/ | 
 | Rising | http://mailcenter.rising.com.cn/filecheck_en/ |
+| RocketCyber | support@rocketcyber.com |
 | Sangfor Engine Zero | save@sangfor.com.cn, https://sec.sangfor.com/user_feedback?lang=EN-US (registration required) |
+| Scrutiny | training@cyberstanc.com |
 | SecureAge APEX | https://www.secureage.com/article-report-false-positive |
 | SentinelOne (Static ML) | report@sentinelone.com |
 | Sophos | https://support.sophos.com/support/s/filesubmission | 
 | Spamhaus | https://www.spamhaus.org/dbl/removal/form/ |
 | Symantec (Broadcom) | https://symsubmit.symantec.com/, false.positives@broadcom.com |
+| Systweak | http://support.systweak.com/kayako/index.php?/Tickets/Submit |
+| Tachyon | isarc@inca.co.kr (Password Protected zip file include detection name)|
 | Tencent | TAVfp@tencent.com |
 | TheHacker | virus@hacksoft.com.pe, falsopositivo@hacksoft.com.pe |
 | Trapmine | fp@trapmine.com |
@@ -104,11 +110,15 @@ A few things are basically required by all security vendors, and would likely le
 | Trustwave | ADavidi@trustwave.com |
 | VBA32 | feedback@anti-virus.by |
 | VIPRE | https://www.vipre.com/support/submit-false-positive/ |
+| VirusBlokAda | support-en@anti-virus.by |
 | VirusDie | partners@virusdie.com |
+| VirIT | http://www.tgsoft.it/italy/file_sospetti.asp |
 | Webroot | http://snup.webrootcloudav.com/SkyStoreFileUploader/upload.aspx, https://www.webroot.com/us/en/business/support/vendor-dispute-contact-us |
+| Webroot SMD | https://www.brightcloud.com/tools/file-change-request.php |
+| XVirus | samples@xvirus.net, https://xvirus.net/submit |
 | Yandex | yandex-antivir@support.yandex.ru |
 | Yomi | yomi-false-positives@yoroi.company |
-| Zillya | virus@zillya.com |
+| Zillya | virus@zillya.com , https://zillya.com/support, help@zillya.com |
 | ZoneAlarm by Check Point | zonealarm_VT_reports@checkpoint.com |
 | Zoner | false@zonerantivirus.com |
 
