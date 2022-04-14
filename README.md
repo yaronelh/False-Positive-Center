@@ -15,7 +15,7 @@ The repository lists the emails, and websites security vendors (antivirus compan
 A few things are basically required by all security vendors, and would likely lead to better communication. So make sure your email includes the following when sent.
 - The detection name
 - Product (when applicable, some vendors have multiple different AV product at virus total, list which produced the detection)
-- The virus total link
+- The virus total link, or OPSWAT
 
 #### Antivirus Contact Info For False Positives
 
