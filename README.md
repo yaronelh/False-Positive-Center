@@ -47,7 +47,7 @@ A few things are basically required by all security vendors, and would likely le
 | CrowdStrike Falcon | VTscanner@crowdstrike.com |
 | CyanSecurity | virustotal@cyansecurity.com |
 | Cybereason | vt-feedback@cybereason.com |
-| Cylance | cylancefilesubmit@cylance.com |
+| Cylance | cylancefilesubmit@cylance.com, [General instructions for submission](https://support.blackberry.com/kb/articleDetail?language=en_US&articleNumber=000067337) |
 | Cynet | soc@cynet.com |
 | CyRadar | virustotal@cyradar.com |
 | Cyren | support@cyren.com, Instructions: https://www.cyren.com/support/reporting-av-misclassifications | 
