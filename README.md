@@ -28,7 +28,7 @@ A few things are basically required by all security vendors, and would likely le
 | AhnLab-V3 | v3sos@ahnlab.com (recommended), e-support@ahnlab.com, samples@ahnlab.com | 
 | Alibaba | virustotal@list.alibaba-inc.com |
 | ALYac (ESTsecurity) | esrc@estsecurity.com |
-| Antiy-AVL | avlsdk_support_vt@antiy.cn or submit@antiy.com, https://www.antiy.net/contacts/ |
+| Antiy-AVL | avlsdk_support_vt@antiy.cn or submit@antiy.com |
 | Avast | https://www.avast.com/false-positive-file-form.php, virus@avast.com |
 | Avira (no cloud) | https://www.avira.com/en/analysis/submit, cleanset@avira.com, virus_malware@avira.com, virus@avira.com |
 | AVG | https://www.avg.com/false-positive-file-form, https://www.avg.com/us-en/whitelist |
