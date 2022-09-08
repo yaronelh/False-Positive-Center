@@ -15,7 +15,18 @@ The repository lists the emails, and websites security vendors (antivirus compan
 A few things are basically required by all security vendors, and would likely lead to better communication. So make sure your email includes the following when sent.
 - The detection name
 - Product (when applicable, some vendors have multiple different AV product at virus total, list which produced the detection)
-- The virus total link, or OPSWAT
+- The VirusTotal link, or OPSWAT
+
+#### VirusTotal (Important)
+
+A flagged detection on virustotal does not mean, that the commercial version of that security vendor will detect/flag the file the same way. Security vendors usually configure their VirusTotal implementation to be more sensitive/differently than their actual product
+
+Quote from [this VirusTotal Q&A](https://support.virustotal.com/hc/en-us/articles/115002094589-Why-do-not-you-include-statistics-comparing-antivirus-performance-)  
+- VirusTotal's antivirus engines are command line versions, so depending on the product, they will not behave exactly the same as the desktop versions: for instance, desktop solutions may use techniques based on behavioral analysis and count with personal firewalls that may decrease entry points and mitigate propagation, etc.
+- In VirusTotal desktop-oriented solutions coexist with perimeter-oriented solutions; **heuristics in this latter group may be more aggressive and paranoid**, since the impact of false positives is less visible in the perimeter. It is simply not fair to compare both groups.
+- Some of the solutions included in VirusTotal are parametrized (in coherence with the developer company's desire) with a **different heuristic/aggressiveness level than the official end-user default configuration**.
+
+[*] Emphases not present in the original text, And added for clarity.
 
 #### Antivirus Contact Info For False Positives
 
