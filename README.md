@@ -65,6 +65,7 @@ Quote from [this VirusTotal Q&A](https://support.virustotal.com/hc/en-us/article
 | DNS8 | dns8@layer8.pt |
 | DrWeb | https://vms.drweb.com/sendvirus/, vms@drweb.com |
 | eGambit (TEHTRIS) | https://tehtris.com/en/false-positives-false-negatives/|
+| Elastic antivirus  | https://discuss.elastic.co/t/submitting-false-positives/232322 |
 | Emsisoft | submit@emsisoft.com or fp@emsisoft.com (false positives), https://www.emsisoft.com/en/support/contact/ | 
 | Endgame | info@endgame.com |
 | eScan (Microworld) | samples@escanav.com, http://support.mwti.net/support/index.php?/Tickets/Submit/ |
