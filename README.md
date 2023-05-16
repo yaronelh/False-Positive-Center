@@ -54,7 +54,7 @@ Quote from [this VirusTotal Q&A](https://support.virustotal.com/hc/en-us/article
 | Clean-MX | abuse@clean-mx.de |
 | CMC | vulambang@cmcinfosec.com, support.is@cmclab.net |
 | Comodo | https://www.comodo.com/home/internet-security/submit.php, malwaresubmit@avlab.comodo.com |
-| CRDF | labs@crdf.fr |
+| CRDF Labs | https://threatcenter.crdf.fr/false_positive.html |
 | CrowdStrike Falcon | VTscanner@crowdstrike.com |
 | CyanSecurity | virustotal@cyansecurity.com |
 | Cybereason | vt-feedback@cybereason.com |
