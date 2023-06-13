@@ -39,7 +39,7 @@ Quote from [this VirusTotal Q&A](https://support.virustotal.com/hc/en-us/article
 | AhnLab-V3 | v3sos@ahnlab.com (recommended), e-support@ahnlab.com, samples@ahnlab.com | 
 | Alibaba | virustotal@list.alibaba-inc.com |
 | ALYac (ESTsecurity) | esrc@estsecurity.com |
-| Antiy-AVL | avlsdk_support_vt@antiy.cn or submit@antiy.com |
+| Antiy-AVL | avlsdk_support_vt@antiy.cn or [submit@antiy.com](submit@antiy.com, "Might not work anymore!") or support@antiy.cn |
 | Avast | https://www.avast.com/false-positive-file-form.php, virus@avast.com |
 | Avira (no cloud) | https://www.avira.com/en/analysis/submit, cleanset@avira.com, virus_malware@avira.com, virus@avira.com |
 | AVG | https://www.avg.com/false-positive-file-form, https://www.avg.com/us-en/whitelist |
