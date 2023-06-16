@@ -111,6 +111,7 @@ Quote from [this VirusTotal Q&A](https://support.virustotal.com/hc/en-us/article
 | SentinelOne (Static ML) | report@sentinelone.com |
 | Sophos | https://support.sophos.com/support/s/filesubmission | 
 | Spamhaus | https://www.spamhaus.org/dbl/removal/form/ |
+| Sucuri | labs@sucuri.net |
 | Symantec (Broadcom) | https://symsubmit.symantec.com/, false.positives@broadcom.com |
 | Systweak | http://support.systweak.com/kayako/index.php?/Tickets/Submit |
 | Tachyon | isarc@inca.co.kr (Password Protected zip file include detection name)|
