@@ -105,7 +105,7 @@ Quote from [this VirusTotal Q&A](https://support.virustotal.com/hc/en-us/article
 | Qihoo-360 | support@360safe.com, https://www.360totalsecurity.com/en/suspicion/false-positive/ | 
 | Rising | http://mailcenter.rising.com.cn/filecheck_en/ |
 | RocketCyber | support@rocketcyber.com |
-| Sangfor Engine Zero | save@sangfor.com.cn, https://sec.sangfor.com/user_feedback?lang=EN-US (registration required) |
+| Sangfor Engine Zero | To report false positives follow their [instruction guide](https://github.com/yaronelh/False-Positive-Center/blob/main/Sangfor%20Engine%20Zero%20false%20positive%20instruction%20guide.pdf) |
 | Scrutiny | training@cyberstanc.com |
 | SecureAge APEX | https://www.secureage.com/article-report-false-positive |
 | SentinelOne (Static ML) | report@sentinelone.com |
