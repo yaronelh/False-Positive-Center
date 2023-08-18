@@ -87,7 +87,7 @@ Quote from [this VirusTotal Q&A](https://support.virustotal.com/hc/en-us/article
 | K7 | reportfp@labs.k7computing.com, k7viruslab@labs.k7computing.com, support@k7computing.com, https://support.k7computing.com/index.php?/ticket/submit-ticket |
 | Kaspersky | https://opentip.kaspersky.com/, newvirus@kaspersky.com |
 | Kingsoft (Cheetah) | operation@cmcm.com |
-| Lionic (AegisLab) | support@aegislab.com, https://www.aegislab.com/reportfp |
+| Lionic (AegisLab) | support@aegislab.com, https://www.lionic.com/reportfp |
 | Malwarebytes | https://support.malwarebytes.com/hc/en-us/requests/new (Issue type > Product help > False-positive) |
 | Malwares.com (Saint Security) | kog@stsc.com |
 | MAX (SaintSecurity) | root@malwares.com |
