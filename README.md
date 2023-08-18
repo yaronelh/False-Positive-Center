@@ -62,6 +62,7 @@ Quote from [this VirusTotal Q&A](https://support.virustotal.com/hc/en-us/article
 | Cynet | soc@cynet.com |
 | CyRadar | virustotal@cyradar.com |
 | Cyren | support@cyren.com, Instructions: https://www.cyren.com/support/reporting-av-misclassifications | 
+| DeepInstinct  | info@deepinstinct.com |
 | DNS8 | dns8@layer8.pt |
 | DrWeb | https://vms.drweb.com/sendvirus/, vms@drweb.com |
 | eGambit (TEHTRIS) | https://tehtris.com/en/false-positives-false-negatives/|
