@@ -1,4 +1,4 @@
-# False Positive Center
+f# False Positive Center
 Repository to help security vendors deal with false positives, improving their detection engine, and centralize information for software developers making it easier to submit false positives to AV companies.
 
 The repository lists the emails, and websites security vendors (antivirus companies) used to receive false positive reports. it's an effort to facilitate communication between software developers and security vendors.
@@ -78,7 +78,7 @@ Quote from [this VirusTotal Q&A](https://support.virustotal.com/hc/en-us/article
 | Forcepoint (websense) | suggest@forcepoint.com |
 | Fortinet | submitvirus@fortinet.com, https://www.fortiguard.com/faq/classificationdispute |
 | GData | https://www.gdatasoftware.com/faq/consumer/submit-a-suspicious-file-app-or-url |
-| Gridinsoft | antimalware@gridinsoft.com, https://anti-malware.gridinsoft.com/false-detect/ | 
+| Gridinsoft | antimalware@gridinsoft.com, https://gridinsoft.com/incorrect-detection | 
 | Hacksoft | virus@hacksoft.com.pe |
 | Hauri | viruslab@hauri.co.kr |
 | Huorong | seclab@huorong.cn |
