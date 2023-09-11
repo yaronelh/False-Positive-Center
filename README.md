@@ -49,7 +49,7 @@ Quote from [this VirusTotal Q&A](https://support.virustotal.com/hc/en-us/article
 | Bkav Pro | fpreport@bkav.com, bkav@bkav.com |
 | ByteHero | bytehero@163.com |
 | CAT-QuickHeal | viruslab@quickheal.com, OEMENGINE@quickheal.com |
-| Certego | https://www.certego.net/en/contatti/ |
+| Certego | https://www.certego.net/en/contatti/, fp@certego.net |
 | ClamAV | https://www.clamav.net/reports/fp |
 | Clean-MX | abuse@clean-mx.de |
 | CMC | vulambang@cmcinfosec.com, support.is@cmclab.net |
