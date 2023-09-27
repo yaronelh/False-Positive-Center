@@ -37,6 +37,7 @@ Quote from [this VirusTotal Q&A](https://support.virustotal.com/hc/en-us/article
 | Ad-Aware (Lavasoft) | https://www.adaware.com/report-false-positives, malware.labs@adaware.com |
 | Agnitum | trojans@agnitum.com |
 | AhnLab-V3 | v3sos@ahnlab.com (recommended), e-support@ahnlab.com, samples@ahnlab.com | 
+| AlphaMountain ai | https://www.alphamountain.ai/contact/ or support@alphamountain.freshdesk.com |
 | Alibaba | virustotal@list.alibaba-inc.com |
 | ALYac (ESTsecurity) | esrc@estsecurity.com |
 | Antiy-AVL | avlsdk_support_vt@antiy.cn or [submit@antiy.com](submit@antiy.com, "Might not work anymore!") or support@antiy.cn |
@@ -122,7 +123,7 @@ Quote from [this VirusTotal Q&A](https://support.virustotal.com/hc/en-us/article
 | Trustlook | bd@trustlook.com |
 | Trustwave | ADavidi@trustwave.com |
 | VBA32 | feedback@anti-virus.by |
-| VIPRE | https://www.vipre.com/support/submit-false-positive/ |
+| VIPRE | https://helpdesk.vipre.com/hc/en-us/requests/new |
 | VirusBlokAda | support-en@anti-virus.by |
 | VirusDie | partners@virusdie.com |
 | VirIT | http://www.tgsoft.it/italy/file_sospetti.asp |
