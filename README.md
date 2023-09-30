@@ -109,6 +109,7 @@ Quote from [this VirusTotal Q&A](https://support.virustotal.com/hc/en-us/article
 | RocketCyber | support@rocketcyber.com |
 | Sangfor Engine Zero | To report false positives follow their [instruction guide](https://github.com/yaronelh/False-Positive-Center/blob/main/Sangfor%20Engine%20Zero%20false%20positive%20instruction%20guide.pdf) |
 | Scrutiny | training@cyberstanc.com |
+| Seclookup | info@seclookup.com |
 | SecureAge APEX | https://www.secureage.com/article-report-false-positive |
 | SentinelOne (Static ML) | report@sentinelone.com |
 | Sophos | https://support.sophos.com/support/s/filesubmission | 
