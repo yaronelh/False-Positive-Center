@@ -74,7 +74,7 @@ Quote from [this VirusTotal Q&A](https://support.virustotal.com/hc/en-us/article
 | ESET-NOD32 | https://support.eset.com/kb141/?page=content&id=SOLN141 |
 | F-Prot | viruslab@f-prot.com |
 | F-Secure | https://www.f-secure.com/en/business/support-and-downloads/submit-a-sample |
-| FireEye | virustotal@fireeye.com |
+| FireEye | https://kcm.trellix.com/corporate/index?page=content&id=KB85567 |
 | Filseclab | fp@filseclab.com |
 | Forcepoint (websense) | suggest@forcepoint.com |
 | Fortinet | submitvirus@fortinet.com, https://www.fortiguard.com/faq/classificationdispute |
