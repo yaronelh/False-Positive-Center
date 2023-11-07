@@ -130,6 +130,7 @@ Quote from [this VirusTotal Q&A](https://support.virustotal.com/hc/en-us/article
 | VirIT | http://www.tgsoft.it/italy/file_sospetti.asp |
 | Webroot | http://snup.webrootcloudav.com/SkyStoreFileUploader/upload.aspx, https://www.webroot.com/us/en/business/support/vendor-dispute-contact-us |
 | Webroot SMD | https://www.brightcloud.com/tools/file-change-request.php |
+| Xcitium | security@xcitium.com, support@xcitium.com, https://forum.xcitium.com/ |
 | XVirus | samples@xvirus.net, https://xvirus.net/submit |
 | Yandex | yandex-antivir@support.yandex.ru |
 | Yomi | yomi-false-positives@yoroi.company |
