@@ -100,6 +100,7 @@ Quote from [this VirusTotal Q&A](https://support.virustotal.com/hc/en-us/article
 | NANO-Antivirus | https://www.nanoav.ru/index.php?option=com_content&view=article&id=15&Itemid=83&lang=en, false@nanoav.ru |
 | Netcraft | https://report.netcraft.com/report/mistake |
 | Norton | https://submit.norton.com |
+| Norton SafeWeb | https://safeweb.norton.com/ |
 | nProtect (Inca) | virus_info@inca.co.kr |
 | Palo Alto Networks | vt-pan-false-positive@paloaltonetworks.com |
 | Panda | falsepositives@pandasecurity.com, virussamples@pandasecurity.com |
