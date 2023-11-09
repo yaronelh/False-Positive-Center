@@ -119,7 +119,7 @@ Quote from [this VirusTotal Q&A](https://support.virustotal.com/hc/en-us/article
 | Tachyon | isarc@inca.co.kr (Password Protected zip file include detection name)|
 | Tencent | TAVfp@tencent.com |
 | TheHacker | virus@hacksoft.com.pe, falsopositivo@hacksoft.com.pe |
-| Trapmine | fp@trapmine.com |
+| Trapmine | fp@trapmine.com (Concluding operations December 31) |
 | TrendMicro | https://www.trendmicro.com/en_us/about/legal/detection-reevaluation.html, virus_doctor@trendmicro.com, https://helpcenter.trendmicro.com/en-us/srf/ |
 | Trustlook | bd@trustlook.com |
 | Trustwave | ADavidi@trustwave.com |
