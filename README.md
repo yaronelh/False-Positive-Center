@@ -123,6 +123,7 @@ Quote from [this VirusTotal Q&A](https://support.virustotal.com/hc/en-us/article
 | TrendMicro | https://www.trendmicro.com/en_us/about/legal/detection-reevaluation.html, virus_doctor@trendmicro.com, https://helpcenter.trendmicro.com/en-us/srf/ |
 | Trustlook | bd@trustlook.com |
 | Trustwave | ADavidi@trustwave.com |
+| Varist | support@varist.com |
 | VBA32 | feedback@anti-virus.by |
 | VIPRE | https://helpdesk.vipre.com/hc/en-us/requests/new |
 | VirusBlokAda | support-en@anti-virus.by |
