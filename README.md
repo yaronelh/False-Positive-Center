@@ -40,7 +40,7 @@ Quote from [this VirusTotal Q&A](https://support.virustotal.com/hc/en-us/article
 | AlphaMountain ai | https://www.alphamountain.ai/contact/ or support@alphamountain.freshdesk.com |
 | Alibaba | virustotal@list.alibaba-inc.com |
 | ALYac (ESTsecurity) | esrc@estsecurity.com |
-| Antiy-AVL | avlsdk_support_vt@antiy.cn or [submit@antiy.com](submit@antiy.com, "Might not work anymore!") or support@antiy.cn |
+| Antiy-AVL | support@antiy.cn or [avlsdk_support_vt@antiy.cn](avlsdk_support_vt@antiy.cn) (Might not work anymore) |
 | Avast | https://www.avast.com/false-positive-file-form.php, virus@avast.com |
 | Avira (no cloud) | https://www.avira.com/en/analysis/submit, cleanset@avira.com, virus_malware@avira.com, virus@avira.com |
 | AVG | https://www.avg.com/false-positive-file-form, https://www.avg.com/us-en/whitelist |
@@ -76,7 +76,7 @@ Quote from [this VirusTotal Q&A](https://support.virustotal.com/hc/en-us/article
 | F-Secure | https://www.f-secure.com/en/business/support-and-downloads/submit-a-sample |
 | FireEye | https://kcm.trellix.com/corporate/index?page=content&id=KB85567 |
 | Filseclab | fp@filseclab.com |
-| Forcepoint (websense) | suggest@forcepoint.com |
+| Forcepoint (websense) | suggest@forcepoint.com or https://support.forcepoint.com/s/article/000012884 |
 | Fortinet | submitvirus@fortinet.com, https://www.fortiguard.com/faq/classificationdispute |
 | GData | https://www.gdatasoftware.com/faq/consumer/submit-a-suspicious-file-app-or-url |
 | Gridinsoft | antimalware@gridinsoft.com, https://gridinsoft.com/incorrect-detection | 
