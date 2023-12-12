@@ -83,7 +83,7 @@ Quote from [this VirusTotal Q&A](https://support.virustotal.com/hc/en-us/article
 | Hacksoft | virus@hacksoft.com.pe |
 | Hauri | viruslab@hauri.co.kr |
 | Huorong | seclab@huorong.cn |
-| Ikarus | fp@ikarus.at, samples@ikarus.at, false-positive@ikarus.at | 
+| Ikarus | samples@ikarus.at, false-positive@ikarus.at | 
 | Invincea | info@invincea.com |
 | Jiangmin | support@jiangmin.com, shaojia@jiangmin.com |
 | K7 | reportfp@labs.k7computing.com, k7viruslab@labs.k7computing.com, support@k7computing.com, https://support.k7computing.com/index.php?/ticket/submit-ticket |
