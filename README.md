@@ -77,7 +77,7 @@ Quote from [this VirusTotal Q&A](https://support.virustotal.com/hc/en-us/article
 | FireEye | https://kcm.trellix.com/corporate/index?page=content&id=KB85567 |
 | Filseclab | fp@filseclab.com |
 | Forcepoint (websense) | suggest@forcepoint.com or https://support.forcepoint.com/s/article/000012884 |
-| Fortinet | submitvirus@fortinet.com, https://www.fortiguard.com/faq/classificationdispute |
+| Fortinet | submitvirus@fortinet.com, https://www.fortiguard.com/faq/wfratingsubmit |
 | GData | https://www.gdatasoftware.com/faq/consumer/submit-a-suspicious-file-app-or-url |
 | Gridinsoft | antimalware@gridinsoft.com, https://gridinsoft.com/incorrect-detection | 
 | Hacksoft | virus@hacksoft.com.pe |
