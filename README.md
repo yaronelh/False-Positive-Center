@@ -54,7 +54,6 @@ Quote from [this VirusTotal Q&A](https://support.virustotal.com/hc/en-us/article
 | ClamAV | https://www.clamav.net/reports/fp |
 | Clean-MX | abuse@clean-mx.de |
 | CMC | vulambang@cmcinfosec.com, support.is@cmclab.net |
-| Comodo | https://www.comodo.com/home/internet-security/submit.php, malwaresubmit@avlab.comodo.com |
 | CRDF Labs | https://threatcenter.crdf.fr/false_positive.html |
 | CrowdStrike Falcon | VTscanner@crowdstrike.com |
 | CyanSecurity | virustotal@cyansecurity.com |
@@ -131,7 +130,7 @@ Quote from [this VirusTotal Q&A](https://support.virustotal.com/hc/en-us/article
 | VirIT | http://www.tgsoft.it/italy/file_sospetti.asp |
 | Webroot | http://snup.webrootcloudav.com/SkyStoreFileUploader/upload.aspx, https://www.webroot.com/us/en/business/support/vendor-dispute-contact-us |
 | Webroot SMD | https://www.brightcloud.com/tools/file-change-request.php |
-| Xcitium | security@xcitium.com, support@xcitium.com, https://forum.xcitium.com/ |
+| Xcitium (Comodo) | https://www.comodo.com/home/internet-security/submit.php, malwaresubmit@avlab.comodo.com, security@xcitium.com, support@xcitium.com, https://forum.xcitium.com/ |
 | XVirus | samples@xvirus.net, https://xvirus.net/submit |
 | Yandex | yandex-antivir@support.yandex.ru |
 | Yomi | yomi-false-positives@yoroi.company |
