@@ -49,7 +49,6 @@ Quote from [this VirusTotal Q&A](https://support.virustotal.com/hc/en-us/article
 | BitDefender | https://www.bitdefender.com/consumer/support/answer/40673/, virus_submission@bitdefender.com, oemsamples@bitdefender.com| 
 | Bkav Pro | fpreport@bkav.com, bkav@bkav.com |
 | ByteHero | bytehero@163.com |
-| CAT-QuickHeal | viruslab@quickheal.com, OEMENGINE@quickheal.com |
 | Certego | https://www.certego.net/en/contatti/, fp@certego.net |
 | ClamAV | https://www.clamav.net/reports/fp |
 | Clean-MX | abuse@clean-mx.de |
@@ -104,6 +103,7 @@ Quote from [this VirusTotal Q&A](https://support.virustotal.com/hc/en-us/article
 | Panda | falsepositives@pandasecurity.com, virussamples@pandasecurity.com |
 | Phising Database | https://github.com/mitchellkrogza/Phishing.Database#please-remove-my-domain-from-this-list- |
 | Qihoo-360 | support@360safe.com, https://www.360totalsecurity.com/en/suspicion/false-positive/ | 
+| QuickHeal | viruslab@quickheal.com, OEMENGINE@quickheal.com, support@quickheal.com, https://techsupport.quickheal.com/report-an-issue/false-positive |
 | Rising | http://mailcenter.rising.com.cn/filecheck_en/ |
 | RocketCyber | support@rocketcyber.com |
 | Sangfor Engine Zero | To report false positives follow their [instruction guide](https://github.com/yaronelh/False-Positive-Center/blob/main/Sangfor%20Engine%20Zero%20false%20positive%20instruction%20guide.pdf) |
