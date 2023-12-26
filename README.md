@@ -89,7 +89,7 @@ Quote from [this VirusTotal Q&A](https://support.virustotal.com/hc/en-us/article
 | Kaspersky | https://opentip.kaspersky.com/, newvirus@kaspersky.com |
 | Kingsoft (Cheetah) | operation@cmcm.com |
 | Lionic (AegisLab) | support@aegislab.com, https://www.lionic.com/reportfp |
-| Malwarebytes | https://support.malwarebytes.com/hc/en-us/requests/new (Issue type > Product help > False-positive) |
+| Malwarebytes | https://forums.malwarebytes.com/forum/122-false-positives/ |
 | Malwares.com (Saint Security) | kog@stsc.com |
 | MAX (SaintSecurity) | root@malwares.com |
 | MaxSecure | tech@maxpcsecure.com |
