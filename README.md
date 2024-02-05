@@ -74,7 +74,7 @@ Quote from [this VirusTotal Q&A](https://support.virustotal.com/hc/en-us/article
 | F-Secure | https://www.f-secure.com/en/business/support-and-downloads/submit-a-sample |
 | FireEye | https://kcm.trellix.com/corporate/index?page=content&id=KB85567 |
 | Filseclab | fp@filseclab.com |
-| Forcepoint (websense) | suggest@forcepoint.com or https://support.forcepoint.com/s/article/000012884 |
+| Forcepoint (websense) | suggest@forcepoint.com or https://support.forcepoint.com/s/article/000012884, [File Submission Tool](https://support.forcepoint.com/s/article/000019083), [URL Submission Tool](https://support.forcepoint.com/s/article/URL-List-submission-Tool) |
 | Fortinet | submitvirus@fortinet.com, https://www.fortiguard.com/faq/classificationdispute |
 | GData | https://www.gdatasoftware.com/faq/consumer/submit-a-suspicious-file-app-or-url |
 | Gridinsoft | antimalware@gridinsoft.com, https://gridinsoft.com/incorrect-detection | 
