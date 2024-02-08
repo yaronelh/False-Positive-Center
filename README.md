@@ -76,7 +76,7 @@ Quote from [this VirusTotal Q&A](https://support.virustotal.com/hc/en-us/article
 | Filseclab | fp@filseclab.com |
 | Forcepoint (websense) | suggest@forcepoint.com or https://support.forcepoint.com/s/article/000012884, [File Submission Tool](https://support.forcepoint.com/s/article/000019083), [URL Submission Tool](https://support.forcepoint.com/s/article/URL-List-submission-Tool) |
 | Fortinet | submitvirus@fortinet.com, https://www.fortiguard.com/faq/classificationdispute |
-| GData | https://www.gdatasoftware.com/faq/consumer/submit-a-suspicious-file-app-or-url |
+| GData | https://www.gdata.de/help/en/general/AllgemeineFragen/DateiURLAppEinsenden |
 | Gridinsoft | antimalware@gridinsoft.com, https://gridinsoft.com/incorrect-detection | 
 | Hacksoft | virus@hacksoft.com.pe |
 | Hauri | viruslab@hauri.co.kr |
