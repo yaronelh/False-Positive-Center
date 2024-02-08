@@ -42,7 +42,7 @@ Quote from [this VirusTotal Q&A](https://support.virustotal.com/hc/en-us/article
 | ALYac (ESTsecurity) | esrc@estsecurity.com |
 | Antiy-AVL | support@antiy.cn or [avlsdk_support_vt@antiy.cn](avlsdk_support_vt@antiy.cn) (Might not work anymore) |
 | Avast | https://www.avast.com/false-positive-file-form.php, virus@avast.com |
-| Avira (no cloud) | https://www.avira.com/en/analysis/submit, virus@avira.com |
+| Avira (no cloud) | https://www.avira.com/en/analysis/submit, novirus@avira.com |
 | AVG | https://www.avg.com/false-positive-file-form, https://www.avg.com/us-en/whitelist |
 | Babable | obu@babable.com |
 | Baidu | bav@baidu.com, gaoyingchun@baidu.com |
