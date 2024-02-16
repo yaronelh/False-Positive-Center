@@ -21,14 +21,16 @@ A few things are basically required by all security vendors, and would likely le
 
 A flagged detection on virustotal does not mean, that the commercial version of that security vendor will detect/flag the file the same way. Security vendors usually configure their VirusTotal implementation to be more sensitive/differently than their actual product
 
-Quote from [this VirusTotal Q&A](https://support.virustotal.com/hc/en-us/articles/115002094589-Why-do-not-you-include-statistics-comparing-antivirus-performance-)  
+Quote from [this VirusTotal Q&A](https://docs.virustotal.com/docs/antivirus-stats)
 - VirusTotal's antivirus engines are command line versions, so depending on the product, they will not behave exactly the same as the desktop versions: for instance, desktop solutions may use techniques based on behavioral analysis and count with personal firewalls that may decrease entry points and mitigate propagation, etc.
 - In VirusTotal desktop-oriented solutions coexist with perimeter-oriented solutions; **heuristics in this latter group may be more aggressive and paranoid**, since the impact of false positives is less visible in the perimeter. It is simply not fair to compare both groups.
 - Some of the solutions included in VirusTotal are parametrized (in coherence with the developer company's desire) with a **different heuristic/aggressiveness level than the official end-user default configuration**.
 
-[*] Emphases not present in the original text, And added for clarity.
+[*] Emphases not present in the original text and added for clarity.
 
 #### Antivirus Contact Info For False Positives
+
+In addition to the information in the table below, VirusTotal also has their own listing of contact information for antivirus companies. You can find it [here](https://docs.virustotal.com/docs/false-positive-contacts).
 
 | ENGINE | Contact | 
 | :--- | :--- | 
@@ -40,7 +42,7 @@ Quote from [this VirusTotal Q&A](https://support.virustotal.com/hc/en-us/article
 | AlphaMountain ai | https://www.alphamountain.ai/contact/ or support@alphamountain.freshdesk.com |
 | Alibaba | virustotal@list.alibaba-inc.com |
 | ALYac (ESTsecurity) | esrc@estsecurity.com |
-| Antiy-AVL | support@antiy.cn or [avlsdk_support_vt@antiy.cn](avlsdk_support_vt@antiy.cn) (Might not work anymore) |
+| Antiy-AVL | support@antiy.cn, avlsdk_support@antiy.cn, avlsdk_support_vt@antiy.cn (Might not work anymore) |
 | Avast | https://www.avast.com/false-positive-file-form.php, virus@avast.com |
 | Avira (no cloud) | https://www.avira.com/en/analysis/submit, novirus@avira.com |
 | AVG | https://www.avg.com/false-positive-file-form, https://www.avg.com/us-en/whitelist |
