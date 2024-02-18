@@ -170,10 +170,6 @@ If you did find an error in your configuration, consider resending the emails yo
 **TIP:** while SPF, and DKIM are relatively simple to setup, you can speed up the DMARC setup by searching for DMARC generator with your favorite search engine, to use a wizard to generate it instead of doing it manually.
 
 
-### Contributors
-Yaron Elharar, Pavel Moiseenko, Justine M.,sln162, Kai Kramer, you?..
-
-
 #### Special thanks
 Ana Tinoco from VirusTotal support, and the VirusTotal support team for making the initial contact information list. The hope of creating better communication between software developers and security vendors.
 
