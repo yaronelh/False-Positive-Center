@@ -139,6 +139,7 @@ In addition to the information in the table below, VirusTotal also has their own
 | Zillya | virus@zillya.com , https://zillya.com/support, help@zillya.com |
 | ZoneAlarm by Check Point | zonealarm_VT_reports@checkpoint.com |
 | Zoner | false@zonerantivirus.com |
+| Google | First, you need to upload the file to [Google Drive](https://drive.google.com/drive/u/0/home). Once uploaded, right-click on the file and select **Open With** -> **Preview**. Google Drive will display '*This file looks suspicious. It is visible only to the owner.*' alert, click **request a review**. On the **Request a review** page, click the **Request file review** button at the bottom of the page. |
 
 
 ### Antivirus Vendors Whitelisting programs
