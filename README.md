@@ -79,7 +79,8 @@ In addition to the information in the table below, VirusTotal also has their own
 | Forcepoint (websense) | suggest@forcepoint.com or https://support.forcepoint.com/s/article/000012884, [File Submission Tool](https://support.forcepoint.com/s/article/000019083), [URL Submission Tool](https://support.forcepoint.com/s/article/URL-List-submission-Tool) |
 | Fortinet | submitvirus@fortinet.com, https://www.fortiguard.com/faq/classificationdispute |
 | GData | https://www.gdata.de/help/en/general/AllgemeineFragen/DateiURLAppEinsenden |
-| Gridinsoft | antimalware@gridinsoft.com, https://gridinsoft.com/incorrect-detection | 
+| Google | First, you need to upload the file to [Google Drive](https://drive.google.com/drive/u/0/home). Once uploaded, right-click on the file and select **Open With** -> **Preview**. Google Drive will display '*This file looks suspicious. It is visible only to the owner.*' alert, click **request a review**. On the **Request a review** page, click the **Request file review** button at the bottom of the page. |
+| Gridinsoft | antimalware@gridinsoft.com, https://gridinsoft.com/incorrect-detection |
 | Hacksoft | virus@hacksoft.com.pe |
 | Hauri | viruslab@hauri.co.kr |
 | Huorong | seclab@huorong.cn |
@@ -139,7 +140,6 @@ In addition to the information in the table below, VirusTotal also has their own
 | Zillya | virus@zillya.com , https://zillya.com/support, help@zillya.com |
 | ZoneAlarm by Check Point | zonealarm_VT_reports@checkpoint.com |
 | Zoner | false@zonerantivirus.com |
-| Google | First, you need to upload the file to [Google Drive](https://drive.google.com/drive/u/0/home). Once uploaded, right-click on the file and select **Open With** -> **Preview**. Google Drive will display '*This file looks suspicious. It is visible only to the owner.*' alert, click **request a review**. On the **Request a review** page, click the **Request file review** button at the bottom of the page. |
 
 
 ### Antivirus Vendors Whitelisting programs
