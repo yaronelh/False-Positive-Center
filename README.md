@@ -109,6 +109,7 @@ In addition to the information in the table below, VirusTotal also has their own
 | QuickHeal | viruslab@quickheal.com, OEMENGINE@quickheal.com, support@quickheal.com, https://techsupport.quickheal.com/report-an-issue/false-positive |
 | Rising | http://mailcenter.rising.com.cn/filecheck_en/ |
 | RocketCyber | support@rocketcyber.com |
+| SafeToOpen | https://safetoopen.com/unblock_websites |
 | Sangfor Engine Zero | To report false positives follow their [instruction guide](https://github.com/yaronelh/False-Positive-Center/blob/main/Sangfor%20Engine%20Zero%20false%20positive%20instruction%20guide.pdf) |
 | Scrutiny | training@cyberstanc.com |
 | Seclookup | info@seclookup.com |
