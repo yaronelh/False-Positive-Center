@@ -114,6 +114,7 @@ In addition to the information in the table below, VirusTotal also has their own
 | Seclookup | info@seclookup.com |
 | SecureAge APEX | https://www.secureage.com/article-report-false-positive |
 | SentinelOne (Static ML) | report@sentinelone.com |
+| Skyhigh (SWG) | Use the Avira Process, [on this page](https://success.skyhighsecurity.com/Skyhigh_Secure_Web_Gateway_%28On_Prem%29/Anti-malware_Filtering/How_to_submit_false_positive%2F%2Fnegative_samples_for_review) |
 | Sophos | https://support.sophos.com/support/s/filesubmission | 
 | Spamhaus | https://www.spamhaus.org/dbl/removal/form/ |
 | Symantec (Broadcom) | https://symsubmit.symantec.com/, false.positives@broadcom.com |
