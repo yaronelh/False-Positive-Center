@@ -89,7 +89,7 @@ In addition to the information in the table below, VirusTotal also has their own
 | Invincea | info@invincea.com |
 | Jiangmin | support@jiangmin.com, shaojia@jiangmin.com |
 | K7 | reportfp@labs.k7computing.com, k7viruslab@labs.k7computing.com, support@k7computing.com, https://support.k7computing.com/index.php?/ticket/submit-ticket |
-| Kaspersky | https://opentip.kaspersky.com/, newvirus@kaspersky.com |
+| Kaspersky | https://opentip.kaspersky.com/, newvirus@kaspersky.com, or https://support.kaspersky.com/b2c/il#contacts (OS > Application > Malware > False positive > Continue to contact support button)|
 | Kingsoft (Cheetah) |  ti@mingting.cn |
 | Lionic (AegisLab) | support@aegislab.com, https://www.lionic.com/reportfp |
 | Malwarebytes | https://support.malwarebytes.com/hc/en-us/articles/360038524154-Report-a-false-positive-to-Malwarebytes-Support or for clients https://support.malwarebytes.com/hc/en-us/requests/new (Issue type > Product help > False-positive). |
