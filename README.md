@@ -55,6 +55,7 @@ In addition to the information in the table below, VirusTotal also has their own
 | Certego | https://www.certego.net/en/contatti/, fp@certego.net |
 | ClamAV | https://www.clamav.net/reports/fp |
 | Clean-MX | abuse@clean-mx.de |
+| Cluster | https://www.duskrise.com/delisting/ |
 | CMC | vulambang@cmcinfosec.com, support.is@cmclab.net |
 | CRDF Labs | https://threatcenter.crdf.fr/false_positive.html |
 | CrowdStrike Falcon | VTscanner@crowdstrike.com |
