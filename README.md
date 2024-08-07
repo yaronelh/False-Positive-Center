@@ -96,7 +96,7 @@ In addition to the information in the table below, VirusTotal also has their own
 | Malwares.com (Saint Security) | kog@stsc.com |
 | MAX (SaintSecurity) | root@malwares.com |
 | MaxSecure | tech@maxpcsecure.com |
-| McAfee | Instructions: https://kc.mcafee.com/corporate/index?page=content&id=KB85567, virus_research@avertlabs.com | 
+| McAfee | Instructions: https://mcafee.com/support/s/article/000001819, https://www.mcafee.com/en-us/consumer-support/dispute-detection-allowlisting.html, virus_research@avertlabs.com | 
 | McAfee-GW-Edition | datasubmission@mcafee.com |
 | Microsoft Windows Defender | https://www.microsoft.com/en-us/wdsi/filesubmission |
 | NANO-Antivirus | https://www.nanoav.ru/index.php?option=com_content&view=article&id=15&Itemid=83&lang=en, false@nanoav.ru |
