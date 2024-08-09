@@ -60,7 +60,7 @@ In addition to the information in the table below, VirusTotal also has their own
 | CrowdStrike Falcon | VTscanner@crowdstrike.com |
 | CyanSecurity | virustotal@cyansecurity.com |
 | Cybereason | vt-feedback@cybereason.com |
-| Cylance | cylancefilesubmit@cylance.com, [General instructions for submission](https://support.blackberry.com/kb/articleDetail?language=en_US&articleNumber=000067337) |
+| Cylance | cylancefilesubmit@cylance.com, [General instructions for submission](https://support.blackberry.com/pkb/s/article/67337) |
 | Cynet | soc@cynet.com |
 | CyRadar | virustotal@cyradar.com |
 | Cyren | support@cyren.com, Instructions: https://www.cyren.com/support/reporting-av-misclassifications | 
