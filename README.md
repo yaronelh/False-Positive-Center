@@ -69,7 +69,7 @@ In addition to the information in the table below, VirusTotal also has their own
 | DrWeb | https://vms.drweb.com/sendvirus/, vms@drweb.com |
 | eGambit (TEHTRIS) | https://tehtris.com/en/false-positives-false-negatives/|
 | Elastic antivirus  | https://discuss.elastic.co/t/submitting-false-positives/232322 |
-| Emsisoft | submit@emsisoft.com or fp@emsisoft.com (false positives), https://www.emsisoft.com/en/support/contact/ | 
+| Emsisoft | submit@emsisoft.com or fp@emsisoft.com (false positives), https://www.emsisoft.com/en/help/contact/ | 
 | Endgame | info@endgame.com |
 | eScan (Microworld) | samples@escanav.com, http://support.mwti.net/support/index.php?/Tickets/Submit/ |
 | ESET-NOD32 | https://support.eset.com/kb141/?page=content&id=SOLN141 |
