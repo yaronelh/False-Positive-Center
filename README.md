@@ -75,7 +75,6 @@ In addition to the information in the table below, VirusTotal also has their own
 | ESET-NOD32 | https://support.eset.com/kb141/?page=content&id=SOLN141 |
 | F-Prot | viruslab@f-prot.com |
 | F-Secure | https://www.f-secure.com/en/business/support-and-downloads/submit-a-sample |
-| FireEye | https://kcm.trellix.com/corporate/index?page=content&id=KB85567 |
 | Filseclab | fp@filseclab.com |
 | Forcepoint (websense) | suggest@forcepoint.com or https://support.forcepoint.com/s/article/000012884, [File Submission Tool](https://support.forcepoint.com/s/article/000019083), [URL Submission Tool](https://support.forcepoint.com/s/article/URL-List-submission-Tool) |
 | Fortinet | submitvirus@fortinet.com, https://www.fortiguard.com/faq/classificationdispute |
@@ -124,6 +123,7 @@ In addition to the information in the table below, VirusTotal also has their own
 | Tencent | TAVfp@tencent.com |
 | TheHacker | virus@hacksoft.com.pe, falsopositivo@hacksoft.com.pe |
 | Trapmine | fp@trapmine.com (Concluding operations December 31) |
+| Trellix (FireEye) | https://kcm.trellix.com/corporate/index?page=content&id=KB85567 |
 | TrendMicro | https://www.trendmicro.com/en_us/about/legal/detection-reevaluation.html, virus_doctor@trendmicro.com, https://helpcenter.trendmicro.com/en-us/srf/ |
 | Trustlook | bd@trustlook.com |
 | Trustwave | ADavidi@trustwave.com |
