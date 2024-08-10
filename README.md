@@ -42,7 +42,7 @@ In addition to the information in the table below, VirusTotal also has their own
 | AlphaMountain ai | https://www.alphamountain.ai/contact/ or support@alphamountain.freshdesk.com |
 | Alibaba | virustotal@list.alibaba-inc.com |
 | ALYac (ESTsecurity) | esrc@estsecurity.com |
-| Antiy-AVL | support@antiy.cn, avlsdk_support@antiy.cn, avlsdk_support_vt@antiy.cn (Might not work anymore) |
+| Antiy-AVL | support@antiy.cn, avlsdk_support@antiy.cn |
 | Arcabit | vt.fp@arcabit.pl or virus@arcabit.com |
 | Avast | https://www.avast.com/false-positive-file-form.php, virus@avast.com |
 | Avira (no cloud) | https://www.avira.com/en/analysis/submit, novirus@avira.com |
