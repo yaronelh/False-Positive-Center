@@ -42,9 +42,9 @@ In addition to the information in the table below, VirusTotal also has their own
 | AlphaMountain ai | https://www.alphamountain.ai/contact/ or support@alphamountain.freshdesk.com |
 | Alibaba | virustotal@list.alibaba-inc.com |
 | ALYac (ESTsecurity) | esrc@estsecurity.com |
-| Antiy-AVL | support@antiy.cn, avlsdk_support@antiy.cn, avlsdk_support_vt@antiy.cn (Might not work anymore) |
+| Antiy-AVL | support@antiy.cn, avlsdk_support@antiy.cn |
 | Arcabit | vt.fp@arcabit.pl or virus@arcabit.com |
-| Avast | https://www.avast.com/false-positive-file-form.php, virus@avast.com |
+| Avast | https://www.avast.com/report-false-positive, virus@avast.com |
 | Avira (no cloud) | https://www.avira.com/en/analysis/submit, novirus@avira.com |
 | AVG | https://www.avg.com/false-positive-file-form, https://www.avg.com/us-en/whitelist |
 | Babable | obu@babable.com |
@@ -60,7 +60,7 @@ In addition to the information in the table below, VirusTotal also has their own
 | CrowdStrike Falcon | VTscanner@crowdstrike.com |
 | CyanSecurity | virustotal@cyansecurity.com |
 | Cybereason | vt-feedback@cybereason.com |
-| Cylance | cylancefilesubmit@cylance.com, [General instructions for submission](https://support.blackberry.com/kb/articleDetail?language=en_US&articleNumber=000067337) |
+| Cylance | cylancefilesubmit@cylance.com, [General instructions for submission](https://support.blackberry.com/pkb/s/article/67337) |
 | Cynet | soc@cynet.com |
 | CyRadar | virustotal@cyradar.com |
 | Cyren | support@cyren.com, Instructions: https://www.cyren.com/support/reporting-av-misclassifications | 
@@ -69,13 +69,12 @@ In addition to the information in the table below, VirusTotal also has their own
 | DrWeb | https://vms.drweb.com/sendvirus/, vms@drweb.com |
 | eGambit (TEHTRIS) | https://tehtris.com/en/false-positives-false-negatives/|
 | Elastic | https://docs.google.com/forms/d/e/1FAIpQLSd2WQ-o7Y31Hf1PKvdxxd1iMNSxkoBth1cVDJZRuXuAmaD3rg/viewform, https://discuss.elastic.co/t/submitting-false-positives/232322 |
-| Emsisoft | submit@emsisoft.com or fp@emsisoft.com (false positives), https://www.emsisoft.com/en/support/contact/ | 
+| Emsisoft | submit@emsisoft.com or fp@emsisoft.com (false positives), https://www.emsisoft.com/en/help/contact/ | 
 | Endgame | info@endgame.com |
 | eScan (Microworld) | samples@escanav.com, http://support.mwti.net/support/index.php?/Tickets/Submit/ |
-| ESET-NOD32 | https://support.eset.com/kb141/?page=content&id=SOLN141 |
+| ESET-NOD32 | samples@eset.com, ([more information here](https://support.eset.com/kb141/?page=content&id=SOLN141))   |
 | F-Prot | viruslab@f-prot.com |
 | F-Secure | https://www.f-secure.com/en/business/support-and-downloads/submit-a-sample |
-| FireEye | https://kcm.trellix.com/corporate/index?page=content&id=KB85567 |
 | Filseclab | fp@filseclab.com |
 | Forcepoint (websense) | suggest@forcepoint.com or https://support.forcepoint.com/s/article/000012884, [File Submission Tool](https://support.forcepoint.com/s/article/000019083), [URL Submission Tool](https://support.forcepoint.com/s/article/URL-List-submission-Tool) |
 | Fortinet | submitvirus@fortinet.com, https://www.fortiguard.com/faq/classificationdispute |
@@ -88,7 +87,7 @@ In addition to the information in the table below, VirusTotal also has their own
 | Ikarus | samples@ikarus.at, false-positive@ikarus.at | 
 | Invincea | info@invincea.com |
 | Jiangmin | support@jiangmin.com, shaojia@jiangmin.com |
-| K7 | reportfp@labs.k7computing.com, k7viruslab@labs.k7computing.com, support@k7computing.com, https://support.k7computing.com/index.php?/ticket/submit-ticket |
+| K7 (K7GW) | reportfp@labs.k7computing.com, k7viruslab@labs.k7computing.com, support@k7computing.com, https://support.k7computing.com/index.php?/ticket/submit-ticket |
 | Kaspersky | https://opentip.kaspersky.com/, newvirus@kaspersky.com, or https://support.kaspersky.com/b2c/il#contacts (OS > Application > Malware > False positive > Continue to contact support button > Upload file) |
 | Kingsoft (Cheetah) |  ti@mingting.cn |
 | Lionic (AegisLab) | support@aegislab.com, https://www.lionic.com/reportfp |
@@ -124,6 +123,7 @@ In addition to the information in the table below, VirusTotal also has their own
 | Tencent | TAVfp@tencent.com |
 | TheHacker | virus@hacksoft.com.pe, falsopositivo@hacksoft.com.pe |
 | Trapmine | fp@trapmine.com (Concluding operations December 31) |
+| Trellix (FireEye) | https://kcm.trellix.com/corporate/index?page=content&id=KB85567 |
 | TrendMicro | https://www.trendmicro.com/en_us/about/legal/detection-reevaluation.html, virus_doctor@trendmicro.com, https://helpcenter.trendmicro.com/en-us/srf/ |
 | Trustlook | bd@trustlook.com |
 | Trustwave | ADavidi@trustwave.com |
