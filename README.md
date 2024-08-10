@@ -60,7 +60,7 @@ In addition to the information in the table below, VirusTotal also has their own
 | CrowdStrike Falcon | VTscanner@crowdstrike.com |
 | CyanSecurity | virustotal@cyansecurity.com |
 | Cybereason | vt-feedback@cybereason.com |
-| Cylance | cylancefilesubmit@cylance.com, [General instructions for submission](https://support.blackberry.com/pkb/s/article/67337) |
+| Cylance | cylancefilesubmit@cylance.com |
 | Cynet | soc@cynet.com |
 | CyRadar | virustotal@cyradar.com |
 | Cyren | support@cyren.com, Instructions: https://www.cyren.com/support/reporting-av-misclassifications | 
@@ -69,7 +69,7 @@ In addition to the information in the table below, VirusTotal also has their own
 | DrWeb | https://vms.drweb.com/sendvirus/, vms@drweb.com |
 | eGambit (TEHTRIS) | https://tehtris.com/en/false-positives-false-negatives/|
 | Elastic antivirus  | https://discuss.elastic.co/t/submitting-false-positives/232322 |
-| Emsisoft | submit@emsisoft.com or fp@emsisoft.com (false positives), https://www.emsisoft.com/en/help/contact/ | 
+| Emsisoft | submit@emsisoft.com or fp@emsisoft.com (false positives), https://www.emsisoft.com/en/support/contact/ | 
 | Endgame | info@endgame.com |
 | eScan (Microworld) | samples@escanav.com, http://support.mwti.net/support/index.php?/Tickets/Submit/ |
 | ESET-NOD32 | https://support.eset.com/kb141/?page=content&id=SOLN141 |
