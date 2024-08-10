@@ -44,7 +44,7 @@ In addition to the information in the table below, VirusTotal also has their own
 | ALYac (ESTsecurity) | esrc@estsecurity.com |
 | Antiy-AVL | support@antiy.cn, avlsdk_support@antiy.cn, avlsdk_support_vt@antiy.cn (Might not work anymore) |
 | Arcabit | vt.fp@arcabit.pl or virus@arcabit.com |
-| Avast | https://www.avast.com/false-positive-file-form.php, virus@avast.com |
+| Avast | https://www.avast.com/report-false-positive, virus@avast.com |
 | Avira (no cloud) | https://www.avira.com/en/analysis/submit, novirus@avira.com |
 | AVG | https://www.avg.com/false-positive-file-form, https://www.avg.com/us-en/whitelist |
 | Babable | obu@babable.com |
