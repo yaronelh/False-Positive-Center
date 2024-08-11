@@ -112,7 +112,7 @@ In addition to the information in the table below, VirusTotal also has their own
 | Sangfor Engine Zero | To report false positives follow their [instruction guide](https://github.com/yaronelh/False-Positive-Center/blob/main/Sangfor%20Engine%20Zero%20false%20positive%20instruction%20guide.pdf) |
 | Scrutiny | training@cyberstanc.com |
 | Seclookup | info@seclookup.com |
-| SecureAge APEX | https://www.secureage.com/article-report-false-positive |
+| SecureAge APEX | https://www.secureage.com/support/report-false-positive |
 | SentinelOne (Static ML) | report@sentinelone.com |
 | Skyhigh (SWG) | Use the [Avira Process](https://success.skyhighsecurity.com/Skyhigh_Secure_Web_Gateway_%28On_Prem%29/Anti-malware_Filtering/How_to_submit_false_positive%2F%2Fnegative_samples_for_review), or email virus_research_gateway@avertlabs.com |
 | Sophos | https://support.sophos.com/support/s/filesubmission, for email submission/other options [see this article](https://support.home.sophos.com/hc/en-us/articles/360041664851-How-to-review-and-submit-samples-of-suspicious-files-or-false-positives-to-Sophos?section=Additional%20file%20submission%20options)  | 
