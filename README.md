@@ -133,7 +133,7 @@ In addition to the information in the table below, VirusTotal also has their own
 | VirusBlokAda | support-en@anti-virus.by |
 | VirusDie | partners@virusdie.com |
 | VirIT | http://www.tgsoft.it/italy/file_sospetti.asp |
-| Webroot | http://snup.webrootcloudav.com/SkyStoreFileUploader/upload.aspx, https://www.webroot.com/us/en/business/support/vendor-dispute-contact-us |
+| Webroot | http://snup.webrootcloudav.com/SkyStoreFileUploader/upload.aspx, https://www.webroot.com/us/en/business/support/vendor-dispute-contact-us, https://www.brightcloud.com/tools/url-ip-lookup.php (enter URL in `Look up URL or IP:` and click `Look Up`, then click `Request a reputation change` on the right, fill `Request a Change:` form and click `Submit`) |
 | Webroot SMD | https://www.brightcloud.com/tools/file-change-request.php |
 | Xcitium (Comodo) | https://www.comodo.com/home/internet-security/submit.php, malwaresubmit@avlab.comodo.com, security@xcitium.com, support@xcitium.com, https://forum.xcitium.com/ |
 | XVirus | samples@xvirus.net, https://xvirus.net/submit |
