@@ -128,9 +128,8 @@ In addition to the information in the table below, VirusTotal also has their own
 | Trustlook | bd@trustlook.com |
 | Trustwave | ADavidi@trustwave.com |
 | Varist | SampleFP@avsubmit.com , support@varist.com |
-| VBA32 | feedback@anti-virus.by |
+| VBA32 | feedback@anti-virus.by, support-en@anti-virus.by |
 | VIPRE | https://helpdesk.vipre.com/hc/en-us/requests/new |
-| VirusBlokAda | support-en@anti-virus.by |
 | VirusDie | partners@virusdie.com |
 | VirIT | http://www.tgsoft.it/italy/file_sospetti.asp |
 | Webroot | http://snup.webrootcloudav.com/SkyStoreFileUploader/upload.aspx, https://www.webroot.com/us/en/business/support/vendor-dispute-contact-us |
@@ -175,8 +174,6 @@ If you did find an error in your configuration, consider resending the emails yo
 
 #### Special thanks
 Ana Tinoco from VirusTotal support, and the VirusTotal support team for making the initial contact information list. The hope of creating better communication between software developers and security vendors.
-You can also find the VirusTotal vendor [contact list here](https://docs.virustotal.com/docs/false-positive-contacts)
-
 
 #### Final notes
 While I tried to maintain the accuracy of the information here to the best of my ability, it may be that you encounter inaccuracies as things naturally change over time. If you do find any inaccuracies I encourage you to use a pull request, report an issue, or sending me a message.
