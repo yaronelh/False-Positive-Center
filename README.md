@@ -107,7 +107,7 @@ In addition to the information in the table below, VirusTotal also has their own
 | Phising Database | https://github.com/mitchellkrogza/Phishing.Database#please-remove-my-domain-from-this-list- |
 | Qihoo-360 | support@360safe.com, https://www.360totalsecurity.com/en/suspicion/false-positive/ | 
 | QuickHeal | viruslab@quickheal.com, OEMENGINE@quickheal.com, support@quickheal.com, https://techsupport.quickheal.com/report-an-issue/false-positive |
-| Rising | http://mailcenter.rising.com.cn/filecheck_en/ |
+| Rising | fp@rising.com.cn, http://mailcenter.rising.com.cn/filecheck_en/ |
 | RocketCyber | support@rocketcyber.com |
 | Sangfor Engine Zero | To report false positives follow their [instruction guide](https://github.com/yaronelh/False-Positive-Center/blob/main/Sangfor%20Engine%20Zero%20false%20positive%20instruction%20guide.pdf) |
 | Scrutiny | training@cyberstanc.com |
