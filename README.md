@@ -84,7 +84,7 @@ In addition to the information in the table below, VirusTotal also has their own
 | Hacksoft | virus@hacksoft.com.pe |
 | Hauri | viruslab@hauri.co.kr |
 | Huorong | seclab@huorong.cn |
-| Ikarus | samples@ikarus.at, false-positive@ikarus.at | 
+| Ikarus | fp@ikarus.at, samples@ikarus.at, false-positive@ikarus.at | 
 | Invincea | info@invincea.com |
 | Jiangmin | support@jiangmin.com, shaojia@jiangmin.com |
 | K7 (K7GW) | reportfp@labs.k7computing.com, k7viruslab@labs.k7computing.com, support@k7computing.com, https://support.k7computing.com/index.php?/ticket/submit-ticket |
