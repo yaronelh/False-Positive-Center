@@ -44,9 +44,9 @@ In addition to the information in the table below, VirusTotal also has their own
 | ALYac (ESTsecurity) | esrc@estsecurity.com |
 | Antiy-AVL | support@antiy.cn, avlsdk_support@antiy.cn |
 | Arcabit | vt.fp@arcabit.pl or virus@arcabit.com |
-| Avast | https://www.avast.com/report-false-positive, virus@avast.com |
+| Avast | https://www.avast.com/report-false-positive, virus@avast.com, DL-Virus@gendigital.com |
 | Avira (no cloud) | https://www.avira.com/en/analysis/submit, novirus@avira.com |
-| AVG | https://www.avg.com/false-positive-file-form, https://www.avg.com/us-en/whitelist |
+| AVG | https://www.avg.com/false-positive-file-form, https://www.avg.com/us-en/whitelist, http://www.avg.com/submit-sample |
 | Babable | obu@babable.com |
 | Baidu | bav@baidu.com, gaoyingchun@baidu.com |
 | BitDefender | https://www.bitdefender.com/consumer/support/answer/40673/, virus_submission@bitdefender.com, oemsamples@bitdefender.com| 
@@ -55,12 +55,12 @@ In addition to the information in the table below, VirusTotal also has their own
 | Certego | https://www.certego.net/en/contatti/, fp@certego.net |
 | ClamAV | https://www.clamav.net/reports/fp |
 | Clean-MX | abuse@clean-mx.de |
-| CMC | vulambang@cmcinfosec.com, support.is@cmclab.net |
+| CMC | PSIRT@cmccybersecurity.com, vulambang@cmcinfosec.com, support.is@cmclab.net |
 | CRDF Labs | https://threatcenter.crdf.fr/false_positive.html |
 | CrowdStrike Falcon | VTscanner@crowdstrike.com |
 | CyanSecurity | virustotal@cyansecurity.com |
 | Cybereason | vt-feedback@cybereason.com |
-| Cylance | cylancefilesubmit@cylance.com, [General instructions for submission](https://support.blackberry.com/pkb/s/article/67337) |
+| Cylance | cylancefilesubmit@cylance.com, cylancefilesubmit@blackberry.com, [General instructions for submission](https://support.blackberry.com/pkb/s/article/67337) |
 | Cynet | soc@cynet.com |
 | CyRadar | virustotal@cyradar.com |
 | Cyren | support@cyren.com, Instructions: https://www.cyren.com/support/reporting-av-misclassifications | 
@@ -74,13 +74,13 @@ In addition to the information in the table below, VirusTotal also has their own
 | eScan (Microworld) | samples@escanav.com, http://support.mwti.net/support/index.php?/Tickets/Submit/ |
 | ESET-NOD32 | samples@eset.com, ([more information here](https://support.eset.com/kb141/?page=content&id=SOLN141))   |
 | F-Prot | viruslab@f-prot.com |
-| F-Secure | https://www.f-secure.com/en/business/support-and-downloads/submit-a-sample |
+| F-Secure/WithSecure | https://www.f-secure.com/en/business/support-and-downloads/submit-a-sample, spyware-samples@f-secure.com, vsamples@f-secure.com |
 | Filseclab | fp@filseclab.com |
 | Forcepoint (websense) | suggest@forcepoint.com or https://support.forcepoint.com/s/article/000012884, [File Submission Tool](https://support.forcepoint.com/s/article/000019083), [URL Submission Tool](https://support.forcepoint.com/s/article/URL-List-submission-Tool) |
-| Fortinet | submitvirus@fortinet.com, https://www.fortiguard.com/faq/classificationdispute |
-| GData | https://www.gdata.de/help/en/general/AllgemeineFragen/DateiURLAppEinsenden |
-| Google | google-at-virustotal@google.com, or go through this process, First upload the file to Google Drive (Preferably don't use your main account). Once uploaded, if the file was identified it will be flagged, right-click on the file and select **Open With** -> **Preview**. Google Drive will display '*This file looks suspicious. It is visible only to the owner.*' alert, click **request a review**. On the **Request a review** page, click the **Request file review** button at the bottom of the page. [Demo Video](https://github.com/yaronelh/False-Positive-Center/pull/76#issuecomment-1963005790) |
-| Gridinsoft | antimalware@gridinsoft.com, https://gridinsoft.com/incorrect-detection |
+| Fortinet | submitvirus@fortinet.com, https://www.fortiguard.com/faq/classificationdispute, http://www.fortinet.com/support/contact_support.html |
+| GData | https://www.gdata.de/help/en/general/GeneralInformation/submitFileAppURL, https://www.gdata.de/help/en/general/AllgemeineFragen/DateiURLAppEinsenden |
+| Google | google-at-virustotal@google.com, https://safebrowsing.google.com/safebrowsing/report_error/?hl=en or go through this process, First upload the file to Google Drive (Preferably don't use your main account). Once uploaded, if the file was identified it will be flagged, right-click on the file and select **Open With** -> **Preview**. Google Drive will display '*This file looks suspicious. It is visible only to the owner.*' alert, click **request a review**. On the **Request a review** page, click the **Request file review** button at the bottom of the page. [Demo Video](https://github.com/yaronelh/False-Positive-Center/pull/76#issuecomment-1963005790) |
+| Gridinsoft | virus@gridinsoft.com, antimalware@gridinsoft.com, https://gridinsoft.com/incorrect-detection |
 | Hacksoft | virus@hacksoft.com.pe |
 | Hauri | viruslab@hauri.co.kr |
 | Huorong | seclab@huorong.cn |
@@ -91,11 +91,11 @@ In addition to the information in the table below, VirusTotal also has their own
 | Kaspersky | https://opentip.kaspersky.com/, newvirus@kaspersky.com, or https://support.kaspersky.com/b2c/il#contacts (OS > Application > Malware > False positive > Continue to contact support button > Upload file) |
 | Kingsoft (Cheetah) |  ti@mingting.cn |
 | Lionic (AegisLab) | support@aegislab.com, https://www.lionic.com/reportfp |
-| Malwarebytes | https://support.malwarebytes.com/hc/en-us/articles/360038524154-Report-a-false-positive-to-Malwarebytes-Support or for clients https://support.malwarebytes.com/hc/en-us/requests/new (Issue type > Product help > False-positive). |
+| Malwarebytes | https://forums.malwarebytes.com/forum/122-false-positives/, https://support.malwarebytes.com/hc/en-us/articles/360038524154-Report-a-false-positive-to-Malwarebytes-Support or for clients https://support.malwarebytes.com/hc/en-us/requests/new (Issue type > Product help > False-positive). |
 | Malwares.com (Saint Security) | kog@stsc.com |
 | MAX (SaintSecurity) | root@malwares.com |
 | MaxSecure | tech@maxpcsecure.com |
-| McAfee | [https://www.mcafee.com/support/s/article/000001921](https://www.mcafee.com/support/s/article/000001921), virus_research@avertlabs.com instructions for email submissions [here](https://www.mcafee.com/support/s/article/000001662?language=en_US#:~:text=How%20to%20send%20sample%20files%20to%20McAfee)| 
+| McAfee | [https://www.mcafee.com/support/s/article/000001921](https://www.mcafee.com/support/s/article/000001921), virus_research@mcafee.com, virus_research@avertlabs.com instructions for email submissions [here](https://www.mcafee.com/support/s/article/000001662?language=en_US#:~:text=How%20to%20send%20sample%20files%20to%20McAfee)| 
 | McAfee-GW-Edition | datasubmission@mcafee.com |
 | Microsoft Windows Defender | https://www.microsoft.com/en-us/wdsi/filesubmission |
 | NANO-Antivirus | https://www.nanoav.ru/index.php?option=com_content&view=article&id=15&Itemid=83&lang=en, false@nanoav.ru |
@@ -115,7 +115,7 @@ In addition to the information in the table below, VirusTotal also has their own
 | SecureAge APEX | https://www.secureage.com/support/report-false-positive |
 | SentinelOne (Static ML) | report@sentinelone.com |
 | Skyhigh (SWG) | Use the [Avira Process](https://success.skyhighsecurity.com/Skyhigh_Secure_Web_Gateway_%28On_Prem%29/Anti-malware_Filtering/How_to_submit_false_positive%2F%2Fnegative_samples_for_review), or email virus_research_gateway@avertlabs.com |
-| Sophos | https://support.sophos.com/support/s/filesubmission, for email submission/other options [see this article](https://support.home.sophos.com/hc/en-us/articles/360041664851-How-to-review-and-submit-samples-of-suspicious-files-or-false-positives-to-Sophos?section=Additional%20file%20submission%20options)  | 
+| Sophos | samples@sophos.com, https://support.sophos.com/support/s/filesubmission, for email submission/other options [see this article](https://support.home.sophos.com/hc/en-us/articles/360041664851-How-to-review-and-submit-samples-of-suspicious-files-or-false-positives-to-Sophos?section=Additional%20file%20submission%20options)  | 
 | Spamhaus | https://www.spamhaus.org/dbl/removal/form/ |
 | Symantec (Broadcom) | https://symsubmit.symantec.com/, false.positives@broadcom.com |
 | Systweak | http://support.systweak.com/kayako/index.php?/Tickets/Submit |
@@ -126,8 +126,8 @@ In addition to the information in the table below, VirusTotal also has their own
 | Trellix (FireEye) | https://kcm.trellix.com/corporate/index?page=content&id=KB85567 |
 | TrendMicro | https://www.trendmicro.com/en_us/about/legal/detection-reevaluation.html, virus_doctor@trendmicro.com, https://helpcenter.trendmicro.com/en-us/srf/ |
 | Trustlook | bd@trustlook.com |
-| Trustwave | ADavidi@trustwave.com |
-| Varist | SampleFP@avsubmit.com , support@varist.com |
+| Trustwave | ADavidi@trustwave.com, https://support.trustwave.com/virustotal-detection-review/ |
+| Varist | SampleFP@avsubmit.com , support@varist.com, virus@avsubmit.com, virustotal@viritpro.com,  |
 | VBA32 | feedback@anti-virus.by, support-en@anti-virus.by |
 | VIPRE | https://helpdesk.vipre.com/hc/en-us/requests/new |
 | VirusDie | partners@virusdie.com |
@@ -137,6 +137,7 @@ In addition to the information in the table below, VirusTotal also has their own
 | Xcitium (Comodo) | https://www.comodo.com/home/internet-security/submit.php, malwaresubmit@avlab.comodo.com, security@xcitium.com, support@xcitium.com, https://forum.xcitium.com/ |
 | XVirus | samples@xvirus.net, https://xvirus.net/submit |
 | Yandex | yandex-antivir@support.yandex.ru |
+| Yandex Safebrowsing | sbapi@support.yandex.ru |
 | Yomi | yomi-false-positives@yoroi.company |
 | Zillya | virus@zillya.com , https://zillya.com/support, help@zillya.com |
 | ZoneAlarm by Check Point | zonealarm_VT_reports@checkpoint.com |
