@@ -137,7 +137,6 @@ In addition to the information in the table below, VirusTotal also has their own
 | Xcitium (Comodo) | https://www.comodo.com/home/internet-security/submit.php, malwaresubmit@avlab.comodo.com, security@xcitium.com, support@xcitium.com, https://forum.xcitium.com/ |
 | XVirus | samples@xvirus.net, https://xvirus.net/submit |
 | Yandex | yandex-antivir@support.yandex.ru |
-| Yandex Safebrowsing | sbapi@support.yandex.ru |
 | Yomi | yomi-false-positives@yoroi.company |
 | Zillya | virus@zillya.com , https://zillya.com/support, help@zillya.com |
 | ZoneAlarm by Check Point | zonealarm_VT_reports@checkpoint.com |
