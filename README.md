@@ -40,7 +40,7 @@ In addition to the information in the table below, VirusTotal also has their own
 | Agnitum | trojans@agnitum.com |
 | AhnLab-V3 | v3sos@ahnlab.com (recommended), e-support@ahnlab.com, samples@ahnlab.com | 
 | AlphaMountain ai | https://www.alphamountain.ai/contact/ or support@alphamountain.freshdesk.com |
-| Alibaba | virustotal@list.alibaba-inc.com |
+| Alibaba | antivirus@alibabacloud.com ([discussion](https://github.com/yaronelh/False-Positive-Center/issues/104)), virustotal@list.alibaba-inc.com |
 | ALYac (ESTsecurity) | esrc@estsecurity.com |
 | Antiy-AVL | support@antiy.cn, avlsdk_support@antiy.cn |
 | Arcabit | vt.fp@arcabit.pl or virus@arcabit.com |
