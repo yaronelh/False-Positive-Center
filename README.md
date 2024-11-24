@@ -30,7 +30,7 @@ Quote from [this VirusTotal Q&A](https://docs.virustotal.com/docs/antivirus-stat
 
 #### Antivirus Contact Info For False Positives
 
-In addition to the information in the table below, VirusTotal also has their own listing of contact information for antivirus companies. You can find it [here](https://docs.virustotal.com/docs/false-positive-contacts).
+In addition to the information in the table below, VirusTotal also has its own listing of contact information for antivirus companies. You can find it [here](https://docs.virustotal.com/docs/false-positive-contacts). You can directly contact VirusTotal to report false positives by choosing false positives in this [contact form](https://www.virustotal.com/gui/contact-us/technical-support); however, note that you may be directed to contact the security vendor directly first.
 
 | ENGINE | Contact | 
 | :--- | :--- | 
