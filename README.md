@@ -62,7 +62,7 @@ In addition to the information in the table below, VirusTotal also has their own
 | Cybereason | vt-feedback@cybereason.com |
 | Cylance | cylancefilesubmit@cylance.com, cylancefilesubmit@blackberry.com, [General instructions for submission](https://support.blackberry.com/pkb/s/article/67337) |
 | Cynet | soc@cynet.com |
-| CyRadar | virustotal@cyradar.com |
+| CyRadar | virustotal@cyradar.com, https://m.me/CyRadarInc (CyRadarInc accepts FP reports through Facebook Messenger as well )|
 | Cyren | support@cyren.com, Instructions: https://www.cyren.com/support/reporting-av-misclassifications | 
 | DeepInstinct  | info@deepinstinct.com |
 | DNS8 | dns8@layer8.pt |
