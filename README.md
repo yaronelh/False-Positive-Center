@@ -132,7 +132,7 @@ In addition to the information in the table below, VirusTotal also has their own
 | VIPRE | https://helpdesk.vipre.com/hc/en-us/requests/new |
 | VirusDie | partners@virusdie.com |
 | VirIT | http://www.tgsoft.it/italy/file_sospetti.asp |
-| Webroot | http://snup.webrootcloudav.com/SkyStoreFileUploader/upload.aspx, https://www.webroot.com/us/en/business/support/vendor-dispute-contact-us |
+| Webroot | https://mysupport.webrootanywhere.com/supportwelcome.aspx, http://snup.webrootcloudav.com/SkyStoreFileUploader/upload.aspx, https://www.webroot.com/us/en/business/support/vendor-dispute-contact-us |
 | Webroot SMD | https://www.brightcloud.com/tools/file-change-request.php |
 | Xcitium (Comodo) | https://www.comodo.com/home/internet-security/submit.php, malwaresubmit@avlab.comodo.com, security@xcitium.com, support@xcitium.com, https://forum.xcitium.com/ |
 | XVirus | samples@xvirus.net, https://xvirus.net/submit |
