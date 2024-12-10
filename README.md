@@ -93,7 +93,7 @@ In addition to the information in the table below, VirusTotal also has its own l
 | Lionic (AegisLab) | support@aegislab.com, https://www.lionic.com/reportfp |
 | Malwarebytes | https://forums.malwarebytes.com/forum/122-false-positives/, https://support.malwarebytes.com/hc/en-us/articles/360038524154-Report-a-false-positive-to-Malwarebytes-Support or for clients https://support.malwarebytes.com/hc/en-us/requests/new (Issue type > Product help > False-positive). |
 | Malwares.com (Saint Security) | kog@stsc.com |
-| MAX (SaintSecurity) | root@malwares.com |
+| CTX (SaintSecurity) | root@malwares.com |
 | MaxSecure | tech@maxpcsecure.com |
 | McAfee | [https://www.mcafee.com/support/s/article/000001921](https://www.mcafee.com/support/s/article/000001921), virus_research@mcafee.com, virus_research@avertlabs.com instructions for email submissions [here](https://www.mcafee.com/support/s/article/000001662?language=en_US#:~:text=How%20to%20send%20sample%20files%20to%20McAfee)| 
 | McAfee-GW-Edition | datasubmission@mcafee.com |
