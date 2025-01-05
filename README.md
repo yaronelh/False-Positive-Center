@@ -102,7 +102,7 @@ In addition to the information in the table below, VirusTotal also has its own l
 | Netcraft | https://report.netcraft.com/report/mistake |
 | Norton | https://submit.norton.com |
 | nProtect (Inca) | virus_info@inca.co.kr |
-| Palo Alto | https://live.paloaltonetworks.com/t5/virustotal/bd-p/VirusTotal_Discussions, vt-pan-false-positive@paloaltonetworks.com |
+| Palo Alto Networks | https://live.paloaltonetworks.com/t5/virustotal/bd-p/VirusTotal_Discussions, vt-pan-false-positive@paloaltonetworks.com |
 | Panda | falsepositives@pandasecurity.com, virussamples@pandasecurity.com |
 | Phising Database | https://github.com/mitchellkrogza/Phishing.Database#please-remove-my-domain-from-this-list- |
 | Qihoo-360 | support@360safe.com, https://www.360totalsecurity.com/en/suspicion/false-positive/ | 
