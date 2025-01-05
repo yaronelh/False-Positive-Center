@@ -64,7 +64,7 @@ In addition to the information in the table below, VirusTotal also has its own l
 | Cynet | soc@cynet.com |
 | CyRadar | virustotal@cyradar.com, https://m.me/CyRadarInc (CyRadarInc accepts FP reports through Facebook Messenger as well )|
 | Cyren | support@cyren.com, Instructions: https://www.cyren.com/support/reporting-av-misclassifications | 
-| DeepInstinct  | info@deepinstinct.com |
+| Deep Instinct  | vt-fps-requests@deepinstinct.com |
 | DNS8 | dns8@layer8.pt |
 | DrWeb | https://vms.drweb.com/sendvirus/, vms@drweb.com |
 | eGambit (TEHTRIS) | https://tehtris.com/en/false-positives-false-negatives/|
