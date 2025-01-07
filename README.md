@@ -1,9 +1,16 @@
 # False Positive Center
+
 Repository to help security vendors deal with false positives, improving their detection engine, and centralize information for software developers making it easier to submit false positives to AV companies.
 
 The repository lists the emails, and websites security vendors (antivirus companies) used to receive false positive reports. it's an effort to facilitate communication between software developers and security vendors.
 
 [AV companies are not responsive? Look at the bottom for additional details.](#av-companies-are-not-responsive)
+
+### Architecture and False Positives 
+> [!IMPORTANT]
+> **32-bit applications**, even if signed properly, have the potential to produce significantly more false positives, **particularly among smaller, lesser-known antivirus solutions and vendors.**
+If you must have a 32-bit version of your software, it is advisable to separate it from the 64-bit version into two architectures, especially if false positives are a persistent concern.
+
 
 
 ### Please use pull requests to:
