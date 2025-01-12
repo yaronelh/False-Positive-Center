@@ -1,4 +1,5 @@
 # False Positive Center
+(Written by Yaron Elharar & the effort of countless contributors over the years)
 
 Repository to help security vendors deal with false positives, improving their detection engine, and centralize information for software developers making it easier to submit false positives to AV companies.
 
@@ -184,7 +185,7 @@ If you did find an error in your configuration, consider resending the emails yo
 Ana Tinoco from VirusTotal support, and the VirusTotal support team for making the initial contact information list. The hope of creating better communication between software developers and security vendors.
 
 #### Final notes
-While I tried to maintain the accuracy of the information here to the best of my ability, it may be that you encounter inaccuracies as things naturally change over time. If you do find any inaccuracies I encourage you to use a pull request, report an issue, or sending me a message.
+While I tried to maintain the accuracy of the information here to the best of my ability, it may be that you encounter inaccuracies as things naturally change over time. If you do find any inaccuracies I encourage you to use a pull request, report an issue, or contacting me on X.
 
 #### Other important resources
 
