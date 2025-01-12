@@ -131,7 +131,7 @@ In addition to the information in the table below, VirusTotal also has its own l
 | Tencent | TAVfp@tencent.com |
 | TheHacker | virus@hacksoft.com.pe, falsopositivo@hacksoft.com.pe |
 | Trapmine | fp@trapmine.com (Concluding operations December 31) |
-| Trellix (FireEye) | https://kcm.trellix.com/corporate/index?page=content&id=KB85567, virus@trendmicro.com, virus_doctor@trendmicro.com |
+| Trellix (FireEye) | datasubmission@trellix.com, or malware_research_gateway@trellixsecurity.com, attach the false positive sample, then enter Possible False as the subject |
 | TrendMicro | https://www.trendmicro.com/en_us/about/legal/detection-reevaluation.html, virus_doctor@trendmicro.com, https://helpcenter.trendmicro.com/en-us/srf/ |
 | Trustlook | bd@trustlook.com |
 | Trustwave | ADavidi@trustwave.com, https://support.trustwave.com/virustotal-detection-review/ |
