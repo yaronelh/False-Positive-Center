@@ -47,7 +47,7 @@ In addition to the information in the table below, VirusTotal also has its own l
 | Ad-Aware (Lavasoft) | https://www.adaware.com/report-false-positives, malware.labs@adaware.com |
 | Agnitum | trojans@agnitum.com |
 | AhnLab-V3 | v3sos@ahnlab.com (recommended), e-support@ahnlab.com, samples@ahnlab.com | 
-| AlphaMountain ai | https://www.alphamountain.ai/contact/ or support@alphamountain.freshdesk.com |
+| alphaMountain.ai | https://alphamountain.freshdesk.com/support/tickets/new or support@alphamountain.freshdesk.com |
 | AliCloud | antivirus@alibabacloud.com ([discussion](https://github.com/yaronelh/False-Positive-Center/issues/104)) |
 | Alibaba | virustotal@list.alibaba-inc.com |
 | ALYac (ESTsecurity) | esrc@estsecurity.com |
