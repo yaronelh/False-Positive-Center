@@ -75,7 +75,7 @@ In addition to the information in the table below, VirusTotal also has its own l
 | Cyren | support@cyren.com, Instructions: https://www.cyren.com/support/reporting-av-misclassifications | 
 | Deep Instinct  | vt-fps-requests@deepinstinct.com |
 | DNS8 | dns8@layer8.pt |
-| DrWeb | https://vms.drweb.com/sendvirus/, vms@drweb.com |
+| Dr.Web | https://vms.drweb.com/sendvirus/, vms@drweb.com |
 | eGambit (TEHTRIS) | https://tehtris.com/en/false-positives-false-negatives/|
 | Elastic | https://docs.google.com/forms/d/e/1FAIpQLSd2WQ-o7Y31Hf1PKvdxxd1iMNSxkoBth1cVDJZRuXuAmaD3rg/viewform, https://discuss.elastic.co/t/submitting-false-positives/232322 |
 | Emsisoft | submit@emsisoft.com or fp@emsisoft.com (false positives), https://www.emsisoft.com/en/help/contact/ | 
