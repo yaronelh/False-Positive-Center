@@ -136,6 +136,7 @@ In addition to the information in the table below, VirusTotal also has its own l
 | TrendMicro | https://www.trendmicro.com/en_us/about/legal/detection-reevaluation.html, virus_doctor@trendmicro.com, https://helpcenter.trendmicro.com/en-us/srf/ |
 | Trustlook | bd@trustlook.com |
 | Trustwave | ADavidi@trustwave.com, https://support.trustwave.com/virustotal-detection-review/ |
+| URLHaus | https://urlhaus.abuse.ch/browse/ (find the link, then Actions > Report A False Positive), for other issues: https://www.spamhaus.com/contact-us-abuse-ch/ (Note: known issue with GitHub links: https://github.com/abusech/URLhaus/issues/10) |
 | Varist | SampleFP@avsubmit.com , support@varist.com, virus@avsubmit.com, virustotal@viritpro.com,  |
 | VBA32 | feedback@anti-virus.by, support-en@anti-virus.by |
 | VIPRE | https://helpdesk.vipre.com/hc/en-us/requests/new |
