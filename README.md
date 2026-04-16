@@ -45,6 +45,7 @@ In addition to the information in the table below, VirusTotal also has its own l
 | 360 | kefu@360.cn, https://open.soft.360.cn/report.php, http://sampleup.sd.360.cn/ |
 | Acronis | virustotal-falsepositive@acronis.com |
 | Ad-Aware (Lavasoft) | https://www.adaware.com/report-false-positives, malware.labs@adaware.com |
+| ADMINUSLabs | samples@adminus.net |
 | Agnitum | trojans@agnitum.com |
 | AhnLab-V3 | v3sos@ahnlab.com (recommended), e-support@ahnlab.com, samples@ahnlab.com | 
 | alphaMountain.ai | https://alphamountain.freshdesk.com/support/tickets/new or support@alphamountain.freshdesk.com |
@@ -62,6 +63,7 @@ In addition to the information in the table below, VirusTotal also has its own l
 | Bkav Pro | fpreport@bkav.com, bkav@bkav.com |
 | ByteHero | bytehero@163.com |
 | Certego | https://www.certego.net/en/contatti/, fp@certego.net |
+| Chong Lua Dao | https://chongluadao.vn/en/report/reportmistake |
 | ClamAV | https://www.clamav.net/reports/fp |
 | Clean-MX | abuse@clean-mx.de |
 | CMC | PSIRT@cmccybersecurity.com, vulambang@cmcinfosec.com, support.is@cmclab.net |
@@ -124,6 +126,7 @@ In addition to the information in the table below, VirusTotal also has its own l
 | SecureAge APEX | https://www.secureage.com/support/report-false-positive |
 | SentinelOne (Static ML) | report@sentinelone.com |
 | Skyhigh (SWG) | Use the [Avira Process](https://success.skyhighsecurity.com/Skyhigh_Secure_Web_Gateway_%28On_Prem%29/Anti-malware_Filtering/How_to_submit_false_positive%2F%2Fnegative_samples_for_review), or email virus_research_gateway@avertlabs.com |
+| SOCRadar | Does not provide a dedicated form or specific email. contact@socradar.io |
 | Sophos | samples@sophos.com, https://support.sophos.com/support/s/filesubmission, for email submission/other options [see this article](https://support.home.sophos.com/hc/en-us/articles/360041664851-How-to-review-and-submit-samples-of-suspicious-files-or-false-positives-to-Sophos?section=Additional%20file%20submission%20options)  | 
 | Spamhaus | https://www.spamhaus.org/dbl/removal/form/ |
 | Symantec (Broadcom) | https://symsubmit.symantec.com/, false.positives@broadcom.com |
