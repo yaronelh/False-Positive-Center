@@ -126,7 +126,7 @@ In addition to the information in the table below, VirusTotal also has its own l
 | SecureAge APEX | https://www.secureage.com/support/report-false-positive |
 | SentinelOne (Static ML) | report@sentinelone.com |
 | Skyhigh (SWG) | Use the [Avira Process](https://success.skyhighsecurity.com/Skyhigh_Secure_Web_Gateway_%28On_Prem%29/Anti-malware_Filtering/How_to_submit_false_positive%2F%2Fnegative_samples_for_review), or email virus_research_gateway@avertlabs.com |
-| SOCRadar | Does not provide a dedicated form or specific email. contact@socradar.io |
+| SOCRadar | For false positive relating to virus total vt@socradar.io, additional contact info contact@socradar.io |
 | Sophos | samples@sophos.com, https://support.sophos.com/support/s/filesubmission, for email submission/other options [see this article](https://support.home.sophos.com/hc/en-us/articles/360041664851-How-to-review-and-submit-samples-of-suspicious-files-or-false-positives-to-Sophos?section=Additional%20file%20submission%20options)  | 
 | Spamhaus | https://www.spamhaus.org/dbl/removal/form/ |
 | Symantec (Broadcom) | https://symsubmit.symantec.com/, false.positives@broadcom.com |
