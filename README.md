@@ -54,6 +54,7 @@ In addition to the information in the table below, VirusTotal also has its own l
 | ALYac (ESTsecurity) | esrc@estsecurity.com |
 | Antiy-AVL | support@antiy.cn, avlsdk_support@antiy.cn |
 | Arcabit | vt.fp@arcabit.pl or virus@arcabit.com |
+| Arctic Wolf (ex. Cylance) | virustotal@arcticwolf.com, cylancefilesubmit@blackberry.com, [General instructions for submission](https://support.blackberry.com/pkb/s/article/67337) |
 | Avast | https://www.avast.com/report-false-positive, DL-Virus@gendigital.com |
 | Avira (no cloud) | https://www.avira.com/en/analysis/submit, novirus@avira.com |
 | AVG | https://www.avg.com/false-positive-file-form, https://www.avg.com/us-en/whitelist, http://www.avg.com/submit-sample |
@@ -71,7 +72,6 @@ In addition to the information in the table below, VirusTotal also has its own l
 | CrowdStrike Falcon | VTscanner@crowdstrike.com |
 | CyanSecurity | virustotal@cyansecurity.com |
 | Cybereason | vt-feedback@cybereason.com |
-| Cylance | cylancefilesubmit@blackberry.com, [General instructions for submission](https://support.blackberry.com/pkb/s/article/67337) |
 | Cynet | soc@cynet.com |
 | CyRadar | virustotal@cyradar.com, https://m.me/CyRadarInc (CyRadarInc accepts FP reports through Facebook Messenger as well )|
 | Cyren | support@cyren.com, Instructions: https://www.cyren.com/support/reporting-av-misclassifications | 
