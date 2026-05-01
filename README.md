@@ -53,7 +53,7 @@ In addition to the information in the table below, VirusTotal also has its own l
 | Alibaba | virustotal@list.alibaba-inc.com |
 | ALYac (ESTsecurity) | esrc@estsecurity.com |
 | Antiy-AVL | support@antiy.cn, avlsdk_support@antiy.cn |
-| Arcabit | vt.fp@arcabit.pl or virus@arcabit.com |
+| Arcabit | vt.fp@arcabit.pl |
 | Avast | https://www.avast.com/report-false-positive, DL-Virus@gendigital.com |
 | Avira (no cloud) | https://www.avira.com/en/analysis/submit, novirus@avira.com |
 | AVG | https://www.avg.com/false-positive-file-form, https://www.avg.com/us-en/whitelist, http://www.avg.com/submit-sample |
