@@ -101,7 +101,7 @@ In addition to the information in the table below, VirusTotal also has its own l
 | K7 (K7GW) | reportfp@labs.k7computing.com, k7viruslab@labs.k7computing.com, support@k7computing.com, https://support.k7computing.com/index.php?/ticket/submit-ticket |
 | Kaspersky | https://opentip.kaspersky.com/, newvirus@kaspersky.com, or https://support.kaspersky.com/b2c/il#contacts (OS > Application > Malware > False positive > Continue to contact support button > Upload file) |
 | Kingsoft (Cheetah) |  ti@mingting.cn |
-| Lionic (AegisLab) | support@aegislab.com, https://www.lionic.com/reportfp |
+| Lionic (AegisLab) | https://www.lionic.com/supports/report-false-positive/, support@lionic.com, support@aegislab.com |
 | Malwarebytes | https://forums.malwarebytes.com/forum/122-false-positives/, https://support.malwarebytes.com/hc/en-us/articles/360038524154-Report-a-false-positive-to-Malwarebytes-Support or for clients https://support.malwarebytes.com/hc/en-us/requests/new (Issue type > Product help > False-positive). |
 | Malwares.com (Saint Security) | kog@stsc.com |
 | CTX (SaintSecurity) | root@malwares.com |
