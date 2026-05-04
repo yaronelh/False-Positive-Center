@@ -62,7 +62,7 @@ In addition to the information in the table below, VirusTotal also has its own l
 | BitDefender | https://www.bitdefender.com/consumer/support/answer/40673/, virus_submission@bitdefender.com, oemsamples@bitdefender.com| 
 | Bkav Pro | fpreport@bkav.com, bkav@bkav.com |
 | ByteHero | bytehero@163.com |
-| Certego | https://www.certego.net/en/contatti/, fp@certego.net |
+| Certego | https://www.certego.net/company/contact-us/, fp@certego.net |
 | Chong Lua Dao | https://chongluadao.vn/en/report/reportmistake |
 | ClamAV | https://www.clamav.net/reports/fp |
 | Clean-MX | abuse@clean-mx.de |
