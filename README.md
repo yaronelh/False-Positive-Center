@@ -66,7 +66,7 @@ In addition to the information in the table below, VirusTotal also has its own l
 | Chong Lua Dao | https://chongluadao.vn/en/report/reportmistake |
 | ClamAV | https://www.clamav.net/reports/fp |
 | Clean-MX | abuse@clean-mx.de |
-| CMC | PSIRT@cmccybersecurity.com, vulambang@cmcinfosec.com, support.is@cmclab.net |
+| CMC | support@cmccybersecurity.com, PSIRT@cmccybersecurity.com |
 | CRDF Labs | https://threatcenter.crdf.fr/false_positive.html |
 | CrowdStrike Falcon | VTscanner@crowdstrike.com |
 | CyanSecurity | virustotal@cyansecurity.com |
